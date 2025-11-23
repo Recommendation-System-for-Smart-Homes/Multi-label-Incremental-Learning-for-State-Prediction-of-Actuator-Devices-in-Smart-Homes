@@ -1,0 +1,2354 @@
+nome_modelo,index_cenario,dia_dados,dia_experimento,tempoMedioInferencia,deviceMacroF1PerDevice,mediaMicro,matrizConfisao
+HoeffdingTreeClassifier,0,20,1,0.0,{},0.0,
+HoeffdingTreeClassifier,0,21,2,0.13374445454545456,"{'dispe3d457f8ccadfa505c7579f0d2a7f630': MacroF1: 67.58%, 'dispf34127e9d687887832c76c7fed087a61': MacroF1: 49.05%, 'disp4af167c9d4df8acd2894e2f77c7aec28': MacroF1: 34.19%}",0.528157894736842,"dispe3d457f8ccadfa505c7579f0d2a7f630
+          2.0   5.0  
+    2.0     9     1  
+    5.0     6     6  
+
+dispf34127e9d687887832c76c7fed087a61
+          1.0   4.0  
+    1.0     4     2  
+    4.0     9     7  
+
+disp4af167c9d4df8acd2894e2f77c7aec28
+          2.0   5.0  
+    2.0     3     0  
+    5.0     7     1  "
+HoeffdingTreeClassifier,0,22,3,0.16591623880597015,"{'dispe3d457f8ccadfa505c7579f0d2a7f630': MacroF1: 69.55%, 'dispf34127e9d687887832c76c7fed087a61': MacroF1: 60.62%, 'disp4af167c9d4df8acd2894e2f77c7aec28': MacroF1: 63.58%}",0.6647986057869778,"dispe3d457f8ccadfa505c7579f0d2a7f630
+          2.0   5.0  
+    2.0    36     8  
+    5.0    10    13  
+
+dispf34127e9d687887832c76c7fed087a61
+          1.0   4.0  
+    1.0    10     3  
+    4.0    20    34  
+
+disp4af167c9d4df8acd2894e2f77c7aec28
+          2.0   5.0  
+    2.0     7     1  
+    5.0    15    33  "
+HoeffdingTreeClassifier,0,23,4,0.17358786991869918,"{'dispe3d457f8ccadfa505c7579f0d2a7f630': MacroF1: 75.61%, 'dispf34127e9d687887832c76c7fed087a61': MacroF1: 60.58%, 'disp4af167c9d4df8acd2894e2f77c7aec28': MacroF1: 71.68%}",0.7049253577363624,"dispe3d457f8ccadfa505c7579f0d2a7f630
+          2.0   5.0  
+    2.0    77    10  
+    5.0    14    22  
+
+dispf34127e9d687887832c76c7fed087a61
+          1.0   4.0  
+    1.0    18     6  
+    4.0    36    63  
+
+disp4af167c9d4df8acd2894e2f77c7aec28
+          2.0   5.0  
+    2.0    14     3  
+    5.0    19    76  "
+HoeffdingTreeClassifier,0,24,5,0.1949259215686274,"{'dispe3d457f8ccadfa505c7579f0d2a7f630': MacroF1: 75.43%, 'dispf34127e9d687887832c76c7fed087a61': MacroF1: 60.84%, 'disp4af167c9d4df8acd2894e2f77c7aec28': MacroF1: 69.06%}",0.6954219744779917,"dispe3d457f8ccadfa505c7579f0d2a7f630
+          2.0   5.0  
+    2.0    90    16  
+    5.0    16    31  
+
+dispf34127e9d687887832c76c7fed087a61
+          1.0   4.0  
+    1.0    24     7  
+    4.0    46    76  
+
+disp4af167c9d4df8acd2894e2f77c7aec28
+          2.0   5.0  
+    2.0    18     5  
+    5.0    27    92  "
+HoeffdingTreeClassifier,0,25,6,0.2091423428571428,"{'dispe3d457f8ccadfa505c7579f0d2a7f630': MacroF1: 76.04%, 'dispf34127e9d687887832c76c7fed087a61': MacroF1: 62.25%, 'disp4af167c9d4df8acd2894e2f77c7aec28': MacroF1: 68.60%}",0.7014183867613548,"dispe3d457f8ccadfa505c7579f0d2a7f630
+          2.0   5.0  
+    2.0    99    19  
+    5.0    18    39  
+
+dispf34127e9d687887832c76c7fed087a61
+          1.0   4.0  
+    1.0    31     8  
+    4.0    52    84  
+
+disp4af167c9d4df8acd2894e2f77c7aec28
+          2.0   5.0  
+    2.0    20     5  
+    5.0    32   107  "
+HoeffdingTreeClassifier,0,26,7,0.22048649773755655,"{'dispe3d457f8ccadfa505c7579f0d2a7f630': MacroF1: 78.40%, 'dispf34127e9d687887832c76c7fed087a61': MacroF1: 62.91%, 'disp4af167c9d4df8acd2894e2f77c7aec28': MacroF1: 70.72%}",0.7222044203084181,"dispe3d457f8ccadfa505c7579f0d2a7f630
+          2.0   5.0  
+    2.0   135    20  
+    5.0    20    46  
+
+dispf34127e9d687887832c76c7fed087a61
+          1.0   4.0  
+    1.0    50     8  
+    4.0    71    92  
+
+disp4af167c9d4df8acd2894e2f77c7aec28
+          2.0   5.0  
+    2.0    22     6  
+    5.0    33   149  "
+HoeffdingTreeClassifier,0,27,8,0.2320182874493927,"{'dispe3d457f8ccadfa505c7579f0d2a7f630': MacroF1: 79.34%, 'dispf34127e9d687887832c76c7fed087a61': MacroF1: 63.36%, 'disp4af167c9d4df8acd2894e2f77c7aec28': MacroF1: 71.61%}",0.7289542136215368,"dispe3d457f8ccadfa505c7579f0d2a7f630
+          2.0   5.0  
+    2.0   151    22  
+    5.0    21    53  
+
+dispf34127e9d687887832c76c7fed087a61
+          1.0   4.0  
+    1.0    59     8  
+    4.0    80   100  
+
+disp4af167c9d4df8acd2894e2f77c7aec28
+          2.0   5.0  
+    2.0    24     6  
+    5.0    35   171  "
+HoeffdingTreeClassifier,0,28,9,0.23494112962962965,"{'dispe3d457f8ccadfa505c7579f0d2a7f630': MacroF1: 80.13%, 'dispf34127e9d687887832c76c7fed087a61': MacroF1: 63.31%, 'disp4af167c9d4df8acd2894e2f77c7aec28': MacroF1: 72.72%}",0.7275714461234484,"dispe3d457f8ccadfa505c7579f0d2a7f630
+          2.0   5.0  
+    2.0   159    23  
+    5.0    24    64  
+
+dispf34127e9d687887832c76c7fed087a61
+          1.0   4.0  
+    1.0    67     8  
+    4.0    89   106  
+
+disp4af167c9d4df8acd2894e2f77c7aec28
+          2.0   5.0  
+    2.0    30     8  
+    5.0    38   183  "
+HoeffdingTreeClassifier,0,29,10,0.24318577538461533,"{'dispe3d457f8ccadfa505c7579f0d2a7f630': MacroF1: 80.81%, 'dispf34127e9d687887832c76c7fed087a61': MacroF1: 61.51%, 'disp4af167c9d4df8acd2894e2f77c7aec28': MacroF1: 73.91%}",0.7259955182546112,"dispe3d457f8ccadfa505c7579f0d2a7f630
+          2.0   5.0  
+    2.0   199    27  
+    5.0    26    73  
+
+dispf34127e9d687887832c76c7fed087a61
+          1.0   4.0  
+    1.0    76     8  
+    4.0   114   127  
+
+disp4af167c9d4df8acd2894e2f77c7aec28
+          2.0   5.0  
+    2.0    34     9  
+    5.0    41   230  "
+HoeffdingTreeClassifier,0,30,11,0.247755564102564,"{'dispe3d457f8ccadfa505c7579f0d2a7f630': MacroF1: 80.99%, 'dispf34127e9d687887832c76c7fed087a61': MacroF1: 61.26%, 'disp4af167c9d4df8acd2894e2f77c7aec28': MacroF1: 74.65%}",0.7256942178658263,"dispe3d457f8ccadfa505c7579f0d2a7f630
+          2.0   5.0  
+    2.0   214    29  
+    5.0    28    80  
+
+dispf34127e9d687887832c76c7fed087a61
+          1.0   4.0  
+    1.0    83     8  
+    4.0   125   135  
+
+disp4af167c9d4df8acd2894e2f77c7aec28
+          2.0   5.0  
+    2.0    38    10  
+    5.0    43   249  "
+HoeffdingTreeClassifier,0,1,12,0.2554135475578405,"{'dispe3d457f8ccadfa505c7579f0d2a7f630': MacroF1: 81.66%, 'dispf34127e9d687887832c76c7fed087a61': MacroF1: 60.47%, 'disp4af167c9d4df8acd2894e2f77c7aec28': MacroF1: 74.59%}",0.7250951179540096,"dispe3d457f8ccadfa505c7579f0d2a7f630
+          2.0   5.0  
+    2.0   242    30  
+    5.0    30    87  
+
+dispf34127e9d687887832c76c7fed087a61
+          1.0   4.0  
+    1.0    89    13  
+    4.0   137   150  
+
+disp4af167c9d4df8acd2894e2f77c7aec28
+          2.0   5.0  
+    2.0    40    12  
+    5.0    45   281  "
+HoeffdingTreeClassifier,0,2,13,0.2593517174447173,"{'dispe3d457f8ccadfa505c7579f0d2a7f630': MacroF1: 80.14%, 'dispf34127e9d687887832c76c7fed087a61': MacroF1: 60.45%, 'disp4af167c9d4df8acd2894e2f77c7aec28': MacroF1: 72.33%}",0.7139779037816278,"dispe3d457f8ccadfa505c7579f0d2a7f630
+          2.0   5.0  
+    2.0   243    35  
+    5.0    35    94  
+
+dispf34127e9d687887832c76c7fed087a61
+          1.0   4.0  
+    1.0    93    15  
+    4.0   142   157  
+
+disp4af167c9d4df8acd2894e2f77c7aec28
+          2.0   5.0  
+    2.0    44    12  
+    5.0    58   282  "
+HoeffdingTreeClassifier,0,3,14,0.2734258962472405,"{'dispe3d457f8ccadfa505c7579f0d2a7f630': MacroF1: 77.77%, 'dispf34127e9d687887832c76c7fed087a61': MacroF1: 58.69%, 'disp4af167c9d4df8acd2894e2f77c7aec28': MacroF1: 69.75%}",0.6949414889882007,"dispe3d457f8ccadfa505c7579f0d2a7f630
+          2.0   5.0  
+    2.0   263    52  
+    5.0    36   102  
+
+dispf34127e9d687887832c76c7fed087a61
+          1.0   4.0  
+    1.0    95    28  
+    4.0   153   177  
+
+disp4af167c9d4df8acd2894e2f77c7aec28
+          2.0   5.0  
+    2.0    46    13  
+    5.0    73   310  "
+HoeffdingTreeClassifier,1,20,1,0.0,{},0.0,
+HoeffdingTreeClassifier,1,21,2,1.4022505939086307,"{'disp12d66aea27fe15ee30653de92d4c5fa1': MacroF1: 59.22%, 'disp18a2fbd7bb103309ff355641581b0265': MacroF1: 49.74%, 'disp05f72682660e0d7279afe7dd279cf222': MacroF1: 56.78%, 'dispc39d4b98d36b7a7a1f8b5d008435a943': MacroF1: 72.04%, 'disp2bec1140d082890e59f56d23be53a13c': MacroF1: 72.77%, 'disp8d704d5b59a836e2d12bd0f513bb5c24': MacroF1: 56.62%, 'dispcc73a6cd1c147e6590b75f33832050e0': MacroF1: 49.46%, 'disp98165e17b547d7ee020db66abe427d35': MacroF1: 91.53%, 'dispb5270dcf23f163d3a80ae25bb595caad': MacroF1: 79.73%}",0.683788848637002,"disp12d66aea27fe15ee30653de92d4c5fa1
+          1.0   2.0  
+    1.0    14     3  
+    2.0    49   131  
+
+disp18a2fbd7bb103309ff355641581b0265
+          1.0   2.0  
+    1.0    48    20  
+    2.0    79    50  
+
+disp05f72682660e0d7279afe7dd279cf222
+          4.0   5.0  
+    4.0    55     9  
+    5.0    70    49  
+
+dispc39d4b98d36b7a7a1f8b5d008435a943
+          4.0   5.0  
+    4.0    42    32  
+    5.0    14    89  
+
+disp2bec1140d082890e59f56d23be53a13c
+          4.0   5.0  
+    4.0    32    29  
+    5.0    10    98  
+
+disp8d704d5b59a836e2d12bd0f513bb5c24
+          1.0   2.0  
+    1.0    41    20  
+    2.0    52    54  
+
+dispcc73a6cd1c147e6590b75f33832050e0
+          4.0   5.0  
+    4.0    24    13  
+    5.0    62    56  
+
+disp98165e17b547d7ee020db66abe427d35
+          4.0   5.0  
+    4.0    11     0  
+    5.0     4   127  
+
+dispb5270dcf23f163d3a80ae25bb595caad
+          6.0   7.0  
+    6.0     5     0  
+    7.0     6    96  "
+HoeffdingTreeClassifier,1,22,3,1.3753065504587163,"{'disp12d66aea27fe15ee30653de92d4c5fa1': MacroF1: 62.97%, 'disp18a2fbd7bb103309ff355641581b0265': MacroF1: 58.16%, 'disp05f72682660e0d7279afe7dd279cf222': MacroF1: 59.21%, 'dispc39d4b98d36b7a7a1f8b5d008435a943': MacroF1: 72.02%, 'disp2bec1140d082890e59f56d23be53a13c': MacroF1: 70.32%, 'disp8d704d5b59a836e2d12bd0f513bb5c24': MacroF1: 62.33%, 'dispcc73a6cd1c147e6590b75f33832050e0': MacroF1: 56.65%, 'disp98165e17b547d7ee020db66abe427d35': MacroF1: 91.92%, 'dispb5270dcf23f163d3a80ae25bb595caad': MacroF1: 76.90%, 'disp42e0b13c95928df3e153740656d91701': MacroF1: 46.51%}",0.6923201730745282,"disp12d66aea27fe15ee30653de92d4c5fa1
+          1.0   2.0  
+    1.0    14     3  
+    2.0    49   261  
+
+disp18a2fbd7bb103309ff355641581b0265
+          1.0   2.0  
+    1.0    58    49  
+    2.0    79   141  
+
+disp05f72682660e0d7279afe7dd279cf222
+          4.0   5.0  
+    4.0    68    27  
+    5.0    97   121  
+
+dispc39d4b98d36b7a7a1f8b5d008435a943
+          4.0   5.0  
+    4.0    48    53  
+    5.0    14   192  
+
+disp2bec1140d082890e59f56d23be53a13c
+          4.0   5.0  
+    4.0    42    57  
+    5.0    10   190  
+
+disp8d704d5b59a836e2d12bd0f513bb5c24
+          1.0   2.0  
+    1.0    41    41  
+    2.0    52   163  
+
+dispcc73a6cd1c147e6590b75f33832050e0
+          4.0   5.0  
+    4.0    32    30  
+    5.0    72   151  
+
+disp98165e17b547d7ee020db66abe427d35
+          4.0   5.0  
+    4.0    11     0  
+    5.0     4   257  
+
+dispb5270dcf23f163d3a80ae25bb595caad
+          6.0   7.0  
+    6.0     5     0  
+    7.0     8   224  
+
+disp42e0b13c95928df3e153740656d91701
+          4.0   5.0  
+    4.0     0     0  
+    5.0     9    60  "
+HoeffdingTreeClassifier,1,23,4,1.4192781331444768,"{'disp12d66aea27fe15ee30653de92d4c5fa1': MacroF1: 63.04%, 'disp18a2fbd7bb103309ff355641581b0265': MacroF1: 59.27%, 'disp05f72682660e0d7279afe7dd279cf222': MacroF1: 58.80%, 'dispc39d4b98d36b7a7a1f8b5d008435a943': MacroF1: 71.06%, 'disp2bec1140d082890e59f56d23be53a13c': MacroF1: 70.73%, 'disp8d704d5b59a836e2d12bd0f513bb5c24': MacroF1: 63.56%, 'dispcc73a6cd1c147e6590b75f33832050e0': MacroF1: 58.09%, 'disp98165e17b547d7ee020db66abe427d35': MacroF1: 91.96%, 'dispb5270dcf23f163d3a80ae25bb595caad': MacroF1: 76.99%, 'disp42e0b13c95928df3e153740656d91701': MacroF1: 47.51%}",0.6956135628644975,"disp12d66aea27fe15ee30653de92d4c5fa1
+          1.0   2.0  
+    1.0    14     4  
+    2.0    49   286  
+
+disp18a2fbd7bb103309ff355641581b0265
+          1.0   2.0  
+    1.0    60    53  
+    2.0    79   161  
+
+disp05f72682660e0d7279afe7dd279cf222
+          4.0   5.0  
+    4.0    71    31  
+    5.0   104   133  
+
+dispc39d4b98d36b7a7a1f8b5d008435a943
+          4.0   5.0  
+    4.0    48    59  
+    5.0    14   212  
+
+disp2bec1140d082890e59f56d23be53a13c
+          4.0   5.0  
+    4.0    44    60  
+    5.0    10   211  
+
+disp8d704d5b59a836e2d12bd0f513bb5c24
+          1.0   2.0  
+    1.0    41    41  
+    2.0    52   189  
+
+dispcc73a6cd1c147e6590b75f33832050e0
+          4.0   5.0  
+    4.0    32    30  
+    5.0    72   177  
+
+disp98165e17b547d7ee020db66abe427d35
+          4.0   5.0  
+    4.0    11     0  
+    5.0     4   283  
+
+dispb5270dcf23f163d3a80ae25bb595caad
+          6.0   7.0  
+    6.0     5     0  
+    7.0     8   250  
+
+disp42e0b13c95928df3e153740656d91701
+          4.0   5.0  
+    4.0     0     0  
+    5.0     9    86  "
+HoeffdingTreeClassifier,1,24,5,1.5651166724470138,"{'disp12d66aea27fe15ee30653de92d4c5fa1': MacroF1: 71.07%, 'disp18a2fbd7bb103309ff355641581b0265': MacroF1: 58.89%, 'disp05f72682660e0d7279afe7dd279cf222': MacroF1: 59.46%, 'dispc39d4b98d36b7a7a1f8b5d008435a943': MacroF1: 73.09%, 'disp2bec1140d082890e59f56d23be53a13c': MacroF1: 76.49%, 'disp8d704d5b59a836e2d12bd0f513bb5c24': MacroF1: 57.78%, 'dispcc73a6cd1c147e6590b75f33832050e0': MacroF1: 63.17%, 'disp98165e17b547d7ee020db66abe427d35': MacroF1: 79.00%, 'dispb5270dcf23f163d3a80ae25bb595caad': MacroF1: 53.68%, 'disp42e0b13c95928df3e153740656d91701': MacroF1: 39.72%}",0.6131852362629351,"disp12d66aea27fe15ee30653de92d4c5fa1
+          1.0   2.0  
+    1.0    37    21  
+    2.0    52   409  
+
+disp18a2fbd7bb103309ff355641581b0265
+          1.0   2.0  
+    1.0    80   112  
+    2.0    79   248  
+
+disp05f72682660e0d7279afe7dd279cf222
+          4.0   5.0  
+    4.0    88    54  
+    5.0   135   228  
+
+dispc39d4b98d36b7a7a1f8b5d008435a943
+          4.0   5.0  
+    4.0    79    90  
+    5.0    14   316  
+
+disp2bec1140d082890e59f56d23be53a13c
+          4.0   5.0  
+    4.0    64    66  
+    5.0    10   351  
+
+disp8d704d5b59a836e2d12bd0f513bb5c24
+          1.0   2.0  
+    1.0    41    97  
+    2.0    52   299  
+
+dispcc73a6cd1c147e6590b75f33832050e0
+          4.0   5.0  
+    4.0    60    46  
+    5.0    93   278  
+
+disp98165e17b547d7ee020db66abe427d35
+          4.0   5.0  
+    4.0    24     9  
+    5.0    21   410  
+
+dispb5270dcf23f163d3a80ae25bb595caad
+          6.0   7.0  
+    6.0     5     0  
+    7.0    58   366  
+
+disp42e0b13c95928df3e153740656d91701
+          4.0   5.0  
+    4.0     0     6  
+    5.0    83   172  "
+HoeffdingTreeClassifier,1,25,6,1.4543176146131813,"{'disp12d66aea27fe15ee30653de92d4c5fa1': MacroF1: 78.11%, 'disp18a2fbd7bb103309ff355641581b0265': MacroF1: 60.38%, 'disp05f72682660e0d7279afe7dd279cf222': MacroF1: 61.55%, 'dispc39d4b98d36b7a7a1f8b5d008435a943': MacroF1: 74.20%, 'disp2bec1140d082890e59f56d23be53a13c': MacroF1: 76.37%, 'disp8d704d5b59a836e2d12bd0f513bb5c24': MacroF1: 54.84%, 'dispcc73a6cd1c147e6590b75f33832050e0': MacroF1: 65.98%, 'disp98165e17b547d7ee020db66abe427d35': MacroF1: 76.15%, 'dispb5270dcf23f163d3a80ae25bb595caad': MacroF1: 55.61%, 'disp42e0b13c95928df3e153740656d91701': MacroF1: 40.22%}",0.6251949930936022,"disp12d66aea27fe15ee30653de92d4c5fa1
+          1.0   2.0  
+    1.0    74    26  
+    2.0    59   539  
+
+disp18a2fbd7bb103309ff355641581b0265
+          1.0   2.0  
+    1.0    94   154  
+    2.0    79   371  
+
+disp05f72682660e0d7279afe7dd279cf222
+          4.0   5.0  
+    4.0   102    78  
+    5.0   149   355  
+
+dispc39d4b98d36b7a7a1f8b5d008435a943
+          4.0   5.0  
+    4.0   108   120  
+    5.0    14   436  
+
+disp2bec1140d082890e59f56d23be53a13c
+          4.0   5.0  
+    4.0    78    87  
+    5.0    10   495  
+
+disp8d704d5b59a836e2d12bd0f513bb5c24
+          1.0   2.0  
+    1.0    41   150  
+    2.0    52   425  
+
+dispcc73a6cd1c147e6590b75f33832050e0
+          4.0   5.0  
+    4.0    79    62  
+    5.0   104   411  
+
+disp98165e17b547d7ee020db66abe427d35
+          4.0   5.0  
+    4.0    28    17  
+    5.0    27   571  
+
+dispb5270dcf23f163d3a80ae25bb595caad
+          6.0   7.0  
+    6.0     9     7  
+    7.0    73   519  
+
+disp42e0b13c95928df3e153740656d91701
+          4.0   5.0  
+    4.0     0     6  
+    5.0   138   296  "
+HoeffdingTreeClassifier,1,26,7,1.5371405662921354,"{'disp12d66aea27fe15ee30653de92d4c5fa1': MacroF1: 80.31%, 'disp18a2fbd7bb103309ff355641581b0265': MacroF1: 64.62%, 'disp05f72682660e0d7279afe7dd279cf222': MacroF1: 63.23%, 'dispc39d4b98d36b7a7a1f8b5d008435a943': MacroF1: 75.54%, 'disp2bec1140d082890e59f56d23be53a13c': MacroF1: 78.97%, 'disp8d704d5b59a836e2d12bd0f513bb5c24': MacroF1: 52.87%, 'dispcc73a6cd1c147e6590b75f33832050e0': MacroF1: 66.34%, 'disp98165e17b547d7ee020db66abe427d35': MacroF1: 79.46%, 'dispb5270dcf23f163d3a80ae25bb595caad': MacroF1: 61.99%, 'disp42e0b13c95928df3e153740656d91701': MacroF1: 41.10%}",0.657705033261518,"disp12d66aea27fe15ee30653de92d4c5fa1
+          1.0   2.0  
+    1.0    95    30  
+    2.0    64   701  
+
+disp18a2fbd7bb103309ff355641581b0265
+          1.0   2.0  
+    1.0   138   188  
+    2.0    79   485  
+
+disp05f72682660e0d7279afe7dd279cf222
+          4.0   5.0  
+    4.0   128   108  
+    5.0   163   477  
+
+dispc39d4b98d36b7a7a1f8b5d008435a943
+          4.0   5.0  
+    4.0   143   149  
+    5.0    14   564  
+
+disp2bec1140d082890e59f56d23be53a13c
+          4.0   5.0  
+    4.0   122   111  
+    5.0    10   619  
+
+disp8d704d5b59a836e2d12bd0f513bb5c24
+          1.0   2.0  
+    1.0    41   204  
+    2.0    52   563  
+
+dispcc73a6cd1c147e6590b75f33832050e0
+          4.0   5.0  
+    4.0    92    75  
+    5.0   125   556  
+
+disp98165e17b547d7ee020db66abe427d35
+          4.0   5.0  
+    4.0    43    25  
+    5.0    27   740  
+
+dispb5270dcf23f163d3a80ae25bb595caad
+          6.0   7.0  
+    6.0    22    14  
+    7.0    85   679  
+
+disp42e0b13c95928df3e153740656d91701
+          4.0   5.0  
+    4.0     0     6  
+    5.0   185   441  "
+HoeffdingTreeClassifier,1,27,8,1.5293798626528692,"{'disp12d66aea27fe15ee30653de92d4c5fa1': MacroF1: 82.05%, 'disp18a2fbd7bb103309ff355641581b0265': MacroF1: 67.31%, 'disp05f72682660e0d7279afe7dd279cf222': MacroF1: 64.40%, 'dispc39d4b98d36b7a7a1f8b5d008435a943': MacroF1: 75.14%, 'disp2bec1140d082890e59f56d23be53a13c': MacroF1: 80.43%, 'disp8d704d5b59a836e2d12bd0f513bb5c24': MacroF1: 50.64%, 'dispcc73a6cd1c147e6590b75f33832050e0': MacroF1: 66.33%, 'disp98165e17b547d7ee020db66abe427d35': MacroF1: 82.61%, 'dispb5270dcf23f163d3a80ae25bb595caad': MacroF1: 67.70%, 'disp42e0b13c95928df3e153740656d91701': MacroF1: 41.11%}",0.6821799336485145,"disp12d66aea27fe15ee30653de92d4c5fa1
+          1.0   2.0  
+    1.0   121    34  
+    2.0    70   838  
+
+disp18a2fbd7bb103309ff355641581b0265
+          1.0   2.0  
+    1.0   176   215  
+    2.0    79   593  
+
+disp05f72682660e0d7279afe7dd279cf222
+          4.0   5.0  
+    4.0   151   132  
+    5.0   176   590  
+
+dispc39d4b98d36b7a7a1f8b5d008435a943
+          4.0   5.0  
+    4.0   177   189  
+    5.0    14   663  
+
+disp2bec1140d082890e59f56d23be53a13c
+          4.0   5.0  
+    4.0   160   130  
+    5.0    10   735  
+
+disp8d704d5b59a836e2d12bd0f513bb5c24
+          1.0   2.0  
+    1.0    41   267  
+    2.0    52   673  
+
+dispcc73a6cd1c147e6590b75f33832050e0
+          4.0   5.0  
+    4.0   105    88  
+    5.0   146   682  
+
+disp98165e17b547d7ee020db66abe427d35
+          4.0   5.0  
+    4.0    64    32  
+    5.0    27   885  
+
+dispb5270dcf23f163d3a80ae25bb595caad
+          6.0   7.0  
+    6.0    37    19  
+    7.0    86   831  
+
+disp42e0b13c95928df3e153740656d91701
+          4.0   5.0  
+    4.0     0     6  
+    5.0   237   562  "
+HoeffdingTreeClassifier,1,28,9,1.4067503631284917,"{'disp12d66aea27fe15ee30653de92d4c5fa1': MacroF1: 83.20%, 'disp18a2fbd7bb103309ff355641581b0265': MacroF1: 70.09%, 'disp05f72682660e0d7279afe7dd279cf222': MacroF1: 65.43%, 'dispc39d4b98d36b7a7a1f8b5d008435a943': MacroF1: 76.26%, 'disp2bec1140d082890e59f56d23be53a13c': MacroF1: 81.52%, 'disp8d704d5b59a836e2d12bd0f513bb5c24': MacroF1: 48.66%, 'dispcc73a6cd1c147e6590b75f33832050e0': MacroF1: 67.10%, 'disp98165e17b547d7ee020db66abe427d35': MacroF1: 84.04%, 'dispb5270dcf23f163d3a80ae25bb595caad': MacroF1: 70.67%, 'disp42e0b13c95928df3e153740656d91701': MacroF1: 41.61%}",0.6987796204011478,"disp12d66aea27fe15ee30653de92d4c5fa1
+          1.0   2.0    
+    1.0   137      35  
+    2.0    74   1,007  
+
+disp18a2fbd7bb103309ff355641581b0265
+          1.0   2.0  
+    1.0   227   241  
+    2.0    79   706  
+
+disp05f72682660e0d7279afe7dd279cf222
+          4.0   5.0  
+    4.0   182   158  
+    5.0   194   705  
+
+dispc39d4b98d36b7a7a1f8b5d008435a943
+          4.0   5.0  
+    4.0   231   224  
+    5.0    14   764  
+
+disp2bec1140d082890e59f56d23be53a13c
+          4.0   5.0  
+    4.0   211   155  
+    5.0    10   849  
+
+disp8d704d5b59a836e2d12bd0f513bb5c24
+          1.0   2.0  
+    1.0    41   341  
+    2.0    52   789  
+
+dispcc73a6cd1c147e6590b75f33832050e0
+          4.0   5.0  
+    4.0   117   102  
+    5.0   156   836  
+
+disp98165e17b547d7ee020db66abe427d35
+          4.0   5.0    
+    4.0    77      36  
+    5.0    27   1,058  
+
+dispb5270dcf23f163d3a80ae25bb595caad
+          6.0   7.0  
+    6.0    50    26  
+    7.0    88   999  
+
+disp42e0b13c95928df3e153740656d91701
+          4.0   5.0  
+    4.0     0     6  
+    5.0   280   709  "
+HoeffdingTreeClassifier,1,29,10,1.3392341511207515,"{'disp12d66aea27fe15ee30653de92d4c5fa1': MacroF1: 82.91%, 'disp18a2fbd7bb103309ff355641581b0265': MacroF1: 69.75%, 'disp05f72682660e0d7279afe7dd279cf222': MacroF1: 65.07%, 'dispc39d4b98d36b7a7a1f8b5d008435a943': MacroF1: 75.84%, 'disp2bec1140d082890e59f56d23be53a13c': MacroF1: 80.15%, 'disp8d704d5b59a836e2d12bd0f513bb5c24': MacroF1: 48.90%, 'dispcc73a6cd1c147e6590b75f33832050e0': MacroF1: 67.39%, 'disp98165e17b547d7ee020db66abe427d35': MacroF1: 84.19%, 'dispb5270dcf23f163d3a80ae25bb595caad': MacroF1: 70.96%, 'disp42e0b13c95928df3e153740656d91701': MacroF1: 41.80%}",0.6974008097622746,"disp12d66aea27fe15ee30653de92d4c5fa1
+          1.0   2.0    
+    1.0   137      35  
+    2.0    79   1,132  
+
+disp18a2fbd7bb103309ff355641581b0265
+          1.0   2.0  
+    1.0   237   271  
+    2.0    79   796  
+
+disp05f72682660e0d7279afe7dd279cf222
+          4.0   5.0  
+    4.0   192   180  
+    5.0   207   790  
+
+dispc39d4b98d36b7a7a1f8b5d008435a943
+          4.0   5.0  
+    4.0   237   245  
+    5.0    14   867  
+
+disp2bec1140d082890e59f56d23be53a13c
+          4.0   5.0  
+    4.0   221   183  
+    5.0    10   941  
+
+disp8d704d5b59a836e2d12bd0f513bb5c24
+          1.0   2.0  
+    1.0    41   362  
+    2.0    52   898  
+
+dispcc73a6cd1c147e6590b75f33832050e0
+          4.0   5.0  
+    4.0   126   116  
+    5.0   161   938  
+
+disp98165e17b547d7ee020db66abe427d35
+          4.0   5.0    
+    4.0    77      36  
+    5.0    27   1,188  
+
+dispb5270dcf23f163d3a80ae25bb595caad
+          6.0   7.0    
+    6.0    50      26  
+    7.0    88   1,129  
+
+disp42e0b13c95928df3e153740656d91701
+          4.0   5.0  
+    4.0     0    12  
+    5.0   305   808  "
+HoeffdingTreeClassifier,1,30,11,1.333098452803406,"{'disp12d66aea27fe15ee30653de92d4c5fa1': MacroF1: 82.85%, 'disp18a2fbd7bb103309ff355641581b0265': MacroF1: 69.88%, 'disp05f72682660e0d7279afe7dd279cf222': MacroF1: 65.11%, 'dispc39d4b98d36b7a7a1f8b5d008435a943': MacroF1: 75.57%, 'disp2bec1140d082890e59f56d23be53a13c': MacroF1: 80.11%, 'disp8d704d5b59a836e2d12bd0f513bb5c24': MacroF1: 49.11%, 'dispcc73a6cd1c147e6590b75f33832050e0': MacroF1: 67.54%, 'disp98165e17b547d7ee020db66abe427d35': MacroF1: 84.22%, 'dispb5270dcf23f163d3a80ae25bb595caad': MacroF1: 71.01%, 'disp42e0b13c95928df3e153740656d91701': MacroF1: 42.02%}",0.6980577951959016,"disp12d66aea27fe15ee30653de92d4c5fa1
+          1.0   2.0    
+    1.0   137      36  
+    2.0    79   1,157  
+
+disp18a2fbd7bb103309ff355641581b0265
+          1.0   2.0  
+    1.0   239   274  
+    2.0    79   817  
+
+disp05f72682660e0d7279afe7dd279cf222
+          4.0   5.0  
+    4.0   195   184  
+    5.0   209   807  
+
+dispc39d4b98d36b7a7a1f8b5d008435a943
+          4.0   5.0  
+    4.0   237   251  
+    5.0    14   887  
+
+disp2bec1140d082890e59f56d23be53a13c
+          4.0   5.0  
+    4.0   223   186  
+    5.0    10   962  
+
+disp8d704d5b59a836e2d12bd0f513bb5c24
+          1.0   2.0  
+    1.0    41   362  
+    2.0    52   924  
+
+dispcc73a6cd1c147e6590b75f33832050e0
+          4.0   5.0  
+    4.0   126   116  
+    5.0   161   964  
+
+disp98165e17b547d7ee020db66abe427d35
+          4.0   5.0    
+    4.0    77      36  
+    5.0    27   1,214  
+
+dispb5270dcf23f163d3a80ae25bb595caad
+          6.0   7.0    
+    6.0    50      26  
+    7.0    88   1,155  
+
+disp42e0b13c95928df3e153740656d91701
+          4.0   5.0  
+    4.0     0    12  
+    5.0   305   834  "
+HoeffdingTreeClassifier,1,1,12,1.2987690146871007,"{'disp12d66aea27fe15ee30653de92d4c5fa1': MacroF1: 82.68%, 'disp18a2fbd7bb103309ff355641581b0265': MacroF1: 67.66%, 'disp05f72682660e0d7279afe7dd279cf222': MacroF1: 65.07%, 'dispc39d4b98d36b7a7a1f8b5d008435a943': MacroF1: 75.44%, 'disp2bec1140d082890e59f56d23be53a13c': MacroF1: 79.98%, 'disp8d704d5b59a836e2d12bd0f513bb5c24': MacroF1: 48.32%, 'dispcc73a6cd1c147e6590b75f33832050e0': MacroF1: 68.50%, 'disp98165e17b547d7ee020db66abe427d35': MacroF1: 82.99%, 'dispb5270dcf23f163d3a80ae25bb595caad': MacroF1: 71.28%, 'disp42e0b13c95928df3e153740656d91701': MacroF1: 44.32%}",0.6955193258739465,"disp12d66aea27fe15ee30653de92d4c5fa1
+          1.0   2.0    
+    1.0   159      47  
+    2.0    87   1,273  
+
+disp18a2fbd7bb103309ff355641581b0265
+          1.0   2.0  
+    1.0   244   333  
+    2.0    83   906  
+
+disp05f72682660e0d7279afe7dd279cf222
+          4.0   5.0  
+    4.0   207   207  
+    5.0   222   916  
+
+dispc39d4b98d36b7a7a1f8b5d008435a943
+          4.0   5.0  
+    4.0   262   282  
+    5.0    14   988  
+
+disp2bec1140d082890e59f56d23be53a13c
+          4.0   5.0    
+    4.0   227     193  
+    5.0    15   1,103  
+
+disp8d704d5b59a836e2d12bd0f513bb5c24
+          1.0   2.0    
+    1.0    41     412  
+    2.0    52   1,031  
+
+dispcc73a6cd1c147e6590b75f33832050e0
+          4.0   5.0    
+    4.0   143     130  
+    5.0   167   1,084  
+
+disp98165e17b547d7ee020db66abe427d35
+          4.0   5.0    
+    4.0    81      47  
+    5.0    27   1,356  
+
+dispb5270dcf23f163d3a80ae25bb595caad
+          6.0   7.0    
+    6.0    50      26  
+    7.0    88   1,312  
+
+disp42e0b13c95928df3e153740656d91701
+          4.0   5.0  
+    4.0     6    12  
+    5.0   324   966  "
+HoeffdingTreeClassifier,1,2,13,1.2601938955823284,"{'disp12d66aea27fe15ee30653de92d4c5fa1': MacroF1: 81.60%, 'disp18a2fbd7bb103309ff355641581b0265': MacroF1: 68.42%, 'disp05f72682660e0d7279afe7dd279cf222': MacroF1: 64.21%, 'dispc39d4b98d36b7a7a1f8b5d008435a943': MacroF1: 75.03%, 'disp2bec1140d082890e59f56d23be53a13c': MacroF1: 80.72%, 'disp8d704d5b59a836e2d12bd0f513bb5c24': MacroF1: 47.38%, 'dispcc73a6cd1c147e6590b75f33832050e0': MacroF1: 69.48%, 'disp98165e17b547d7ee020db66abe427d35': MacroF1: 83.86%, 'dispb5270dcf23f163d3a80ae25bb595caad': MacroF1: 73.17%, 'disp42e0b13c95928df3e153740656d91701': MacroF1: 44.32%}",0.7024290657806104,"disp12d66aea27fe15ee30653de92d4c5fa1
+          1.0   2.0    
+    1.0   189      51  
+    2.0   119   1,384  
+
+disp18a2fbd7bb103309ff355641581b0265
+          1.0   2.0    
+    1.0   281     372  
+    2.0    83   1,007  
+
+disp05f72682660e0d7279afe7dd279cf222
+          4.0   5.0    
+    4.0   222     234  
+    5.0   253   1,020  
+
+dispc39d4b98d36b7a7a1f8b5d008435a943
+          4.0   5.0    
+    4.0   297     326  
+    5.0    14   1,086  
+
+disp2bec1140d082890e59f56d23be53a13c
+          4.0   5.0    
+    4.0   264     212  
+    5.0    15   1,224  
+
+disp8d704d5b59a836e2d12bd0f513bb5c24
+          1.0   2.0    
+    1.0    41     475  
+    2.0    52   1,145  
+
+dispcc73a6cd1c147e6590b75f33832050e0
+          4.0   5.0    
+    4.0   158     142  
+    5.0   171   1,230  
+
+disp98165e17b547d7ee020db66abe427d35
+          4.0   5.0    
+    4.0    96      54  
+    5.0    27   1,511  
+
+dispb5270dcf23f163d3a80ae25bb595caad
+          6.0   7.0    
+    6.0    63      33  
+    7.0    91   1,466  
+
+disp42e0b13c95928df3e153740656d91701
+          4.0   5.0    
+    4.0     6      12  
+    5.0   362   1,105  "
+HoeffdingTreeClassifier,1,3,14,1.1787527900723882,"{'disp12d66aea27fe15ee30653de92d4c5fa1': MacroF1: 82.59%, 'disp18a2fbd7bb103309ff355641581b0265': MacroF1: 69.62%, 'disp05f72682660e0d7279afe7dd279cf222': MacroF1: 63.02%, 'dispc39d4b98d36b7a7a1f8b5d008435a943': MacroF1: 75.54%, 'disp2bec1140d082890e59f56d23be53a13c': MacroF1: 81.26%, 'disp8d704d5b59a836e2d12bd0f513bb5c24': MacroF1: 46.95%, 'dispcc73a6cd1c147e6590b75f33832050e0': MacroF1: 70.03%, 'disp98165e17b547d7ee020db66abe427d35': MacroF1: 84.40%, 'dispb5270dcf23f163d3a80ae25bb595caad': MacroF1: 74.44%, 'disp42e0b13c95928df3e153740656d91701': MacroF1: 44.81%}",0.7103999830037995,"disp12d66aea27fe15ee30653de92d4c5fa1
+          1.0   2.0    
+    1.0   211      54  
+    2.0   122   1,547  
+
+disp18a2fbd7bb103309ff355641581b0265
+          1.0   2.0    
+    1.0   325     405  
+    2.0    83   1,121  
+
+disp05f72682660e0d7279afe7dd279cf222
+          4.0   5.0    
+    4.0   222     289  
+    5.0   253   1,156  
+
+dispc39d4b98d36b7a7a1f8b5d008435a943
+          4.0   5.0    
+    4.0   332     355  
+    5.0    14   1,213  
+
+disp2bec1140d082890e59f56d23be53a13c
+          4.0   5.0    
+    4.0   308     236  
+    5.0    15   1,347  
+
+disp8d704d5b59a836e2d12bd0f513bb5c24
+          1.0   2.0    
+    1.0    41     529  
+    2.0    52   1,282  
+
+dispcc73a6cd1c147e6590b75f33832050e0
+          4.0   5.0    
+    4.0   171     155  
+    5.0   177   1,389  
+
+disp98165e17b547d7ee020db66abe427d35
+          4.0   5.0    
+    4.0   111      62  
+    5.0    27   1,679  
+
+dispb5270dcf23f163d3a80ae25bb595caad
+          6.0   7.0    
+    6.0    75      40  
+    7.0    94   1,635  
+
+disp42e0b13c95928df3e153740656d91701
+          4.0   5.0    
+    4.0     6      12  
+    5.0   381   1,277  "
+HoeffdingTreeClassifier,2,20,1,0.0,{},0.0,
+HoeffdingTreeClassifier,2,21,2,0.7829153333333332,"{'disp3f1c5d8514b404c9feaf026d08895dfe': MacroF1: 28.80%, 'disp78a3c40c30b366d0e9f2fd6faa2676ed': MacroF1: 31.67%, 'dispb5c3ad38ecac1fe985c8669d8b85d8bf': MacroF1: 31.86%, 'disp0680fc31bb92d4d1e6c684ad4463a19e': MacroF1: 10.15%}",0.24873957426571097,"disp3f1c5d8514b404c9feaf026d08895dfe
+           4.0   8.0   12.0   15.0   22.0  
+     4.0     5     1      5      2      1  
+     8.0     9     3      0      3      0  
+    12.0     2     3      0      0      0  
+    15.0     1     1      6      8      0  
+    22.0     3     0      0      0      1  
+
+disp78a3c40c30b366d0e9f2fd6faa2676ed
+           2.0   6.0   10.0   13.0   17.0   20.0  
+     2.0     4     0      1      0      1      0  
+     6.0     5     0      4      1      1      0  
+    10.0     4     0      5      0      0      0  
+    13.0     8     0      7      3      1      0  
+    17.0     0     0      2      0      2      0  
+    20.0     0     0      0      3      0      2  
+
+dispb5c3ad38ecac1fe985c8669d8b85d8bf
+           1.0   5.0   9.0   16.0  
+     1.0     9     5     3      1  
+     5.0     5     5     3      1  
+     9.0     8     5     0      0  
+    16.0     3     2     0      4  
+
+disp0680fc31bb92d4d1e6c684ad4463a19e
+           3.0   7.0   11.0   14.0   18.0   21.0  
+     3.0     1     0      7      0      1      0  
+     7.0     7     0      0      1      6      0  
+    11.0     2     0      0      0      4      0  
+    14.0     2     0      7      1      7      0  
+    18.0     0     0      2      0      1      0  
+    21.0     3     0      0      0      1      1  "
+HoeffdingTreeClassifier,2,22,3,0.7713104576271189,"{'disp3f1c5d8514b404c9feaf026d08895dfe': MacroF1: 27.98%, 'disp78a3c40c30b366d0e9f2fd6faa2676ed': MacroF1: 26.74%, 'dispb5c3ad38ecac1fe985c8669d8b85d8bf': MacroF1: 30.29%, 'disp0680fc31bb92d4d1e6c684ad4463a19e': MacroF1: 10.25%}",0.22998316638106722,"disp3f1c5d8514b404c9feaf026d08895dfe
+           4.0   8.0   12.0   15.0   22.0  
+     4.0    19     1      5      8     11  
+     8.0     9     8      2      7      0  
+    12.0     2     5      1      0      0  
+    15.0     5     3      9      8      5  
+    22.0     5     1      0      1      3  
+
+disp78a3c40c30b366d0e9f2fd6faa2676ed
+           2.0   6.0   10.0   13.0   17.0   20.0  
+     2.0    15     3      1      3      5      2  
+     6.0     8     1      5      1      5      0  
+    10.0     4     0      5      0      5      0  
+    13.0     9     1      7      5      3      2  
+    17.0     2     1      2      0      5      1  
+    20.0     2     0      2      5      4      4  
+
+dispb5c3ad38ecac1fe985c8669d8b85d8bf
+           1.0   5.0   9.0   16.0  
+     1.0    19    18     3      5  
+     5.0    13    10     3      1  
+     9.0    14    13     0      3  
+    16.0     3     4     0      9  
+
+disp0680fc31bb92d4d1e6c684ad4463a19e
+           3.0   7.0   11.0   14.0   18.0   21.0  
+     3.0    15     0      7      6      4      2  
+     7.0    17     0      0      1      6      0  
+    11.0     6     0      0      0      4      0  
+    14.0    10     0      7      1      7      5  
+    18.0     4     0      2      0      1      1  
+    21.0     9     0      0      0      1      2  "
+HoeffdingTreeClassifier,2,23,4,0.7926265635359121,"{'disp3f1c5d8514b404c9feaf026d08895dfe': MacroF1: 31.28%, 'disp78a3c40c30b366d0e9f2fd6faa2676ed': MacroF1: 35.69%, 'dispb5c3ad38ecac1fe985c8669d8b85d8bf': MacroF1: 47.09%, 'disp0680fc31bb92d4d1e6c684ad4463a19e': MacroF1: 14.44%}",0.3073918593375109,"disp3f1c5d8514b404c9feaf026d08895dfe
+           4.0   8.0   12.0   15.0   22.0  
+     4.0    28     1     11      8     11  
+     8.0     9    11      5     11      2  
+    12.0     2     8      2      0      0  
+    15.0     5     5     23     18      8  
+    22.0     5     1      1      1      5  
+
+disp78a3c40c30b366d0e9f2fd6faa2676ed
+           2.0   6.0   10.0   13.0   17.0   20.0  
+     2.0    15     3      1      4     12      2  
+     6.0     8     4      5      5      5      0  
+    10.0     4     0      9      2      8      0  
+    13.0     9     2      8     23      7      2  
+    17.0     2     1      2      0     12      1  
+    20.0     2     0      2      8      7      6  
+
+dispb5c3ad38ecac1fe985c8669d8b85d8bf
+           1.0   5.0   9.0   16.0  
+     1.0    30    18     3      6  
+     5.0    20    29     4      1  
+     9.0    21    13    10      3  
+    16.0     4     4     0     15  
+
+disp0680fc31bb92d4d1e6c684ad4463a19e
+           3.0   7.0   11.0   14.0   18.0   21.0  
+     3.0    15     0      7     16      4      2  
+     7.0    22     0      0      5      6      0  
+    11.0    10     0      0      3      4      0  
+    14.0    27     0      7     10      7      5  
+    18.0     4     0      2      5      1      1  
+    21.0    10     0      0      1      1      6  "
+HoeffdingTreeClassifier,2,24,5,0.8466742489626559,"{'disp3f1c5d8514b404c9feaf026d08895dfe': MacroF1: 31.70%, 'disp78a3c40c30b366d0e9f2fd6faa2676ed': MacroF1: 33.61%, 'dispb5c3ad38ecac1fe985c8669d8b85d8bf': MacroF1: 49.79%, 'disp0680fc31bb92d4d1e6c684ad4463a19e': MacroF1: 13.11%}",0.3037860812919371,"disp3f1c5d8514b404c9feaf026d08895dfe
+           4.0   8.0   12.0   15.0   22.0  
+     4.0    34     3     15      8     16  
+     8.0     9    14     11     11      2  
+    12.0     2     8      5      0      0  
+    15.0    15    13     23     19     11  
+    22.0     5     1      1      5     10  
+
+disp78a3c40c30b366d0e9f2fd6faa2676ed
+           2.0   6.0   10.0   13.0   17.0   20.0  
+     2.0    19     3      1      4     21      2  
+     6.0    12     7      5      6      5      0  
+    10.0     6     0     11      2      8      0  
+    13.0     9     7      8     25     22      2  
+    17.0     2     1      2      0     16      1  
+    20.0     3     0      2      9     14      6  
+
+dispb5c3ad38ecac1fe985c8669d8b85d8bf
+           1.0   5.0   9.0   16.0  
+     1.0    52    18     3     12  
+     5.0    24    40     4      1  
+     9.0    29    13    10      4  
+    16.0     5     4     0     22  
+
+disp0680fc31bb92d4d1e6c684ad4463a19e
+           3.0   7.0   11.0   14.0   18.0   21.0  
+     3.0    16     0      7     28      4      3  
+     7.0    27     0      0      9      6      0  
+    11.0    13     0      0      3      4      0  
+    14.0    39     0      7     20      7      5  
+    18.0     7     0      2      5      1      1  
+    21.0    10     0      0     10      1      6  "
+HoeffdingTreeClassifier,2,25,6,0.8087104575163403,"{'disp3f1c5d8514b404c9feaf026d08895dfe': MacroF1: 33.68%, 'disp78a3c40c30b366d0e9f2fd6faa2676ed': MacroF1: 33.64%, 'dispb5c3ad38ecac1fe985c8669d8b85d8bf': MacroF1: 50.90%, 'disp0680fc31bb92d4d1e6c684ad4463a19e': MacroF1: 14.58%}",0.3149171351597027,"disp3f1c5d8514b404c9feaf026d08895dfe
+           4.0   8.0   12.0   15.0   22.0  
+     4.0    38     5     17      8     21  
+     8.0    13    30     11     12      2  
+    12.0     2    13      5      0      0  
+    15.0    16    24     23     25     16  
+    22.0     5     1      1      5     13  
+
+disp78a3c40c30b366d0e9f2fd6faa2676ed
+           2.0   6.0   10.0   13.0   17.0   20.0  
+     2.0    25     3      1      4     24      2  
+     6.0    17    16      5      9      9      0  
+    10.0    10     0     12      2      8      0  
+    13.0     9    11      8     25     39      2  
+    17.0     2     1      2      0     20      1  
+    20.0     4     0      2     10     17      6  
+
+dispb5c3ad38ecac1fe985c8669d8b85d8bf
+           1.0   5.0   9.0   16.0  
+     1.0    74    18     3     13  
+     5.0    30    60     4      1  
+     9.0    38    16    10      4  
+    16.0     8     4     0     23  
+
+disp0680fc31bb92d4d1e6c684ad4463a19e
+           3.0   7.0   11.0   14.0   18.0   21.0  
+     3.0    16     0      7     37      4      3  
+     7.0    27     0      0     33      6      0  
+    11.0    13     0      0      5      4      0  
+    14.0    39     0      7     42      7      5  
+    18.0     7     0      2      9      1      1  
+    21.0    10     0      0     13      1      7  "
+HoeffdingTreeClassifier,2,26,7,0.8908487588075888,"{'disp3f1c5d8514b404c9feaf026d08895dfe': MacroF1: 37.70%, 'disp78a3c40c30b366d0e9f2fd6faa2676ed': MacroF1: 36.79%, 'dispb5c3ad38ecac1fe985c8669d8b85d8bf': MacroF1: 52.62%, 'disp0680fc31bb92d4d1e6c684ad4463a19e': MacroF1: 16.48%}",0.34217416392611794,"disp3f1c5d8514b404c9feaf026d08895dfe
+           4.0   8.0   12.0   15.0   22.0  
+     4.0    42    13     17      9     25  
+     8.0    13    49     12     12      2  
+    12.0     2    14      8      0      0  
+    15.0    17    30     23     35     18  
+    22.0     5     1      1      5     16  
+
+disp78a3c40c30b366d0e9f2fd6faa2676ed
+           2.0   6.0   10.0   13.0   17.0   20.0  
+     2.0    25     3      1      4     37      2  
+     6.0    18    30      5     10      9      0  
+    10.0    10     0     20      2      8      0  
+    13.0     9    15      8     25     49      2  
+    17.0     2     1      2      0     24      1  
+    20.0     5     2      2     11     19      8  
+
+dispb5c3ad38ecac1fe985c8669d8b85d8bf
+           1.0   5.0   9.0   16.0  
+     1.0    96    18     3     14  
+     5.0    32    78     4      1  
+     9.0    52    18    10      4  
+    16.0     8     4     0     27  
+
+disp0680fc31bb92d4d1e6c684ad4463a19e
+           3.0   7.0   11.0   14.0   18.0   21.0  
+     3.0    16     0      7     50      4      3  
+     7.0    27     0      0     51      6      0  
+    11.0    13     0      0     11      4      0  
+    14.0    39     0      7     60      7      5  
+    18.0     7     0      2     13      1      1  
+    21.0    10     0      0     13      1     11  "
+HoeffdingTreeClassifier,2,27,8,0.9204038430493278,"{'disp3f1c5d8514b404c9feaf026d08895dfe': MacroF1: 39.95%, 'disp78a3c40c30b366d0e9f2fd6faa2676ed': MacroF1: 39.04%, 'dispb5c3ad38ecac1fe985c8669d8b85d8bf': MacroF1: 54.67%, 'disp0680fc31bb92d4d1e6c684ad4463a19e': MacroF1: 18.11%}",0.36256113577975896,"disp3f1c5d8514b404c9feaf026d08895dfe
+           4.0   8.0   12.0   15.0   22.0  
+     4.0    47    16     17     10     29  
+     8.0    13    79     15     12      2  
+    12.0     2    17     10      0      0  
+    15.0    17    44     23     41     21  
+    22.0     5     1      1      5     19  
+
+disp78a3c40c30b366d0e9f2fd6faa2676ed
+           2.0   6.0   10.0   13.0   17.0   20.0  
+     2.0    25     3      1      4     46      2  
+     6.0    19    51      5     10     13      0  
+    10.0    10     0     31      2      9      0  
+    13.0     9    29      8     25     56      2  
+    17.0     2     1      2      0     28      1  
+    20.0     6     2      2     11     21     10  
+
+dispb5c3ad38ecac1fe985c8669d8b85d8bf
+           1.0   5.0   9.0   16.0  
+     1.0   111    18     3     15  
+     5.0    37   110     4      1  
+     9.0    65    21    13      5  
+    16.0     8     4     0     31  
+
+disp0680fc31bb92d4d1e6c684ad4463a19e
+           3.0   7.0   11.0   14.0   18.0   21.0  
+     3.0    16     0      7     60      4      3  
+     7.0    27     0      0     80      6      0  
+    11.0    13     0      0     20      4      0  
+    14.0    39     0      7     81      7      5  
+    18.0     7     0      2     16      1      1  
+    21.0    10     0      0     13      1     16  "
+HoeffdingTreeClassifier,2,28,9,0.9332605009746593,"{'disp3f1c5d8514b404c9feaf026d08895dfe': MacroF1: 41.66%, 'disp78a3c40c30b366d0e9f2fd6faa2676ed': MacroF1: 39.14%, 'dispb5c3ad38ecac1fe985c8669d8b85d8bf': MacroF1: 56.84%, 'disp0680fc31bb92d4d1e6c684ad4463a19e': MacroF1: 18.47%}",0.37205069316816025,"disp3f1c5d8514b404c9feaf026d08895dfe
+           4.0   8.0   12.0   15.0   22.0  
+     4.0    55    21     17     10     34  
+     8.0    13    88     15     12      2  
+    12.0     2    17     13      0      0  
+    15.0    18    57     23     47     27  
+    22.0     5     1      1      8     27  
+
+disp78a3c40c30b366d0e9f2fd6faa2676ed
+           2.0   6.0   10.0   13.0   17.0   20.0  
+     2.0    29     3      1      4     55      3  
+     6.0    19    58      5     11     13      0  
+    10.0    10     0     35      2      9      0  
+    13.0     9    42      8     25     69      2  
+    17.0     2     1      2      0     32      1  
+    20.0     7     2      2     11     28     13  
+
+dispb5c3ad38ecac1fe985c8669d8b85d8bf
+           1.0   5.0   9.0   16.0  
+     1.0   135    18     3     19  
+     5.0    38   130     4      1  
+     9.0    73    21    14      5  
+    16.0     8     4     0     40  
+
+disp0680fc31bb92d4d1e6c684ad4463a19e
+           3.0   7.0   11.0   14.0   18.0   21.0  
+     3.0    16     0      7     75      4      4  
+     7.0    27     0      0     89      6      0  
+    11.0    13     0      0     23      4      0  
+    14.0    39     0      7    109      7      6  
+    18.0     7     0      2     18      1      1  
+    21.0    10     0      0     18      1     19  "
+HoeffdingTreeClassifier,2,29,10,0.9296417934595523,"{'disp3f1c5d8514b404c9feaf026d08895dfe': MacroF1: 41.53%, 'disp78a3c40c30b366d0e9f2fd6faa2676ed': MacroF1: 40.08%, 'dispb5c3ad38ecac1fe985c8669d8b85d8bf': MacroF1: 58.25%, 'disp0680fc31bb92d4d1e6c684ad4463a19e': MacroF1: 18.37%}",0.3768575331116126,"disp3f1c5d8514b404c9feaf026d08895dfe
+           4.0   8.0   12.0   15.0   22.0  
+     4.0    64    35     17     12     38  
+     8.0    14   101     16     12      2  
+    12.0     2    20     14      0      0  
+    15.0    21    62     23     49     32  
+    22.0     5     1      1      8     32  
+
+disp78a3c40c30b366d0e9f2fd6faa2676ed
+           2.0   6.0   10.0   13.0   17.0   20.0  
+     2.0    36     3      2      4     71      4  
+     6.0    19    66      6     11     13      0  
+    10.0    11     6     36      3     10      0  
+    13.0    11    43      8     29     73      2  
+    17.0     2     1      2      0     36      1  
+    20.0     9     2      2     11     29     19  
+
+dispb5c3ad38ecac1fe985c8669d8b85d8bf
+           1.0   5.0   9.0   16.0  
+     1.0   163    18     3     20  
+     5.0    42   149     4      2  
+     9.0    82    21    16      5  
+    16.0     8     4     0     44  
+
+disp0680fc31bb92d4d1e6c684ad4463a19e
+           3.0   7.0   11.0   14.0   18.0   21.0  
+     3.0    16     0      7     96      4      5  
+     7.0    27     0      0    103      6      0  
+    11.0    13     0      0     28      4      0  
+    14.0    39     0      7    120      7      8  
+    18.0     7     0      2     25      1      1  
+    21.0    10     0      0     20      1     24  "
+HoeffdingTreeClassifier,2,30,11,0.9314911170046801,"{'disp3f1c5d8514b404c9feaf026d08895dfe': MacroF1: 42.10%, 'disp78a3c40c30b366d0e9f2fd6faa2676ed': MacroF1: 43.44%, 'dispb5c3ad38ecac1fe985c8669d8b85d8bf': MacroF1: 59.37%, 'disp0680fc31bb92d4d1e6c684ad4463a19e': MacroF1: 18.96%}",0.39162521780667103,"disp3f1c5d8514b404c9feaf026d08895dfe
+           4.0   8.0   12.0   15.0   22.0  
+     4.0    69    40     17     12     43  
+     8.0    14   115     19     12      2  
+    12.0     2    22     19      0      0  
+    15.0    24    72     24     51     35  
+    22.0     5     1      1      8     34  
+
+disp78a3c40c30b366d0e9f2fd6faa2676ed
+           2.0   6.0   10.0   13.0   17.0   20.0  
+     2.0    41     3      2      4     75      4  
+     6.0    19    76      6     12     13      0  
+    10.0    11     6     48      4     10      0  
+    13.0    12    47      9     36     77      2  
+    17.0     2     1      2      0     42      1  
+    20.0     9     2      2     11     29     23  
+
+dispb5c3ad38ecac1fe985c8669d8b85d8bf
+           1.0   5.0   9.0   16.0  
+     1.0   174    18     3     21  
+     5.0    44   170     5      2  
+     9.0    96    21    19      5  
+    16.0     8     4     0     51  
+
+disp0680fc31bb92d4d1e6c684ad4463a19e
+           3.0   7.0   11.0   14.0   18.0   21.0  
+     3.0    16     0      7    106      4      5  
+     7.0    27     0      0    117      6      0  
+    11.0    13     0      0     38      4      0  
+    14.0    39     0      7    137      7      8  
+    18.0     7     0      2     30      1      1  
+    21.0    10     0      0     20      1     28  "
+HoeffdingTreeClassifier,2,1,12,0.9549077144866389,"{'disp3f1c5d8514b404c9feaf026d08895dfe': MacroF1: 43.03%, 'disp78a3c40c30b366d0e9f2fd6faa2676ed': MacroF1: 44.93%, 'dispb5c3ad38ecac1fe985c8669d8b85d8bf': MacroF1: 61.34%, 'disp0680fc31bb92d4d1e6c684ad4463a19e': MacroF1: 18.91%}",0.4016938581455252,"disp3f1c5d8514b404c9feaf026d08895dfe
+           4.0   8.0   12.0   15.0   22.0  
+     4.0    77    46     17     13     45  
+     8.0    14   124     20     12      2  
+    12.0     2    22     21      0      0  
+    15.0    25    80     24     57     51  
+    22.0     5     1      1      8     44  
+
+disp78a3c40c30b366d0e9f2fd6faa2676ed
+           2.0   6.0   10.0   13.0   17.0   20.0  
+     2.0    49     3      2      4     79      5  
+     6.0    19    83      6     13     13      0  
+    10.0    11     6     52      4     10      0  
+    13.0    13    53      9     41     88      2  
+    17.0     2     1      2      0     46      1  
+    20.0    10     2      2     11     38     31  
+
+dispb5c3ad38ecac1fe985c8669d8b85d8bf
+           1.0   5.0   9.0   16.0  
+     1.0   197    18     3     23  
+     5.0    47   186     5      2  
+     9.0   105    21    23      5  
+    16.0     8     4     0     64  
+
+disp0680fc31bb92d4d1e6c684ad4463a19e
+           3.0   7.0   11.0   14.0   18.0   21.0  
+     3.0    16     0      7    119      4      6  
+     7.0    27     0      0    127      6      0  
+    11.0    13     0      0     40      4      0  
+    14.0    39     0      7    161      7     10  
+    18.0     7     0      2     33      1      1  
+    21.0    10     0      0     29      1     34  "
+HoeffdingTreeClassifier,2,2,13,0.9809447016645323,"{'disp3f1c5d8514b404c9feaf026d08895dfe': MacroF1: 41.97%, 'disp78a3c40c30b366d0e9f2fd6faa2676ed': MacroF1: 43.77%, 'dispb5c3ad38ecac1fe985c8669d8b85d8bf': MacroF1: 59.35%, 'disp0680fc31bb92d4d1e6c684ad4463a19e': MacroF1: 18.63%}",0.39126594171988216,"disp3f1c5d8514b404c9feaf026d08895dfe
+           4.0   8.0   12.0   15.0   22.0  
+     4.0    85    51     17     14     48  
+     8.0    17   136     20     14      6  
+    12.0     2    26     22      2      2  
+    15.0    26    83     24     61     64  
+    22.0     5     1      1      9     45  
+
+disp78a3c40c30b366d0e9f2fd6faa2676ed
+           2.0   6.0   10.0   13.0   17.0   20.0  
+     2.0    52     3      2      4     89      5  
+     6.0    19    94      6     13     21      1  
+    10.0    11     6     52      4     19      1  
+    13.0    13    57      9     41    102      2  
+    17.0     3     1      2      0     49      1  
+    20.0    11     2      2     12     38     34  
+
+dispb5c3ad38ecac1fe985c8669d8b85d8bf
+           1.0   5.0   9.0   16.0  
+     1.0   211    18     3     32  
+     5.0    56   201     5      6  
+     9.0   116    21    25      7  
+    16.0     9     4     0     67  
+
+disp0680fc31bb92d4d1e6c684ad4463a19e
+           3.0   7.0   11.0   14.0   18.0   21.0  
+     3.0    16     0      7    133      4      6  
+     7.0    27     0      0    149      6      2  
+    11.0    13     0      0     45      4      1  
+    14.0    39     0      7    178      7     11  
+    18.0     7     0      2     35      1      2  
+    21.0    10     0      0     31      1     37  "
+HoeffdingTreeClassifier,2,3,14,0.9820781410256407,"{'disp3f1c5d8514b404c9feaf026d08895dfe': MacroF1: 43.14%, 'disp78a3c40c30b366d0e9f2fd6faa2676ed': MacroF1: 45.00%, 'dispb5c3ad38ecac1fe985c8669d8b85d8bf': MacroF1: 60.90%, 'disp0680fc31bb92d4d1e6c684ad4463a19e': MacroF1: 18.90%}",0.4012641264386209,"disp3f1c5d8514b404c9feaf026d08895dfe
+           4.0   8.0   12.0   15.0   22.0  
+     4.0    88    56     17     19     48  
+     8.0    17   162     22     14      6  
+    12.0     2    26     28      2      2  
+    15.0    26   102     24     69     64  
+    22.0     5     1      1     12     45  
+
+disp78a3c40c30b366d0e9f2fd6faa2676ed
+           2.0   6.0   10.0   13.0   17.0   20.0  
+     2.0    58     3      2      5     91      5  
+     6.0    22   112      6     14     21      1  
+    10.0    12     6     63      4     19      1  
+    13.0    13    73      9     49    103      2  
+    17.0     3     1      2      0     53      1  
+    20.0    11     2      3     12     42     34  
+
+dispb5c3ad38ecac1fe985c8669d8b85d8bf
+           1.0   5.0   9.0   16.0  
+     1.0   215    28     5     32  
+     5.0    56   241     5      6  
+     9.0   120    21    38      7  
+    16.0     9     4     4     67  
+
+disp0680fc31bb92d4d1e6c684ad4463a19e
+           3.0   7.0   11.0   14.0   18.0   21.0  
+     3.0    16     0      7    143      4      6  
+     7.0    27     0      0    172      6      2  
+    11.0    13     0      0     56      4      1  
+    14.0    39     0      7    204      7     11  
+    18.0     7     0      2     37      1      3  
+    21.0    10     0      0     32      1     40  "
+HoeffdingTreeClassifier,2,4,15,0.9699378876889847,"{'disp3f1c5d8514b404c9feaf026d08895dfe': MacroF1: 44.16%, 'disp78a3c40c30b366d0e9f2fd6faa2676ed': MacroF1: 46.92%, 'dispb5c3ad38ecac1fe985c8669d8b85d8bf': MacroF1: 61.41%, 'disp0680fc31bb92d4d1e6c684ad4463a19e': MacroF1: 19.07%}",0.41065529293653796,"disp3f1c5d8514b404c9feaf026d08895dfe
+           4.0   8.0   12.0   15.0   22.0  
+     4.0    89    66     17     25     48  
+     8.0    17   179     25     16      6  
+    12.0     2    26     34      2      2  
+    15.0    26   107     24     78     64  
+    22.0     5     4      1     14     49  
+
+disp78a3c40c30b366d0e9f2fd6faa2676ed
+           2.0   6.0   10.0   13.0   17.0   20.0  
+     2.0    67     3      2      8     92      5  
+     6.0    22   126      6     16     21      1  
+    10.0    12     6     74      4     19      1  
+    13.0    13    80     10     60    104      2  
+    17.0     3     1      2      0     57      1  
+    20.0    11     2      3     12     45     35  
+
+dispb5c3ad38ecac1fe985c8669d8b85d8bf
+           1.0   5.0   9.0   16.0  
+     1.0   215    49     7     32  
+     5.0    56   266     6      6  
+     9.0   120    21    53      7  
+    16.0     9     4     8     67  
+
+disp0680fc31bb92d4d1e6c684ad4463a19e
+           3.0   7.0   11.0   14.0   18.0   21.0  
+     3.0    16     0      7    157      4      6  
+     7.0    27     0      0    191      6      2  
+    11.0    13     0      0     64      4      1  
+    14.0    39     0      7    226      7     11  
+    18.0     7     0      2     40      1      3  
+    21.0    10     0      0     32      1     42  "
+HoeffdingTreeClassifier,3,1,1,0.0,{},0.0,
+HoeffdingTreeClassifier,3,2,2,1.1586190709467155,"{'dispL005': MacroF1: 94.40%, 'dispL003': MacroF1: 91.69%, 'dispL006': MacroF1: 74.46%, 'dispL007': MacroF1: 38.35%, 'dispF002': MacroF1: 69.10%, 'dispL004': MacroF1: 68.98%, 'dispL010': MacroF1: 45.73%, 'dispL001': MacroF1: 100.00%, 'dispL008': MacroF1: 44.91%, 'dispF001': MacroF1: 92.47%, 'dispL002': MacroF1: 97.81%, 'dispL009': MacroF1: 74.85%, 'dispL011': MacroF1: 44.70%}",0.8832079471588206,"dispL005
+          0.0     1.0     
+    0.0   2,385      380  
+    1.0      90   10,338  
+
+dispL003
+          0.0      1.0    
+    0.0   11,441     261  
+    1.0      163   1,220  
+
+dispL006
+          0.0      1.0  
+    0.0   10,493   373  
+    1.0    1,160   965  
+
+dispL007
+          0.0   1.0    
+    0.0   126   5,203  
+    1.0   368   7,294  
+
+dispF002
+          0.0   1.0     
+    0.0    93       28  
+    1.0   259   12,611  
+
+dispL004
+          0.0   1.0     
+    0.0   514      675  
+    1.0   653   11,049  
+
+dispL010
+          0.0      1.0  
+    0.0   10,072    18  
+    1.0    2,528    35  
+
+dispL001
+          1.0     
+    1.0   12,437  
+
+dispL008
+          0.0     1.0  
+    0.0   9,742    19  
+    1.0   2,630    24  
+
+dispF001
+          0.0   1.0     
+    0.0   120        0  
+    1.0    42   12,083  
+
+dispL002
+          0.0      1.0    
+    0.0   10,232       0  
+    1.0      101   1,249  
+
+dispL009
+          0.0     1.0    
+    0.0   8,217   1,553  
+    1.0     112   1,193  
+
+dispL011
+          0.0     1.0    
+    0.0       0       0  
+    1.0   2,022   8,519  "
+HoeffdingTreeClassifier,3,3,3,0.9411191893885702,"{'dispL005': MacroF1: 93.76%, 'dispL003': MacroF1: 97.18%, 'dispL006': MacroF1: 57.17%, 'dispL007': MacroF1: 42.79%, 'dispF002': MacroF1: 47.37%, 'dispL004': MacroF1: 57.40%, 'dispL010': MacroF1: 48.97%, 'dispL001': MacroF1: 86.13%, 'dispL008': MacroF1: 51.37%, 'dispF001': MacroF1: 86.59%, 'dispL002': MacroF1: 99.41%, 'dispL009': MacroF1: 91.23%, 'dispL011': MacroF1: 45.15%}",0.8230434940993331,"dispL005
+          0.0     1.0     
+    0.0   5,176      842  
+    1.0     196   14,933  
+
+dispL003
+          0.0      1.0    
+    0.0   15,473     275  
+    1.0      175   5,116  
+
+dispL006
+          0.0      1.0  
+    0.0   15,089   373  
+    1.0    4,518   965  
+
+dispL007
+          0.0   1.0     
+    0.0   126    6,042  
+    1.0   368   14,409  
+
+dispF002
+          0.0   1.0     
+    0.0    93    3,473  
+    1.0   302   17,077  
+
+dispL004
+          0.0   1.0     
+    0.0   514    2,661  
+    1.0   653   17,017  
+
+dispL010
+          0.0      1.0    
+    0.0   10,168      18  
+    1.0    8,722   1,699  
+
+dispL001
+          0.0     1.0     
+    0.0   3,019      219  
+    1.0   1,529   15,624  
+
+dispL008
+          0.0     1.0    
+    0.0   9,742      19  
+    1.0   8,497   2,111  
+
+dispF001
+          0.0   1.0     
+    0.0   120       45  
+    1.0    42   19,992  
+
+dispL002
+          0.0      1.0    
+    0.0   10,232      13  
+    1.0      101   9,190  
+
+dispL009
+          0.0     1.0    
+    0.0   8,217   1,553  
+    1.0     112   9,147  
+
+dispL011
+          0.0     1.0     
+    0.0       0        0  
+    1.0   3,269   15,226  "
+HoeffdingTreeClassifier,3,4,4,0.8335901518969011,"{'dispL005': MacroF1: 93.87%, 'dispL003': MacroF1: 97.73%, 'dispL006': MacroF1: 43.71%, 'dispL007': MacroF1: 42.76%, 'dispF002': MacroF1: 44.46%, 'dispL004': MacroF1: 50.87%, 'dispL010': MacroF1: 46.71%, 'dispL001': MacroF1: 79.20%, 'dispL008': MacroF1: 66.99%, 'dispF001': MacroF1: 85.73%, 'dispL002': MacroF1: 99.54%, 'dispL009': MacroF1: 90.52%, 'dispL011': MacroF1: 45.30%}",0.792055308923145,"dispL005
+          0.0     1.0     
+    0.0   6,738    1,073  
+    1.0     255   19,479  
+
+dispL003
+          0.0      1.0    
+    0.0   18,224     345  
+    1.0      202   8,666  
+
+dispL006
+          0.0      1.0  
+    0.0   15,098   373  
+    1.0   10,907   965  
+
+dispL007
+          0.0   1.0     
+    0.0   126    7,734  
+    1.0   368   19,115  
+
+dispF002
+          0.0   1.0     
+    0.0    93    6,297  
+    1.0   321   20,632  
+
+dispL004
+          0.0   1.0     
+    0.0   514    5,404  
+    1.0   653   20,672  
+
+dispL010
+          0.0      1.0    
+    0.0   12,942   2,070  
+    1.0    9,968   2,025  
+
+dispL001
+          0.0     1.0     
+    0.0   3,019      219  
+    1.0   2,953   20,598  
+
+dispL008
+          0.0     1.0    
+    0.0   9,742     311  
+    1.0   8,497   8,217  
+
+dispF001
+          0.0   1.0     
+    0.0   120       53  
+    1.0    42   26,382  
+
+dispL002
+          0.0      1.0     
+    0.0   10,232       13  
+    1.0      101   15,588  
+
+dispL009
+          0.0     1.0     
+    0.0   8,217    2,129  
+    1.0     112   14,969  
+
+dispL011
+          0.0     1.0     
+    0.0       0        0  
+    1.0   4,277   20,616  "
+HoeffdingTreeClassifier,3,5,5,0.7866721756818861,"{'dispL005': MacroF1: 93.90%, 'dispL003': MacroF1: 97.83%, 'dispL006': MacroF1: 40.48%, 'dispL007': MacroF1: 43.29%, 'dispF002': MacroF1: 45.21%, 'dispL004': MacroF1: 51.15%, 'dispL010': MacroF1: 49.54%, 'dispL001': MacroF1: 79.63%, 'dispL008': MacroF1: 70.30%, 'dispF001': MacroF1: 84.00%, 'dispL002': MacroF1: 99.57%, 'dispL009': MacroF1: 84.71%, 'dispL011': MacroF1: 54.51%}",0.786766749932431,"dispL005
+          0.0     1.0     
+    0.0   7,847    1,184  
+    1.0     322   21,151  
+
+dispL003
+          0.0      1.0     
+    0.0   19,382      370  
+    1.0      233   10,411  
+
+dispL006
+          0.0      1.0  
+    0.0   15,389   373  
+    1.0   13,575   965  
+
+dispL007
+          0.0   1.0     
+    0.0   126    8,095  
+    1.0   368   21,713  
+
+dispF002
+          0.0   1.0     
+    0.0    93    6,297  
+    1.0   326   23,586  
+
+dispL004
+          0.0   1.0     
+    0.0   514    5,612  
+    1.0   653   23,423  
+
+dispL010
+          0.0      1.0    
+    0.0   12,942   2,070  
+    1.0   11,526   3,426  
+
+dispL001
+          0.0     1.0     
+    0.0   3,019      219  
+    1.0   2,953   23,557  
+
+dispL008
+          0.0     1.0     
+    0.0   9,742      311  
+    1.0   8,497   11,176  
+
+dispF001
+          0.0   1.0     
+    0.0   120       70  
+    1.0    42   29,324  
+
+dispL002
+          0.0      1.0     
+    0.0   10,232       13  
+    1.0      101   18,547  
+
+dispL009
+          0.0     1.0     
+    0.0   8,217    3,888  
+    1.0     112   16,169  
+
+dispL011
+          0.0     1.0     
+    0.0     512      112  
+    1.0   4,490   22,738  "
+HoeffdingTreeClassifier,3,6,6,0.6344288076132554,"{'dispL005': MacroF1: 93.64%, 'dispL003': MacroF1: 98.05%, 'dispL006': MacroF1: 60.98%, 'dispL007': MacroF1: 42.17%, 'dispF002': MacroF1: 45.24%, 'dispL004': MacroF1: 49.64%, 'dispL010': MacroF1: 49.92%, 'dispL001': MacroF1: 69.16%, 'dispL008': MacroF1: 63.84%, 'dispF001': MacroF1: 60.57%, 'dispL002': MacroF1: 99.63%, 'dispL009': MacroF1: 66.09%, 'dispL011': MacroF1: 53.53%}",0.7516954487844693,"dispL005
+          0.0     1.0     
+    0.0   8,820    1,510  
+    1.0     389   30,630  
+
+dispL003
+          0.0      1.0     
+    0.0   24,887      498  
+    1.0      267   15,589  
+
+dispL006
+          0.0      1.0    
+    0.0   15,389   1,181  
+    1.0   14,597   9,980  
+
+dispL007
+          0.0   1.0     
+    0.0   126   11,951  
+    1.0   368   28,702  
+
+dispF002
+          0.0   1.0     
+    0.0    93    8,181  
+    1.0   387   32,486  
+
+dispL004
+          0.0   1.0     
+    0.0   514    7,772  
+    1.0   653   32,108  
+
+dispL010
+          0.0      1.0    
+    0.0   15,530   5,407  
+    1.0   13,908   5,964  
+
+dispL001
+          0.0     1.0     
+    0.0   3,019    3,562  
+    1.0   3,005   31,007  
+
+dispL008
+          0.0      1.0     
+    0.0   10,017    5,829  
+    1.0    8,497   16,228  
+
+dispF001
+          0.0   1.0     
+    0.0   120      799  
+    1.0    42   39,440  
+
+dispL002
+          0.0      1.0     
+    0.0   10,232       13  
+    1.0      101   29,392  
+
+dispL009
+          0.0     1.0     
+    0.0   8,217   12,249  
+    1.0     112   18,653  
+
+dispL011
+          0.0     1.0     
+    0.0     512    1,166  
+    1.0   4,560   32,459  "
+HoeffdingTreeClassifier,3,7,7,0.5258786019967484,"{'dispL005': MacroF1: 93.94%, 'dispL003': MacroF1: 98.56%, 'dispL006': MacroF1: 56.99%, 'dispL007': MacroF1: 41.28%, 'dispF002': MacroF1: 50.10%, 'dispL004': MacroF1: 47.98%, 'dispL010': MacroF1: 52.68%, 'dispL001': MacroF1: 64.33%, 'dispL008': MacroF1: 56.09%, 'dispF001': MacroF1: 51.58%, 'dispL002': MacroF1: 80.58%, 'dispL009': MacroF1: 70.67%, 'dispL011': MacroF1: 52.94%}",0.7216391965174102,"dispL005
+          0.0      1.0     
+    0.0   10,297    1,713  
+    1.0      487   43,294  
+
+dispL003
+          0.0      1.0     
+    0.0   27,075      536  
+    1.0      267   27,805  
+
+dispL006
+          0.0      1.0     
+    0.0   15,699    9,311  
+    1.0   14,597   15,982  
+
+dispL007
+          0.0   1.0     
+    0.0   126   17,228  
+    1.0   368   37,867  
+
+dispF002
+          0.0   1.0     
+    0.0   579    9,660  
+    1.0   431   44,919  
+
+dispL004
+          0.0   1.0     
+    0.0   514   11,165  
+    1.0   653   43,157  
+
+dispL010
+          0.0      1.0    
+    0.0   23,723   7,765  
+    1.0   16,154   7,609  
+
+dispL001
+          0.0     1.0     
+    0.0   3,019    6,537  
+    1.0   3,005   42,474  
+
+dispL008
+          0.0      1.0     
+    0.0   10,327   14,658  
+    1.0    8,497   21,531  
+
+dispF001
+          0.0   1.0     
+    0.0   120    3,441  
+    1.0    42   51,240  
+
+dispL002
+          0.0      1.0     
+    0.0   10,232    8,087  
+    1.0      101   35,760  
+
+dispL009
+          0.0     1.0     
+    0.0   8,217   12,249  
+    1.0     112   33,095  
+
+dispL011
+          0.0     1.0     
+    0.0     512    2,350  
+    1.0   4,560   45,717  "
+HoeffdingTreeClassifier,3,8,8,0.4619534671746425,"{'dispL005': MacroF1: 94.72%, 'dispL003': MacroF1: 98.79%, 'dispL006': MacroF1: 56.92%, 'dispL007': MacroF1: 42.49%, 'dispF002': MacroF1: 51.15%, 'dispL004': MacroF1: 49.19%, 'dispL010': MacroF1: 52.28%, 'dispL001': MacroF1: 61.65%, 'dispL008': MacroF1: 51.17%, 'dispF001': MacroF1: 51.93%, 'dispL002': MacroF1: 66.92%, 'dispL009': MacroF1: 62.00%, 'dispL011': MacroF1: 53.73%}",0.7174109455286686,"dispL005
+          0.0      1.0     
+    0.0   14,317    1,966  
+    1.0      594   53,206  
+
+dispL003
+          0.0      1.0     
+    0.0   40,087      536  
+    1.0      287   29,065  
+
+dispL006
+          0.0      1.0     
+    0.0   15,699   14,627  
+    1.0   14,993   24,562  
+
+dispL007
+          0.0   1.0     
+    0.0   126   19,185  
+    1.0   368   50,202  
+
+dispF002
+          0.0   1.0     
+    0.0   579    9,741  
+    1.0   431   59,130  
+
+dispL004
+          0.0   1.0     
+    0.0   514   11,362  
+    1.0   653   57,252  
+
+dispL010
+          0.0      1.0    
+    0.0   33,263   7,765  
+    1.0   20,906   7,609  
+
+dispL001
+          0.0     1.0     
+    0.0   3,019    9,079  
+    1.0   3,005   54,224  
+
+dispL008
+          0.0      1.0     
+    0.0   11,132   23,396  
+    1.0    8,914   25,863  
+
+dispF001
+          0.0   1.0     
+    0.0   120    3,441  
+    1.0    42   65,532  
+
+dispL002
+          0.0      1.0     
+    0.0   10,438   18,487  
+    1.0      101   39,446  
+
+dispL009
+          0.0     1.0     
+    0.0   8,217   20,297  
+    1.0     112   39,339  
+
+dispL011
+          0.0     1.0     
+    0.0     512    2,350  
+    1.0   4,560   60,009  "
+HoeffdingTreeClassifier,3,9,9,0.4257637408269566,"{'dispL005': MacroF1: 95.13%, 'dispL003': MacroF1: 98.89%, 'dispL006': MacroF1: 52.99%, 'dispL007': MacroF1: 40.71%, 'dispF002': MacroF1: 50.83%, 'dispL004': MacroF1: 48.92%, 'dispL010': MacroF1: 49.32%, 'dispL001': MacroF1: 61.36%, 'dispL008': MacroF1: 51.19%, 'dispF001': MacroF1: 52.12%, 'dispL002': MacroF1: 64.13%, 'dispL009': MacroF1: 57.75%, 'dispL011': MacroF1: 54.14%}",0.7091483617902562,"dispL005
+          0.0      1.0     
+    0.0   17,648    2,194  
+    1.0      656   61,127  
+
+dispL003
+          0.0      1.0     
+    0.0   50,514      556  
+    1.0      296   30,151  
+
+dispL006
+          0.0      1.0     
+    0.0   16,143   22,497  
+    1.0   14,993   27,790  
+
+dispL007
+          0.0   1.0     
+    0.0   126   26,184  
+    1.0   368   54,745  
+
+dispF002
+          0.0   1.0     
+    0.0   579   10,951  
+    1.0   431   69,462  
+
+dispL004
+          0.0   1.0     
+    0.0   514   12,945  
+    1.0   653   67,211  
+
+dispL010
+          0.0      1.0    
+    0.0   38,252   7,765  
+    1.0   27,459   7,609  
+
+dispL001
+          0.0     1.0     
+    0.0   3,019    9,950  
+    1.0   3,005   64,895  
+
+dispL008
+          0.0      1.0     
+    0.0   14,547   26,405  
+    1.0   11,975   27,920  
+
+dispF001
+          0.0   1.0     
+    0.0   120    3,441  
+    1.0    42   77,074  
+
+dispL002
+          0.0      1.0     
+    0.0   10,907   23,103  
+    1.0      107   45,897  
+
+dispL009
+          0.0     1.0     
+    0.0   8,217   26,358  
+    1.0     112   44,820  
+
+dispL011
+          0.0     1.0     
+    0.0     512    2,363  
+    1.0   4,560   71,538  "
+HoeffdingTreeClassifier,3,10,10,0.3870771801044185,"{'dispL005': MacroF1: 95.21%, 'dispL003': MacroF1: 98.97%, 'dispL006': MacroF1: 57.54%, 'dispL007': MacroF1: 42.59%, 'dispF002': MacroF1: 52.24%, 'dispL004': MacroF1: 48.70%, 'dispL010': MacroF1: 51.16%, 'dispL001': MacroF1: 61.66%, 'dispL008': MacroF1: 55.65%, 'dispF001': MacroF1: 51.71%, 'dispL002': MacroF1: 58.77%, 'dispL009': MacroF1: 60.43%, 'dispL011': MacroF1: 54.58%}",0.7324328445196023,"dispL005
+          0.0      1.0     
+    0.0   18,551    2,373  
+    1.0      696   77,789  
+
+dispL003
+          0.0      1.0     
+    0.0   63,576      604  
+    1.0      330   34,791  
+
+dispL006
+          0.0      1.0     
+    0.0   16,143   23,227  
+    1.0   15,492   44,345  
+
+dispL007
+          0.0   1.0     
+    0.0   126   26,593  
+    1.0   368   72,120  
+
+dispF002
+          0.0   1.0     
+    0.0   809   11,812  
+    1.0   833   85,753  
+
+dispL004
+          0.0   1.0     
+    0.0   514   15,135  
+    1.0   653   82,805  
+
+dispL010
+          0.0      1.0    
+    0.0   53,277   7,765  
+    1.0   30,218   7,609  
+
+dispL001
+          0.0     1.0     
+    0.0   3,019   10,489  
+    1.0   3,005   82,140  
+
+dispL008
+          0.0      1.0     
+    0.0   25,106   30,073  
+    1.0   13,567   29,885  
+
+dispF001
+          0.0   1.0     
+    0.0   120    4,045  
+    1.0    42   94,254  
+
+dispL002
+          0.0      1.0     
+    0.0   12,852   34,189  
+    1.0      107   50,650  
+
+dispL009
+          0.0     1.0     
+    0.0   8,217   26,358  
+    1.0     112   62,604  
+
+dispL011
+          0.0     1.0     
+    0.0     512    2,363  
+    1.0   4,560   89,322  "
+HoeffdingTreeClassifier,3,11,11,0.3577131912856444,"{'dispL005': MacroF1: 95.24%, 'dispL003': MacroF1: 98.99%, 'dispL006': MacroF1: 58.03%, 'dispL007': MacroF1: 43.76%, 'dispF002': MacroF1: 52.30%, 'dispL004': MacroF1: 49.36%, 'dispL010': MacroF1: 52.15%, 'dispL001': MacroF1: 62.33%, 'dispL008': MacroF1: 56.48%, 'dispF001': MacroF1: 51.89%, 'dispL002': MacroF1: 61.09%, 'dispL009': MacroF1: 62.18%, 'dispL011': MacroF1: 54.90%}",0.7558694810089016,"dispL005
+          0.0      1.0     
+    0.0   19,417    2,546  
+    1.0      750   95,827  
+
+dispL003
+          0.0      1.0     
+    0.0   78,720      683  
+    1.0      379   38,650  
+
+dispL006
+          0.0      1.0     
+    0.0   16,143   27,635  
+    1.0   15,492   59,068  
+
+dispL007
+          0.0   1.0     
+    0.0   126   27,541  
+    1.0   368   90,303  
+
+dispF002
+          0.0   1.0      
+    0.0   809    12,675  
+    1.0   833   104,021  
+
+dispL004
+          0.0   1.0      
+    0.0   514    15,369  
+    1.0   653   101,702  
+
+dispL010
+          0.0      1.0    
+    0.0   69,421   7,765  
+    1.0   33,205   7,609  
+
+dispL001
+          0.0     1.0      
+    0.0   3,019    10,489  
+    1.0   3,005   101,271  
+
+dispL008
+          0.0      1.0     
+    0.0   36,805   30,073  
+    1.0   20,999   29,885  
+
+dispF001
+          0.0   1.0      
+    0.0   120     4,045  
+    1.0    42   113,385  
+
+dispL002
+          0.0      1.0     
+    0.0   12,852   34,204  
+    1.0      761   69,112  
+
+dispL009
+          0.0     1.0     
+    0.0   8,217   26,358  
+    1.0     112   81,735  
+
+dispL011
+          0.0     1.0      
+    0.0     512     2,363  
+    1.0   4,560   108,453  "
+HoeffdingTreeClassifier,3,12,12,0.33596468865416235,"{'dispL005': MacroF1: 95.17%, 'dispL003': MacroF1: 99.04%, 'dispL006': MacroF1: 60.76%, 'dispL007': MacroF1: 44.81%, 'dispF002': MacroF1: 46.34%, 'dispL004': MacroF1: 49.34%, 'dispL010': MacroF1: 51.75%, 'dispL001': MacroF1: 62.60%, 'dispL008': MacroF1: 57.89%, 'dispF001': MacroF1: 52.02%, 'dispL002': MacroF1: 55.09%, 'dispL009': MacroF1: 63.43%, 'dispL011': MacroF1: 55.14%}",0.7604382681101844,"dispL005
+          0.0      1.0      
+    0.0   20,736     2,844  
+    1.0      807   114,783  
+
+dispL003
+          0.0      1.0     
+    0.0   95,228      723  
+    1.0      422   42,689  
+
+dispL006
+          0.0      1.0     
+    0.0   16,143   27,635  
+    1.0   15,492   79,698  
+
+dispL007
+          0.0   1.0      
+    0.0   126    27,742  
+    1.0   368   110,732  
+
+dispF002
+          0.0   1.0      
+    0.0   809    29,586  
+    1.0   833   107,740  
+
+dispL004
+          0.0   1.0      
+    0.0   514    17,009  
+    1.0   653   120,692  
+
+dispL010
+          0.0      1.0    
+    0.0   84,952   7,765  
+    1.0   38,304   7,609  
+
+dispL001
+          0.0     1.0      
+    0.0   3,019    10,730  
+    1.0   3,005   121,660  
+
+dispL008
+          0.0      1.0     
+    0.0   51,668   30,073  
+    1.0   26,766   29,885  
+
+dispF001
+          0.0   1.0      
+    0.0   120     4,045  
+    1.0    42   134,015  
+
+dispL002
+          0.0      1.0     
+    0.0   13,364   48,732  
+    1.0      761   74,702  
+
+dispL009
+          0.0     1.0      
+    0.0   8,217    26,358  
+    1.0     112   102,365  
+
+dispL011
+          0.0     1.0      
+    0.0     512     2,363  
+    1.0   4,560   129,083  "
+HoeffdingTreeClassifier,3,13,13,0.3245015900151779,"{'dispL005': MacroF1: 95.72%, 'dispL003': MacroF1: 99.09%, 'dispL006': MacroF1: 61.28%, 'dispL007': MacroF1: 44.34%, 'dispF002': MacroF1: 46.59%, 'dispL004': MacroF1: 48.94%, 'dispL010': MacroF1: 49.54%, 'dispL001': MacroF1: 61.98%, 'dispL008': MacroF1: 55.54%, 'dispF001': MacroF1: 52.05%, 'dispL002': MacroF1: 53.57%, 'dispL009': MacroF1: 63.34%, 'dispL011': MacroF1: 51.52%}",0.7555817546112056,"dispL005
+          0.0      1.0      
+    0.0   27,295     3,175  
+    1.0      884   121,498  
+
+dispL003
+          0.0       1.0     
+    0.0   105,279      756  
+    1.0       423   46,286  
+
+dispL006
+          0.0      1.0     
+    0.0   16,143   29,028  
+    1.0   15,492   91,987  
+
+dispL007
+          0.0   1.0      
+    0.0   126    32,491  
+    1.0   368   119,665  
+
+dispF002
+          0.0   1.0      
+    0.0   809    30,900  
+    1.0   851   120,090  
+
+dispL004
+          0.0   1.0      
+    0.0   514    19,291  
+    1.0   653   132,092  
+
+dispL010
+          0.0      1.0    
+    0.0   90,744   7,765  
+    1.0   46,194   7,609  
+
+dispL001
+          0.0     1.0      
+    0.0   3,019    11,675  
+    1.0   3,005   134,397  
+
+dispL008
+          0.0      1.0     
+    0.0   56,668   30,073  
+    1.0   35,448   29,885  
+
+dispF001
+          0.0   1.0      
+    0.0   120     4,095  
+    1.0    42   147,647  
+
+dispL002
+          0.0      1.0     
+    0.0   13,454   55,038  
+    1.0      761   81,988  
+
+dispL009
+          0.0     1.0      
+    0.0   8,217    27,431  
+    1.0     112   114,974  
+
+dispL011
+          0.0     1.0      
+    0.0     512     8,137  
+    1.0   4,560   136,991  "
+HoeffdingTreeClassifier,3,14,14,0.31508322457517535,"{'dispL005': MacroF1: 96.03%, 'dispL003': MacroF1: 99.10%, 'dispL006': MacroF1: 58.15%, 'dispL007': MacroF1: 43.48%, 'dispF002': MacroF1: 47.33%, 'dispL004': MacroF1: 48.91%, 'dispL010': MacroF1: 49.42%, 'dispL001': MacroF1: 61.07%, 'dispL008': MacroF1: 53.74%, 'dispF001': MacroF1: 51.05%, 'dispL002': MacroF1: 53.26%, 'dispL009': MacroF1: 63.34%, 'dispL011': MacroF1: 51.70%}",0.7521200518375555,"dispL005
+          0.0      1.0      
+    0.0   31,163     3,297  
+    1.0      930   130,737  
+
+dispL003
+          0.0       1.0     
+    0.0   116,077      803  
+    1.0       450   48,689  
+
+dispL006
+          0.0      1.0     
+    0.0   16,143   37,579  
+    1.0   15,492   96,711  
+
+dispL007
+          0.0   1.0      
+    0.0   126    39,509  
+    1.0   368   125,922  
+
+dispF002
+          0.0     1.0      
+    0.0   1,398    35,304  
+    1.0   1,154   128,069  
+
+dispL004
+          0.0   1.0      
+    0.0   514    20,467  
+    1.0   653   144,191  
+
+dispL010
+          0.0       1.0    
+    0.0   100,685   7,765  
+    1.0    49,528   7,609  
+
+dispL001
+          0.0     1.0      
+    0.0   3,019    13,046  
+    1.0   3,005   146,301  
+
+dispL008
+          0.0      1.0     
+    0.0   61,832   30,073  
+    1.0   43,559   29,885  
+
+dispF001
+          0.0   1.0      
+    0.0   120     5,854  
+    1.0    42   159,163  
+
+dispL002
+          0.0      1.0     
+    0.0   13,605   59,067  
+    1.0      772   91,072  
+
+dispL009
+          0.0     1.0      
+    0.0   8,217    28,238  
+    1.0     112   127,442  
+
+dispL011
+          0.0     1.0      
+    0.0     512     8,137  
+    1.0   4,560   150,266  "
+HoeffdingTreeClassifier,3,15,15,0.3073227397257228,"{'dispL005': MacroF1: 96.02%, 'dispL003': MacroF1: 99.23%, 'dispL006': MacroF1: 56.51%, 'dispL007': MacroF1: 43.80%, 'dispF002': MacroF1: 47.69%, 'dispL004': MacroF1: 48.38%, 'dispL010': MacroF1: 49.02%, 'dispL001': MacroF1: 60.39%, 'dispL008': MacroF1: 50.45%, 'dispF001': MacroF1: 50.79%, 'dispL002': MacroF1: 54.46%, 'dispL009': MacroF1: 63.37%, 'dispL011': MacroF1: 51.85%}",0.7487684803175394,"dispL005
+          0.0      1.0      
+    0.0   34,197     3,590  
+    1.0    1,040   140,188  
+
+dispL003
+          0.0       1.0     
+    0.0   116,077      803  
+    1.0       450   61,577  
+
+dispL006
+          0.0      1.0      
+    0.0   16,143    43,750  
+    1.0   15,492   103,428  
+
+dispL007
+          0.0   1.0      
+    0.0   126    40,755  
+    1.0   368   137,564  
+
+dispF002
+          0.0     1.0      
+    0.0   1,501    36,087  
+    1.0   1,800   139,425  
+
+dispL004
+          0.0   1.0      
+    0.0   514    23,620  
+    1.0   653   153,926  
+
+dispL010
+          0.0       1.0    
+    0.0   109,581   7,765  
+    1.0    53,520   7,609  
+
+dispL001
+          0.0     1.0      
+    0.0   3,019    14,225  
+    1.0   3,005   158,010  
+
+dispL008
+          0.0      1.0     
+    0.0   63,113   30,073  
+    1.0   55,166   29,885  
+
+dispF001
+          0.0   1.0      
+    0.0   120     6,614  
+    1.0    42   171,291  
+
+dispL002
+          0.0      1.0      
+    0.0   13,605    59,067  
+    1.0      772   103,960  
+
+dispL009
+          0.0     1.0      
+    0.0   8,217    28,910  
+    1.0     112   139,658  
+
+dispL011
+          0.0     1.0      
+    0.0     512     8,153  
+    1.0   4,560   163,138  "
+HoeffdingTreeClassifier,3,16,16,0.29893092636442853,"{'dispL005': MacroF1: 96.15%, 'dispL003': MacroF1: 99.32%, 'dispL006': MacroF1: 56.35%, 'dispL007': MacroF1: 43.48%, 'dispF002': MacroF1: 47.57%, 'dispL004': MacroF1: 48.01%, 'dispL010': MacroF1: 46.81%, 'dispL001': MacroF1: 55.46%, 'dispL008': MacroF1: 51.92%, 'dispF001': MacroF1: 50.82%, 'dispL002': MacroF1: 55.70%, 'dispL009': MacroF1: 63.82%, 'dispL011': MacroF1: 52.02%}",0.7420286626007917,"dispL005
+          0.0      1.0      
+    0.0   38,030     3,825  
+    1.0    1,121   152,894  
+
+dispL003
+          0.0       1.0     
+    0.0   118,800      824  
+    1.0       450   75,688  
+
+dispL006
+          0.0      1.0      
+    0.0   16,143    47,370  
+    1.0   15,492   116,663  
+
+dispL007
+          0.0   1.0      
+    0.0   126    46,400  
+    1.0   368   148,774  
+
+dispF002
+          0.0     1.0      
+    0.0   1,525    39,102  
+    1.0   1,858   153,183  
+
+dispL004
+          0.0   1.0      
+    0.0   514    26,828  
+    1.0   653   167,573  
+
+dispL010
+          0.0       1.0    
+    0.0   115,568   7,765  
+    1.0    64,388   7,609  
+
+dispL001
+          0.0     1.0      
+    0.0   3,019    23,753  
+    1.0   3,005   165,337  
+
+dispL008
+          0.0      1.0     
+    0.0   63,113   35,175  
+    1.0   57,263   39,541  
+
+dispF001
+          0.0   1.0      
+    0.0   120     6,754  
+    1.0    42   188,006  
+
+dispL002
+          0.0      1.0      
+    0.0   13,605    59,067  
+    1.0      772   120,815  
+
+dispL009
+          0.0     1.0      
+    0.0   8,217    28,944  
+    1.0     112   156,479  
+
+dispL011
+          0.0     1.0      
+    0.0     512     8,153  
+    1.0   4,560   179,993  "
+HoeffdingTreeClassifier,3,17,17,0.2922597197920264,"{'dispL005': MacroF1: 96.20%, 'dispL003': MacroF1: 99.28%, 'dispL006': MacroF1: 55.59%, 'dispL007': MacroF1: 42.83%, 'dispF002': MacroF1: 47.64%, 'dispL004': MacroF1: 47.47%, 'dispL010': MacroF1: 44.81%, 'dispL001': MacroF1: 55.25%, 'dispL008': MacroF1: 55.57%, 'dispF001': MacroF1: 50.58%, 'dispL002': MacroF1: 56.63%, 'dispL009': MacroF1: 64.13%, 'dispL011': MacroF1: 52.16%}",0.7371148778223162,"dispL005
+          0.0      1.0      
+    0.0   42,161     4,138  
+    1.0    1,240   164,218  
+
+dispL003
+          0.0       1.0     
+    0.0   120,498      939  
+    1.0       547   89,665  
+
+dispL006
+          0.0      1.0      
+    0.0   16,143    52,422  
+    1.0   15,492   127,498  
+
+dispL007
+          0.0   1.0      
+    0.0   126    54,166  
+    1.0   368   156,895  
+
+dispF002
+          0.0     1.0      
+    0.0   1,928    44,306  
+    1.0   1,975   163,346  
+
+dispL004
+          0.0   1.0      
+    0.0   514    31,268  
+    1.0   653   179,020  
+
+dispL010
+          0.0       1.0    
+    0.0   120,094   7,765  
+    1.0    75,749   7,609  
+
+dispL001
+          0.0     1.0      
+    0.0   3,019    25,020  
+    1.0   3,005   179,957  
+
+dispL008
+          0.0      1.0     
+    0.0   63,113   36,318  
+    1.0   57,263   54,285  
+
+dispF001
+          0.0   1.0      
+    0.0   120     7,669  
+    1.0    42   202,978  
+
+dispL002
+          0.0      1.0      
+    0.0   13,605    59,139  
+    1.0      772   136,630  
+
+dispL009
+          0.0     1.0      
+    0.0   8,217    29,030  
+    1.0     112   172,280  
+
+dispL011
+          0.0     1.0      
+    0.0     512     8,153  
+    1.0   4,560   195,880  "
+HoeffdingTreeClassifier,3,18,18,0.2876100329522926,"{'dispL005': MacroF1: 96.35%, 'dispL003': MacroF1: 99.29%, 'dispL006': MacroF1: 54.37%, 'dispL007': MacroF1: 42.49%, 'dispF002': MacroF1: 48.08%, 'dispL004': MacroF1: 47.04%, 'dispL010': MacroF1: 43.71%, 'dispL001': MacroF1: 54.71%, 'dispL008': MacroF1: 57.33%, 'dispF001': MacroF1: 50.61%, 'dispL002': MacroF1: 57.26%, 'dispL009': MacroF1: 64.38%, 'dispL011': MacroF1: 52.25%}",0.7350919179704145,"dispL005
+          0.0      1.0      
+    0.0   47,307     4,372  
+    1.0    1,311   171,395  
+
+dispL003
+          0.0       1.0      
+    0.0   122,053       977  
+    1.0       592   100,655  
+
+dispL006
+          0.0      1.0      
+    0.0   16,143    58,504  
+    1.0   15,492   134,044  
+
+dispL007
+          0.0   1.0      
+    0.0   126    59,579  
+    1.0   368   164,110  
+
+dispF002
+          0.0     1.0      
+    0.0   1,970    44,458  
+    1.0   1,975   175,780  
+
+dispL004
+          0.0   1.0      
+    0.0   514    35,179  
+    1.0   653   187,737  
+
+dispL010
+          0.0       1.0    
+    0.0   124,738   7,765  
+    1.0    83,733   7,609  
+
+dispL001
+          0.0     1.0      
+    0.0   3,019    27,041  
+    1.0   3,005   190,564  
+
+dispL008
+          0.0      1.0     
+    0.0   63,113   38,139  
+    1.0   57,263   65,092  
+
+dispF001
+          0.0   1.0      
+    0.0   120     7,734  
+    1.0    42   215,541  
+
+dispL002
+          0.0      1.0      
+    0.0   13,605    59,139  
+    1.0      772   149,258  
+
+dispL009
+          0.0     1.0      
+    0.0   8,217    29,030  
+    1.0     112   184,908  
+
+dispL011
+          0.0     1.0      
+    0.0     512     8,153  
+    1.0   4,560   208,508  "

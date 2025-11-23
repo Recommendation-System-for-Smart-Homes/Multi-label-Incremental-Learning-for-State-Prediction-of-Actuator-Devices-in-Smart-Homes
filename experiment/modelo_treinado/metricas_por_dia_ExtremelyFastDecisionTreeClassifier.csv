@@ -1,0 +1,2354 @@
+nome_modelo,index_cenario,dia_dados,dia_experimento,tempoMedioInferencia,deviceMacroF1PerDevice,mediaMicro,matrizConfisao
+ExtremelyFastDecisionTreeClassifier,0,20,1,0.0,{},0.0,
+ExtremelyFastDecisionTreeClassifier,0,21,2,0.23694213636363634,"{'dispe3d457f8ccadfa505c7579f0d2a7f630': MacroF1: 67.58%, 'dispf34127e9d687887832c76c7fed087a61': MacroF1: 49.05%, 'disp4af167c9d4df8acd2894e2f77c7aec28': MacroF1: 34.19%}",0.528157894736842,"dispe3d457f8ccadfa505c7579f0d2a7f630
+          2.0   5.0  
+    2.0     9     1  
+    5.0     6     6  
+
+dispf34127e9d687887832c76c7fed087a61
+          1.0   4.0  
+    1.0     4     2  
+    4.0     9     7  
+
+disp4af167c9d4df8acd2894e2f77c7aec28
+          2.0   5.0  
+    2.0     3     0  
+    5.0     7     1  "
+ExtremelyFastDecisionTreeClassifier,0,22,3,0.29913926865671636,"{'dispe3d457f8ccadfa505c7579f0d2a7f630': MacroF1: 69.55%, 'dispf34127e9d687887832c76c7fed087a61': MacroF1: 60.62%, 'disp4af167c9d4df8acd2894e2f77c7aec28': MacroF1: 63.58%}",0.6647986057869778,"dispe3d457f8ccadfa505c7579f0d2a7f630
+          2.0   5.0  
+    2.0    36     8  
+    5.0    10    13  
+
+dispf34127e9d687887832c76c7fed087a61
+          1.0   4.0  
+    1.0    10     3  
+    4.0    20    34  
+
+disp4af167c9d4df8acd2894e2f77c7aec28
+          2.0   5.0  
+    2.0     7     1  
+    5.0    15    33  "
+ExtremelyFastDecisionTreeClassifier,0,23,4,0.2286336016260163,"{'dispe3d457f8ccadfa505c7579f0d2a7f630': MacroF1: 75.15%, 'dispf34127e9d687887832c76c7fed087a61': MacroF1: 60.58%, 'disp4af167c9d4df8acd2894e2f77c7aec28': MacroF1: 72.57%}",0.707077479904719,"dispe3d457f8ccadfa505c7579f0d2a7f630
+          2.0   5.0  
+    2.0    78     9  
+    5.0    15    21  
+
+dispf34127e9d687887832c76c7fed087a61
+          1.0   4.0  
+    1.0    18     6  
+    4.0    36    63  
+
+disp4af167c9d4df8acd2894e2f77c7aec28
+          2.0   5.0  
+    2.0    14     3  
+    5.0    18    77  "
+ExtremelyFastDecisionTreeClassifier,0,24,5,0.2023273529411765,"{'dispe3d457f8ccadfa505c7579f0d2a7f630': MacroF1: 72.92%, 'dispf34127e9d687887832c76c7fed087a61': MacroF1: 60.84%, 'disp4af167c9d4df8acd2894e2f77c7aec28': MacroF1: 74.00%}",0.7091303262118399,"dispe3d457f8ccadfa505c7579f0d2a7f630
+          2.0   5.0  
+    2.0    97     9  
+    5.0    23    24  
+
+dispf34127e9d687887832c76c7fed087a61
+          1.0   4.0  
+    1.0    24     7  
+    4.0    46    76  
+
+disp4af167c9d4df8acd2894e2f77c7aec28
+          2.0   5.0  
+    2.0    17     6  
+    5.0    18   101  "
+ExtremelyFastDecisionTreeClassifier,0,25,6,0.18961730285714287,"{'dispe3d457f8ccadfa505c7579f0d2a7f630': MacroF1: 70.51%, 'dispf34127e9d687887832c76c7fed087a61': MacroF1: 62.25%, 'disp4af167c9d4df8acd2894e2f77c7aec28': MacroF1: 74.15%}",0.7136078211687981,"dispe3d457f8ccadfa505c7579f0d2a7f630
+          2.0   5.0  
+    2.0   109     9  
+    5.0    31    26  
+
+dispf34127e9d687887832c76c7fed087a61
+          1.0   4.0  
+    1.0    31     8  
+    4.0    52    84  
+
+disp4af167c9d4df8acd2894e2f77c7aec28
+          2.0   5.0  
+    2.0    18     7  
+    5.0    19   120  "
+ExtremelyFastDecisionTreeClassifier,0,26,7,0.16753885972850674,"{'dispe3d457f8ccadfa505c7579f0d2a7f630': MacroF1: 69.41%, 'dispf34127e9d687887832c76c7fed087a61': MacroF1: 65.74%, 'disp4af167c9d4df8acd2894e2f77c7aec28': MacroF1: 74.83%}",0.7402174743193187,"dispe3d457f8ccadfa505c7579f0d2a7f630
+          2.0   5.0  
+    2.0   146     9  
+    5.0    39    27  
+
+dispf34127e9d687887832c76c7fed087a61
+          1.0   4.0  
+    1.0    50     8  
+    4.0    64    99  
+
+disp4af167c9d4df8acd2894e2f77c7aec28
+          2.0   5.0  
+    2.0    19     9  
+    5.0    19   163  "
+ExtremelyFastDecisionTreeClassifier,0,27,8,0.15625622267206477,"{'dispe3d457f8ccadfa505c7579f0d2a7f630': MacroF1: 68.05%, 'dispf34127e9d687887832c76c7fed087a61': MacroF1: 66.28%, 'disp4af167c9d4df8acd2894e2f77c7aec28': MacroF1: 75.39%}",0.7441061233027764,"dispe3d457f8ccadfa505c7579f0d2a7f630
+          2.0   5.0  
+    2.0   164     9  
+    5.0    46    28  
+
+dispf34127e9d687887832c76c7fed087a61
+          1.0   4.0  
+    1.0    59     8  
+    4.0    72   108  
+
+disp4af167c9d4df8acd2894e2f77c7aec28
+          2.0   5.0  
+    2.0    20    10  
+    5.0    19   187  "
+ExtremelyFastDecisionTreeClassifier,0,28,9,0.1488682777777778,"{'dispe3d457f8ccadfa505c7579f0d2a7f630': MacroF1: 67.58%, 'dispf34127e9d687887832c76c7fed087a61': MacroF1: 66.34%, 'disp4af167c9d4df8acd2894e2f77c7aec28': MacroF1: 75.37%}",0.7386355439150423,"dispe3d457f8ccadfa505c7579f0d2a7f630
+          2.0   5.0  
+    2.0   173     9  
+    5.0    55    33  
+
+dispf34127e9d687887832c76c7fed087a61
+          1.0   4.0  
+    1.0    67     8  
+    4.0    80   115  
+
+disp4af167c9d4df8acd2894e2f77c7aec28
+          2.0   5.0  
+    2.0    24    14  
+    5.0    20   201  "
+ExtremelyFastDecisionTreeClassifier,0,29,10,0.13456395384615386,"{'dispe3d457f8ccadfa505c7579f0d2a7f630': MacroF1: 67.89%, 'dispf34127e9d687887832c76c7fed087a61': MacroF1: 64.00%, 'disp4af167c9d4df8acd2894e2f77c7aec28': MacroF1: 76.65%}",0.735128146800403,"dispe3d457f8ccadfa505c7579f0d2a7f630
+          2.0   5.0  
+    2.0   217     9  
+    5.0    63    36  
+
+dispf34127e9d687887832c76c7fed087a61
+          1.0   4.0  
+    1.0    76     8  
+    4.0   105   136  
+
+disp4af167c9d4df8acd2894e2f77c7aec28
+          2.0   5.0  
+    2.0    27    16  
+    5.0    20   251  "
+ExtremelyFastDecisionTreeClassifier,0,30,11,0.12992450142450143,"{'dispe3d457f8ccadfa505c7579f0d2a7f630': MacroF1: 67.86%, 'dispf34127e9d687887832c76c7fed087a61': MacroF1: 62.41%, 'disp4af167c9d4df8acd2894e2f77c7aec28': MacroF1: 77.35%}",0.7277070821000189,"dispe3d457f8ccadfa505c7579f0d2a7f630
+          2.0   5.0  
+    2.0   234     9  
+    5.0    69    39  
+
+dispf34127e9d687887832c76c7fed087a61
+          1.0   4.0  
+    1.0    78    13  
+    4.0   114   146  
+
+disp4af167c9d4df8acd2894e2f77c7aec28
+          2.0   5.0  
+    2.0    30    18  
+    5.0    20   272  "
+ExtremelyFastDecisionTreeClassifier,0,1,12,0.12984597943444734,"{'dispe3d457f8ccadfa505c7579f0d2a7f630': MacroF1: 67.07%, 'dispf34127e9d687887832c76c7fed087a61': MacroF1: 61.61%, 'disp4af167c9d4df8acd2894e2f77c7aec28': MacroF1: 76.96%}",0.7248559248559248,"dispe3d457f8ccadfa505c7579f0d2a7f630
+          2.0   5.0  
+    2.0   263     9  
+    5.0    77    40  
+
+dispf34127e9d687887832c76c7fed087a61
+          1.0   4.0  
+    1.0    78    24  
+    4.0   117   170  
+
+disp4af167c9d4df8acd2894e2f77c7aec28
+          2.0   5.0  
+    2.0    31    21  
+    5.0    20   306  "
+ExtremelyFastDecisionTreeClassifier,0,2,13,0.12840445454545457,"{'dispe3d457f8ccadfa505c7579f0d2a7f630': MacroF1: 66.74%, 'dispf34127e9d687887832c76c7fed087a61': MacroF1: 61.36%, 'disp4af167c9d4df8acd2894e2f77c7aec28': MacroF1: 77.47%}",0.7210110207354195,"dispe3d457f8ccadfa505c7579f0d2a7f630
+          2.0   5.0  
+    2.0   269     9  
+    5.0    85    44  
+
+dispf34127e9d687887832c76c7fed087a61
+          1.0   4.0  
+    1.0    78    30  
+    4.0   117   182  
+
+disp4af167c9d4df8acd2894e2f77c7aec28
+          2.0   5.0  
+    2.0    34    22  
+    5.0    21   319  "
+ExtremelyFastDecisionTreeClassifier,0,3,14,0.12679110816777045,"{'dispe3d457f8ccadfa505c7579f0d2a7f630': MacroF1: 66.29%, 'dispf34127e9d687887832c76c7fed087a61': MacroF1: 60.75%, 'disp4af167c9d4df8acd2894e2f77c7aec28': MacroF1: 77.51%}",0.7211920245238208,"dispe3d457f8ccadfa505c7579f0d2a7f630
+          2.0   5.0  
+    2.0   306     9  
+    5.0    93    45  
+
+dispf34127e9d687887832c76c7fed087a61
+          1.0   4.0  
+    1.0    78    45  
+    4.0   117   213  
+
+disp4af167c9d4df8acd2894e2f77c7aec28
+          2.0   5.0  
+    2.0    35    24  
+    5.0    21   362  "
+ExtremelyFastDecisionTreeClassifier,1,20,1,0.0,{},0.0,
+ExtremelyFastDecisionTreeClassifier,1,21,2,1.1585406294416245,"{'disp12d66aea27fe15ee30653de92d4c5fa1': MacroF1: 59.22%, 'disp18a2fbd7bb103309ff355641581b0265': MacroF1: 50.24%, 'disp05f72682660e0d7279afe7dd279cf222': MacroF1: 67.61%, 'dispc39d4b98d36b7a7a1f8b5d008435a943': MacroF1: 65.03%, 'disp2bec1140d082890e59f56d23be53a13c': MacroF1: 71.97%, 'disp8d704d5b59a836e2d12bd0f513bb5c24': MacroF1: 52.01%, 'dispcc73a6cd1c147e6590b75f33832050e0': MacroF1: 53.20%, 'disp98165e17b547d7ee020db66abe427d35': MacroF1: 91.53%, 'dispb5270dcf23f163d3a80ae25bb595caad': MacroF1: 79.73%}",0.681925417033777,"disp12d66aea27fe15ee30653de92d4c5fa1
+          1.0   2.0  
+    1.0    14     3  
+    2.0    49   131  
+
+disp18a2fbd7bb103309ff355641581b0265
+          1.0   2.0  
+    1.0    48    20  
+    2.0    78    51  
+
+disp05f72682660e0d7279afe7dd279cf222
+          4.0   5.0  
+    4.0    42    22  
+    5.0    34    85  
+
+dispc39d4b98d36b7a7a1f8b5d008435a943
+          4.0   5.0  
+    4.0    43    31  
+    5.0    29    74  
+
+disp2bec1140d082890e59f56d23be53a13c
+          4.0   5.0  
+    4.0    33    28  
+    5.0    13    95  
+
+disp8d704d5b59a836e2d12bd0f513bb5c24
+          1.0   2.0  
+    1.0    34    27  
+    2.0    52    54  
+
+dispcc73a6cd1c147e6590b75f33832050e0
+          4.0   5.0  
+    4.0    28     9  
+    5.0    61    57  
+
+disp98165e17b547d7ee020db66abe427d35
+          4.0   5.0  
+    4.0    11     0  
+    5.0     4   127  
+
+dispb5270dcf23f163d3a80ae25bb595caad
+          6.0   7.0  
+    6.0     5     0  
+    7.0     6    96  "
+ExtremelyFastDecisionTreeClassifier,1,22,3,0.9007662446483181,"{'disp12d66aea27fe15ee30653de92d4c5fa1': MacroF1: 62.97%, 'disp18a2fbd7bb103309ff355641581b0265': MacroF1: 58.77%, 'disp05f72682660e0d7279afe7dd279cf222': MacroF1: 66.80%, 'dispc39d4b98d36b7a7a1f8b5d008435a943': MacroF1: 67.06%, 'disp2bec1140d082890e59f56d23be53a13c': MacroF1: 70.93%, 'disp8d704d5b59a836e2d12bd0f513bb5c24': MacroF1: 60.72%, 'dispcc73a6cd1c147e6590b75f33832050e0': MacroF1: 58.18%, 'disp98165e17b547d7ee020db66abe427d35': MacroF1: 91.92%, 'dispb5270dcf23f163d3a80ae25bb595caad': MacroF1: 80.59%, 'disp42e0b13c95928df3e153740656d91701': MacroF1: 40.00%}",0.7041586984689837,"disp12d66aea27fe15ee30653de92d4c5fa1
+          1.0   2.0  
+    1.0    14     3  
+    2.0    49   261  
+
+disp18a2fbd7bb103309ff355641581b0265
+          1.0   2.0  
+    1.0    65    42  
+    2.0    87   133  
+
+disp05f72682660e0d7279afe7dd279cf222
+          4.0   5.0  
+    4.0    46    49  
+    5.0    35   183  
+
+dispc39d4b98d36b7a7a1f8b5d008435a943
+          4.0   5.0  
+    4.0    47    54  
+    5.0    29   177  
+
+disp2bec1140d082890e59f56d23be53a13c
+          4.0   5.0  
+    4.0    50    49  
+    5.0    22   178  
+
+disp8d704d5b59a836e2d12bd0f513bb5c24
+          1.0   2.0  
+    1.0    38    44  
+    2.0    52   163  
+
+dispcc73a6cd1c147e6590b75f33832050e0
+          4.0   5.0  
+    4.0    30    32  
+    5.0    62   161  
+
+disp98165e17b547d7ee020db66abe427d35
+          4.0   5.0  
+    4.0    11     0  
+    5.0     4   257  
+
+dispb5270dcf23f163d3a80ae25bb595caad
+          6.0   7.0  
+    6.0     5     0  
+    7.0     6   226  
+
+disp42e0b13c95928df3e153740656d91701
+          4.0   5.0  
+    4.0     0     0  
+    5.0    23    46  "
+ExtremelyFastDecisionTreeClassifier,1,23,4,0.8796896458923519,"{'disp12d66aea27fe15ee30653de92d4c5fa1': MacroF1: 63.04%, 'disp18a2fbd7bb103309ff355641581b0265': MacroF1: 59.95%, 'disp05f72682660e0d7279afe7dd279cf222': MacroF1: 65.94%, 'dispc39d4b98d36b7a7a1f8b5d008435a943': MacroF1: 66.47%, 'disp2bec1140d082890e59f56d23be53a13c': MacroF1: 71.37%, 'disp8d704d5b59a836e2d12bd0f513bb5c24': MacroF1: 61.97%, 'dispcc73a6cd1c147e6590b75f33832050e0': MacroF1: 59.44%, 'disp98165e17b547d7ee020db66abe427d35': MacroF1: 91.96%, 'dispb5270dcf23f163d3a80ae25bb595caad': MacroF1: 80.66%, 'disp42e0b13c95928df3e153740656d91701': MacroF1: 43.11%}",0.7073869375543972,"disp12d66aea27fe15ee30653de92d4c5fa1
+          1.0   2.0  
+    1.0    14     4  
+    2.0    49   286  
+
+disp18a2fbd7bb103309ff355641581b0265
+          1.0   2.0  
+    1.0    67    46  
+    2.0    87   153  
+
+disp05f72682660e0d7279afe7dd279cf222
+          4.0   5.0  
+    4.0    46    56  
+    5.0    35   202  
+
+dispc39d4b98d36b7a7a1f8b5d008435a943
+          4.0   5.0  
+    4.0    47    60  
+    5.0    29   197  
+
+disp2bec1140d082890e59f56d23be53a13c
+          4.0   5.0  
+    4.0    52    52  
+    5.0    22   199  
+
+disp8d704d5b59a836e2d12bd0f513bb5c24
+          1.0   2.0  
+    1.0    38    44  
+    2.0    52   189  
+
+dispcc73a6cd1c147e6590b75f33832050e0
+          4.0   5.0  
+    4.0    30    32  
+    5.0    62   187  
+
+disp98165e17b547d7ee020db66abe427d35
+          4.0   5.0  
+    4.0    11     0  
+    5.0     4   283  
+
+dispb5270dcf23f163d3a80ae25bb595caad
+          6.0   7.0  
+    6.0     5     0  
+    7.0     6   252  
+
+disp42e0b13c95928df3e153740656d91701
+          4.0   5.0  
+    4.0     0     0  
+    5.0    23    72  "
+ExtremelyFastDecisionTreeClassifier,1,24,5,0.700658427745665,"{'disp12d66aea27fe15ee30653de92d4c5fa1': MacroF1: 61.68%, 'disp18a2fbd7bb103309ff355641581b0265': MacroF1: 59.48%, 'disp05f72682660e0d7279afe7dd279cf222': MacroF1: 65.19%, 'dispc39d4b98d36b7a7a1f8b5d008435a943': MacroF1: 69.95%, 'disp2bec1140d082890e59f56d23be53a13c': MacroF1: 76.87%, 'disp8d704d5b59a836e2d12bd0f513bb5c24': MacroF1: 62.87%, 'dispcc73a6cd1c147e6590b75f33832050e0': MacroF1: 60.21%, 'disp98165e17b547d7ee020db66abe427d35': MacroF1: 71.44%, 'dispb5270dcf23f163d3a80ae25bb595caad': MacroF1: 80.89%, 'disp42e0b13c95928df3e153740656d91701': MacroF1: 50.49%}",0.710565057055272,"disp12d66aea27fe15ee30653de92d4c5fa1
+          1.0   2.0  
+    1.0    21    37  
+    2.0    49   412  
+
+disp18a2fbd7bb103309ff355641581b0265
+          1.0   2.0  
+    1.0    87   105  
+    2.0    87   240  
+
+disp05f72682660e0d7279afe7dd279cf222
+          4.0   5.0  
+    4.0    56    86  
+    5.0    41   322  
+
+dispc39d4b98d36b7a7a1f8b5d008435a943
+          4.0   5.0  
+    4.0    78    91  
+    5.0    29   301  
+
+disp2bec1140d082890e59f56d23be53a13c
+          4.0   5.0  
+    4.0    72    58  
+    5.0    22   339  
+
+disp8d704d5b59a836e2d12bd0f513bb5c24
+          1.0   2.0  
+    1.0    54    84  
+    2.0    52   299  
+
+dispcc73a6cd1c147e6590b75f33832050e0
+          4.0   5.0  
+    4.0    39    67  
+    5.0    62   309  
+
+disp98165e17b547d7ee020db66abe427d35
+          4.0   5.0  
+    4.0    11    22  
+    5.0     4   427  
+
+dispb5270dcf23f163d3a80ae25bb595caad
+          6.0   7.0  
+    6.0     5     0  
+    7.0     6   418  
+
+disp42e0b13c95928df3e153740656d91701
+          4.0   5.0  
+    4.0     1     5  
+    5.0    23   232  "
+ExtremelyFastDecisionTreeClassifier,1,25,6,0.5756942320916902,"{'disp12d66aea27fe15ee30653de92d4c5fa1': MacroF1: 59.29%, 'disp18a2fbd7bb103309ff355641581b0265': MacroF1: 60.98%, 'disp05f72682660e0d7279afe7dd279cf222': MacroF1: 66.56%, 'dispc39d4b98d36b7a7a1f8b5d008435a943': MacroF1: 71.84%, 'disp2bec1140d082890e59f56d23be53a13c': MacroF1: 76.77%, 'disp8d704d5b59a836e2d12bd0f513bb5c24': MacroF1: 67.54%, 'dispcc73a6cd1c147e6590b75f33832050e0': MacroF1: 64.36%, 'disp98165e17b547d7ee020db66abe427d35': MacroF1: 72.05%, 'dispb5270dcf23f163d3a80ae25bb595caad': MacroF1: 72.66%, 'disp42e0b13c95928df3e153740656d91701': MacroF1: 51.69%}",0.6932278915071532,"disp12d66aea27fe15ee30653de92d4c5fa1
+          1.0   2.0  
+    1.0    25    75  
+    2.0    49   549  
+
+disp18a2fbd7bb103309ff355641581b0265
+          1.0   2.0  
+    1.0   101   147  
+    2.0    87   363  
+
+disp05f72682660e0d7279afe7dd279cf222
+          4.0   5.0  
+    4.0    72   108  
+    5.0    49   455  
+
+dispc39d4b98d36b7a7a1f8b5d008435a943
+          4.0   5.0  
+    4.0   107   121  
+    5.0    29   421  
+
+disp2bec1140d082890e59f56d23be53a13c
+          4.0   5.0  
+    4.0    86    79  
+    5.0    22   483  
+
+disp8d704d5b59a836e2d12bd0f513bb5c24
+          1.0   2.0  
+    1.0    83   108  
+    2.0    52   425  
+
+dispcc73a6cd1c147e6590b75f33832050e0
+          4.0   5.0  
+    4.0    58    83  
+    5.0    69   446  
+
+disp98165e17b547d7ee020db66abe427d35
+          4.0   5.0  
+    4.0    15    30  
+    5.0     4   594  
+
+dispb5270dcf23f163d3a80ae25bb595caad
+          6.0   7.0  
+    6.0     7     9  
+    7.0     7   585  
+
+disp42e0b13c95928df3e153740656d91701
+          4.0   5.0  
+    4.0     1     5  
+    5.0    23   411  "
+ExtremelyFastDecisionTreeClassifier,1,26,7,0.5053354797752808,"{'disp12d66aea27fe15ee30653de92d4c5fa1': MacroF1: 64.41%, 'disp18a2fbd7bb103309ff355641581b0265': MacroF1: 65.02%, 'disp05f72682660e0d7279afe7dd279cf222': MacroF1: 68.57%, 'dispc39d4b98d36b7a7a1f8b5d008435a943': MacroF1: 73.66%, 'disp2bec1140d082890e59f56d23be53a13c': MacroF1: 79.10%, 'disp8d704d5b59a836e2d12bd0f513bb5c24': MacroF1: 71.58%, 'dispcc73a6cd1c147e6590b75f33832050e0': MacroF1: 66.39%, 'disp98165e17b547d7ee020db66abe427d35': MacroF1: 78.07%, 'dispb5270dcf23f163d3a80ae25bb595caad': MacroF1: 80.47%, 'disp42e0b13c95928df3e153740656d91701': MacroF1: 52.20%}",0.7417148232152658,"disp12d66aea27fe15ee30653de92d4c5fa1
+          1.0   2.0  
+    1.0    40    85  
+    2.0    49   716  
+
+disp18a2fbd7bb103309ff355641581b0265
+          1.0   2.0  
+    1.0   145   181  
+    2.0    87   477  
+
+disp05f72682660e0d7279afe7dd279cf222
+          4.0   5.0  
+    4.0   101   135  
+    5.0    57   583  
+
+dispc39d4b98d36b7a7a1f8b5d008435a943
+          4.0   5.0  
+    4.0   142   150  
+    5.0    29   549  
+
+disp2bec1140d082890e59f56d23be53a13c
+          4.0   5.0  
+    4.0   130   103  
+    5.0    22   607  
+
+disp8d704d5b59a836e2d12bd0f513bb5c24
+          1.0   2.0  
+    1.0   118   127  
+    2.0    52   563  
+
+dispcc73a6cd1c147e6590b75f33832050e0
+          4.0   5.0  
+    4.0    71    96  
+    5.0    76   605  
+
+disp98165e17b547d7ee020db66abe427d35
+          4.0   5.0  
+    4.0    30    38  
+    5.0     4   763  
+
+dispb5270dcf23f163d3a80ae25bb595caad
+          6.0   7.0  
+    6.0    20    16  
+    7.0     8   756  
+
+disp42e0b13c95928df3e153740656d91701
+          4.0   5.0  
+    4.0     1     5  
+    5.0    23   603  "
+ExtremelyFastDecisionTreeClassifier,1,27,8,0.4619644816556912,"{'disp12d66aea27fe15ee30653de92d4c5fa1': MacroF1: 69.18%, 'disp18a2fbd7bb103309ff355641581b0265': MacroF1: 67.62%, 'disp05f72682660e0d7279afe7dd279cf222': MacroF1: 69.38%, 'dispc39d4b98d36b7a7a1f8b5d008435a943': MacroF1: 73.60%, 'disp2bec1140d082890e59f56d23be53a13c': MacroF1: 80.47%, 'disp8d704d5b59a836e2d12bd0f513bb5c24': MacroF1: 73.00%, 'dispcc73a6cd1c147e6590b75f33832050e0': MacroF1: 67.92%, 'disp98165e17b547d7ee020db66abe427d35': MacroF1: 82.46%, 'dispb5270dcf23f163d3a80ae25bb595caad': MacroF1: 82.81%, 'disp42e0b13c95928df3e153740656d91701': MacroF1: 52.45%}",0.7623603550999447,"disp12d66aea27fe15ee30653de92d4c5fa1
+          1.0   2.0  
+    1.0    61    94  
+    2.0    49   859  
+
+disp18a2fbd7bb103309ff355641581b0265
+          1.0   2.0  
+    1.0   183   208  
+    2.0    87   585  
+
+disp05f72682660e0d7279afe7dd279cf222
+          4.0   5.0  
+    4.0   124   159  
+    5.0    65   701  
+
+dispc39d4b98d36b7a7a1f8b5d008435a943
+          4.0   5.0  
+    4.0   176   190  
+    5.0    29   648  
+
+disp2bec1140d082890e59f56d23be53a13c
+          4.0   5.0  
+    4.0   168   122  
+    5.0    22   723  
+
+disp8d704d5b59a836e2d12bd0f513bb5c24
+          1.0   2.0  
+    1.0   152   156  
+    2.0    52   673  
+
+dispcc73a6cd1c147e6590b75f33832050e0
+          4.0   5.0  
+    4.0    84   109  
+    5.0    80   748  
+
+disp98165e17b547d7ee020db66abe427d35
+          4.0   5.0  
+    4.0    51    45  
+    5.0     4   908  
+
+dispb5270dcf23f163d3a80ae25bb595caad
+          6.0   7.0  
+    6.0    33    23  
+    7.0     9   908  
+
+disp42e0b13c95928df3e153740656d91701
+          4.0   5.0  
+    4.0     1     5  
+    5.0    23   776  "
+ExtremelyFastDecisionTreeClassifier,1,28,9,0.44111999201915364,"{'disp12d66aea27fe15ee30653de92d4c5fa1': MacroF1: 71.76%, 'disp18a2fbd7bb103309ff355641581b0265': MacroF1: 70.31%, 'disp05f72682660e0d7279afe7dd279cf222': MacroF1: 69.93%, 'dispc39d4b98d36b7a7a1f8b5d008435a943': MacroF1: 74.96%, 'disp2bec1140d082890e59f56d23be53a13c': MacroF1: 81.49%, 'disp8d704d5b59a836e2d12bd0f513bb5c24': MacroF1: 75.03%, 'dispcc73a6cd1c147e6590b75f33832050e0': MacroF1: 68.77%, 'disp98165e17b547d7ee020db66abe427d35': MacroF1: 84.16%, 'dispb5270dcf23f163d3a80ae25bb595caad': MacroF1: 83.65%, 'disp42e0b13c95928df3e153740656d91701': MacroF1: 52.62%}",0.778029352215723,"disp12d66aea27fe15ee30653de92d4c5fa1
+          1.0   2.0    
+    1.0    74      98  
+    2.0    49   1,032  
+
+disp18a2fbd7bb103309ff355641581b0265
+          1.0   2.0  
+    1.0   234   234  
+    2.0    87   698  
+
+disp05f72682660e0d7279afe7dd279cf222
+          4.0   5.0  
+    4.0   150   190  
+    5.0    71   828  
+
+dispc39d4b98d36b7a7a1f8b5d008435a943
+          4.0   5.0  
+    4.0   230   225  
+    5.0    29   749  
+
+disp2bec1140d082890e59f56d23be53a13c
+          4.0   5.0  
+    4.0   219   147  
+    5.0    22   837  
+
+disp8d704d5b59a836e2d12bd0f513bb5c24
+          1.0   2.0  
+    1.0   202   180  
+    2.0    56   785  
+
+dispcc73a6cd1c147e6590b75f33832050e0
+          4.0   5.0  
+    4.0    96   123  
+    5.0    86   906  
+
+disp98165e17b547d7ee020db66abe427d35
+          4.0   5.0    
+    4.0    64      49  
+    5.0     4   1,081  
+
+dispb5270dcf23f163d3a80ae25bb595caad
+          6.0   7.0    
+    6.0    46      30  
+    7.0    11   1,076  
+
+disp42e0b13c95928df3e153740656d91701
+          4.0   5.0  
+    4.0     1     5  
+    5.0    23   966  "
+ExtremelyFastDecisionTreeClassifier,1,29,10,0.4211195820679679,"{'disp12d66aea27fe15ee30653de92d4c5fa1': MacroF1: 72.11%, 'disp18a2fbd7bb103309ff355641581b0265': MacroF1: 69.97%, 'disp05f72682660e0d7279afe7dd279cf222': MacroF1: 69.42%, 'dispc39d4b98d36b7a7a1f8b5d008435a943': MacroF1: 74.65%, 'disp2bec1140d082890e59f56d23be53a13c': MacroF1: 80.17%, 'disp8d704d5b59a836e2d12bd0f513bb5c24': MacroF1: 75.03%, 'dispcc73a6cd1c147e6590b75f33832050e0': MacroF1: 68.89%, 'disp98165e17b547d7ee020db66abe427d35': MacroF1: 84.29%, 'dispb5270dcf23f163d3a80ae25bb595caad': MacroF1: 83.75%, 'disp42e0b13c95928df3e153740656d91701': MacroF1: 54.34%}",0.7761151330339894,"disp12d66aea27fe15ee30653de92d4c5fa1
+          1.0   2.0    
+    1.0    74      98  
+    2.0    49   1,162  
+
+disp18a2fbd7bb103309ff355641581b0265
+          1.0   2.0  
+    1.0   244   264  
+    2.0    87   788  
+
+disp05f72682660e0d7279afe7dd279cf222
+          4.0   5.0  
+    4.0   160   212  
+    5.0    78   919  
+
+dispc39d4b98d36b7a7a1f8b5d008435a943
+          4.0   5.0  
+    4.0   236   246  
+    5.0    29   852  
+
+disp2bec1140d082890e59f56d23be53a13c
+          4.0   5.0  
+    4.0   229   175  
+    5.0    22   929  
+
+disp8d704d5b59a836e2d12bd0f513bb5c24
+          1.0   2.0  
+    1.0   208   195  
+    2.0    56   894  
+
+dispcc73a6cd1c147e6590b75f33832050e0
+          4.0   5.0    
+    4.0   105     137  
+    5.0    91   1,008  
+
+disp98165e17b547d7ee020db66abe427d35
+          4.0   5.0    
+    4.0    64      49  
+    5.0     4   1,211  
+
+dispb5270dcf23f163d3a80ae25bb595caad
+          6.0   7.0    
+    6.0    46      30  
+    7.0    11   1,206  
+
+disp42e0b13c95928df3e153740656d91701
+          4.0   5.0    
+    4.0     2      10  
+    5.0    25   1,088  "
+ExtremelyFastDecisionTreeClassifier,1,30,11,0.418223819730305,"{'disp12d66aea27fe15ee30653de92d4c5fa1': MacroF1: 72.07%, 'disp18a2fbd7bb103309ff355641581b0265': MacroF1: 70.10%, 'disp05f72682660e0d7279afe7dd279cf222': MacroF1: 69.38%, 'dispc39d4b98d36b7a7a1f8b5d008435a943': MacroF1: 74.40%, 'disp2bec1140d082890e59f56d23be53a13c': MacroF1: 80.13%, 'disp8d704d5b59a836e2d12bd0f513bb5c24': MacroF1: 75.18%, 'dispcc73a6cd1c147e6590b75f33832050e0': MacroF1: 69.01%, 'disp98165e17b547d7ee020db66abe427d35': MacroF1: 84.31%, 'dispb5270dcf23f163d3a80ae25bb595caad': MacroF1: 83.77%, 'disp42e0b13c95928df3e153740656d91701': MacroF1: 54.35%}",0.7762496884891331,"disp12d66aea27fe15ee30653de92d4c5fa1
+          1.0   2.0    
+    1.0    74      99  
+    2.0    49   1,187  
+
+disp18a2fbd7bb103309ff355641581b0265
+          1.0   2.0  
+    1.0   246   267  
+    2.0    87   809  
+
+disp05f72682660e0d7279afe7dd279cf222
+          4.0   5.0  
+    4.0   163   216  
+    5.0    80   936  
+
+dispc39d4b98d36b7a7a1f8b5d008435a943
+          4.0   5.0  
+    4.0   236   252  
+    5.0    29   872  
+
+disp2bec1140d082890e59f56d23be53a13c
+          4.0   5.0  
+    4.0   231   178  
+    5.0    22   950  
+
+disp8d704d5b59a836e2d12bd0f513bb5c24
+          1.0   2.0  
+    1.0   208   195  
+    2.0    56   920  
+
+dispcc73a6cd1c147e6590b75f33832050e0
+          4.0   5.0    
+    4.0   105     137  
+    5.0    91   1,034  
+
+disp98165e17b547d7ee020db66abe427d35
+          4.0   5.0    
+    4.0    64      49  
+    5.0     4   1,237  
+
+dispb5270dcf23f163d3a80ae25bb595caad
+          6.0   7.0    
+    6.0    46      30  
+    7.0    11   1,232  
+
+disp42e0b13c95928df3e153740656d91701
+          4.0   5.0    
+    4.0     2      10  
+    5.0    25   1,114  "
+ExtremelyFastDecisionTreeClassifier,1,1,12,0.3981236743295014,"{'disp12d66aea27fe15ee30653de92d4c5fa1': MacroF1: 70.26%, 'disp18a2fbd7bb103309ff355641581b0265': MacroF1: 67.89%, 'disp05f72682660e0d7279afe7dd279cf222': MacroF1: 69.30%, 'dispc39d4b98d36b7a7a1f8b5d008435a943': MacroF1: 74.39%, 'disp2bec1140d082890e59f56d23be53a13c': MacroF1: 80.03%, 'disp8d704d5b59a836e2d12bd0f513bb5c24': MacroF1: 75.48%, 'dispcc73a6cd1c147e6590b75f33832050e0': MacroF1: 69.95%, 'disp98165e17b547d7ee020db66abe427d35': MacroF1: 82.87%, 'dispb5270dcf23f163d3a80ae25bb595caad': MacroF1: 83.86%, 'disp42e0b13c95928df3e153740656d91701': MacroF1: 55.59%}",0.7720716973529841,"disp12d66aea27fe15ee30653de92d4c5fa1
+          1.0   2.0    
+    1.0    78     128  
+    2.0    49   1,311  
+
+disp18a2fbd7bb103309ff355641581b0265
+          1.0   2.0  
+    1.0   251   326  
+    2.0    91   898  
+
+disp05f72682660e0d7279afe7dd279cf222
+          4.0   5.0    
+    4.0   175     239  
+    5.0    85   1,053  
+
+dispc39d4b98d36b7a7a1f8b5d008435a943
+          4.0   5.0  
+    4.0   261   283  
+    5.0    29   973  
+
+disp2bec1140d082890e59f56d23be53a13c
+          4.0   5.0    
+    4.0   235     185  
+    5.0    27   1,091  
+
+disp8d704d5b59a836e2d12bd0f513bb5c24
+          1.0   2.0    
+    1.0   233     220  
+    2.0    56   1,027  
+
+dispcc73a6cd1c147e6590b75f33832050e0
+          4.0   5.0    
+    4.0   122     151  
+    5.0    97   1,154  
+
+disp98165e17b547d7ee020db66abe427d35
+          4.0   5.0    
+    4.0    68      60  
+    5.0     4   1,379  
+
+dispb5270dcf23f163d3a80ae25bb595caad
+          6.0   7.0    
+    6.0    46      30  
+    7.0    11   1,389  
+
+disp42e0b13c95928df3e153740656d91701
+          4.0   5.0    
+    4.0     3      15  
+    5.0    26   1,264  "
+ExtremelyFastDecisionTreeClassifier,1,2,13,0.38300002639127867,"{'disp12d66aea27fe15ee30653de92d4c5fa1': MacroF1: 71.19%, 'disp18a2fbd7bb103309ff355641581b0265': MacroF1: 68.62%, 'disp05f72682660e0d7279afe7dd279cf222': MacroF1: 68.93%, 'dispc39d4b98d36b7a7a1f8b5d008435a943': MacroF1: 74.10%, 'disp2bec1140d082890e59f56d23be53a13c': MacroF1: 80.75%, 'disp8d704d5b59a836e2d12bd0f513bb5c24': MacroF1: 76.03%, 'dispcc73a6cd1c147e6590b75f33832050e0': MacroF1: 70.86%, 'disp98165e17b547d7ee020db66abe427d35': MacroF1: 83.89%, 'dispb5270dcf23f163d3a80ae25bb595caad': MacroF1: 84.10%, 'disp42e0b13c95928df3e153740656d91701': MacroF1: 55.68%}",0.7764115568808259,"disp12d66aea27fe15ee30653de92d4c5fa1
+          1.0   2.0    
+    1.0    93     147  
+    2.0    49   1,454  
+
+disp18a2fbd7bb103309ff355641581b0265
+          1.0   2.0  
+    1.0   288   365  
+    2.0    91   999  
+
+disp05f72682660e0d7279afe7dd279cf222
+          4.0   5.0    
+    4.0   188     268  
+    5.0    92   1,181  
+
+dispc39d4b98d36b7a7a1f8b5d008435a943
+          4.0   5.0    
+    4.0   296     327  
+    5.0    29   1,071  
+
+disp2bec1140d082890e59f56d23be53a13c
+          4.0   5.0    
+    4.0   272     204  
+    5.0    27   1,212  
+
+disp8d704d5b59a836e2d12bd0f513bb5c24
+          1.0   2.0    
+    1.0   268     248  
+    2.0    56   1,141  
+
+dispcc73a6cd1c147e6590b75f33832050e0
+          4.0   5.0    
+    4.0   137     163  
+    5.0   101   1,300  
+
+disp98165e17b547d7ee020db66abe427d35
+          4.0   5.0    
+    4.0    83      67  
+    5.0     4   1,534  
+
+dispb5270dcf23f163d3a80ae25bb595caad
+          6.0   7.0    
+    6.0    59      37  
+    7.0    14   1,543  
+
+disp42e0b13c95928df3e153740656d91701
+          4.0   5.0    
+    4.0     3      15  
+    5.0    26   1,441  "
+ExtremelyFastDecisionTreeClassifier,1,3,14,0.36550050206825146,"{'disp12d66aea27fe15ee30653de92d4c5fa1': MacroF1: 72.60%, 'disp18a2fbd7bb103309ff355641581b0265': MacroF1: 69.79%, 'disp05f72682660e0d7279afe7dd279cf222': MacroF1: 70.08%, 'dispc39d4b98d36b7a7a1f8b5d008435a943': MacroF1: 74.69%, 'disp2bec1140d082890e59f56d23be53a13c': MacroF1: 81.27%, 'disp8d704d5b59a836e2d12bd0f513bb5c24': MacroF1: 77.01%, 'dispcc73a6cd1c147e6590b75f33832050e0': MacroF1: 71.31%, 'disp98165e17b547d7ee020db66abe427d35': MacroF1: 84.50%, 'dispb5270dcf23f163d3a80ae25bb595caad': MacroF1: 84.10%, 'disp42e0b13c95928df3e153740656d91701': MacroF1: 55.76%}",0.7826478658053048,"disp12d66aea27fe15ee30653de92d4c5fa1
+          1.0   2.0    
+    1.0   108     157  
+    2.0    49   1,620  
+
+disp18a2fbd7bb103309ff355641581b0265
+          1.0   2.0    
+    1.0   332     398  
+    2.0    91   1,113  
+
+disp05f72682660e0d7279afe7dd279cf222
+          4.0   5.0    
+    4.0   220     291  
+    5.0    98   1,311  
+
+dispc39d4b98d36b7a7a1f8b5d008435a943
+          4.0   5.0    
+    4.0   331     356  
+    5.0    29   1,198  
+
+disp2bec1140d082890e59f56d23be53a13c
+          4.0   5.0    
+    4.0   316     228  
+    5.0    27   1,335  
+
+disp8d704d5b59a836e2d12bd0f513bb5c24
+          1.0   2.0    
+    1.0   303     267  
+    2.0    56   1,278  
+
+dispcc73a6cd1c147e6590b75f33832050e0
+          4.0   5.0    
+    4.0   150     176  
+    5.0   107   1,459  
+
+disp98165e17b547d7ee020db66abe427d35
+          4.0   5.0    
+    4.0    98      75  
+    5.0     4   1,702  
+
+dispb5270dcf23f163d3a80ae25bb595caad
+          6.0   7.0    
+    6.0    71      44  
+    7.0    17   1,712  
+
+disp42e0b13c95928df3e153740656d91701
+          4.0   5.0    
+    4.0     3      15  
+    5.0    26   1,632  "
+ExtremelyFastDecisionTreeClassifier,2,20,1,0.0,{},0.0,
+ExtremelyFastDecisionTreeClassifier,2,21,2,1.1582321111111111,"{'disp3f1c5d8514b404c9feaf026d08895dfe': MacroF1: 28.80%, 'disp78a3c40c30b366d0e9f2fd6faa2676ed': MacroF1: 31.67%, 'dispb5c3ad38ecac1fe985c8669d8b85d8bf': MacroF1: 31.86%, 'disp0680fc31bb92d4d1e6c684ad4463a19e': MacroF1: 10.15%}",0.24873957426571097,"disp3f1c5d8514b404c9feaf026d08895dfe
+           4.0   8.0   12.0   15.0   22.0  
+     4.0     5     1      5      2      1  
+     8.0     9     3      0      3      0  
+    12.0     2     3      0      0      0  
+    15.0     1     1      6      8      0  
+    22.0     3     0      0      0      1  
+
+disp78a3c40c30b366d0e9f2fd6faa2676ed
+           2.0   6.0   10.0   13.0   17.0   20.0  
+     2.0     4     0      1      0      1      0  
+     6.0     5     0      4      1      1      0  
+    10.0     4     0      5      0      0      0  
+    13.0     8     0      7      3      1      0  
+    17.0     0     0      2      0      2      0  
+    20.0     0     0      0      3      0      2  
+
+dispb5c3ad38ecac1fe985c8669d8b85d8bf
+           1.0   5.0   9.0   16.0  
+     1.0     9     5     3      1  
+     5.0     5     5     3      1  
+     9.0     8     5     0      0  
+    16.0     3     2     0      4  
+
+disp0680fc31bb92d4d1e6c684ad4463a19e
+           3.0   7.0   11.0   14.0   18.0   21.0  
+     3.0     1     0      7      0      1      0  
+     7.0     7     0      0      1      6      0  
+    11.0     2     0      0      0      4      0  
+    14.0     2     0      7      1      7      0  
+    18.0     0     0      2      0      1      0  
+    21.0     3     0      0      0      1      1  "
+ExtremelyFastDecisionTreeClassifier,2,22,3,1.3128092627118644,"{'disp3f1c5d8514b404c9feaf026d08895dfe': MacroF1: 28.03%, 'disp78a3c40c30b366d0e9f2fd6faa2676ed': MacroF1: 26.74%, 'dispb5c3ad38ecac1fe985c8669d8b85d8bf': MacroF1: 30.29%, 'disp0680fc31bb92d4d1e6c684ad4463a19e': MacroF1: 22.25%}",0.26439287156151126,"disp3f1c5d8514b404c9feaf026d08895dfe
+           4.0   8.0   12.0   15.0   22.0  
+     4.0    18     1      5      8     12  
+     8.0     9    10      0      7      0  
+    12.0     2     6      0      0      0  
+    15.0     7     6      6      8      3  
+    22.0     5     1      0      0      4  
+
+disp78a3c40c30b366d0e9f2fd6faa2676ed
+           2.0   6.0   10.0   13.0   17.0   20.0  
+     2.0    15     3      1      3      5      2  
+     6.0     8     1      5      1      5      0  
+    10.0     4     0      5      0      5      0  
+    13.0     9     1      7      5      3      2  
+    17.0     2     1      2      0      5      1  
+    20.0     2     0      2      5      4      4  
+
+dispb5c3ad38ecac1fe985c8669d8b85d8bf
+           1.0   5.0   9.0   16.0  
+     1.0    19    18     3      5  
+     5.0    13    10     3      1  
+     9.0    14    13     0      3  
+    16.0     3     4     0      9  
+
+disp0680fc31bb92d4d1e6c684ad4463a19e
+           3.0   7.0   11.0   14.0   18.0   21.0  
+     3.0    13     0      7      7      5      2  
+     7.0     7     4      2      4      7      0  
+    11.0     2     3      1      0      4      0  
+    14.0     7     1     11      1      8      2  
+    18.0     1     0      2      1      4      0  
+    21.0     4     2      0      0      2      4  "
+ExtremelyFastDecisionTreeClassifier,2,23,4,1.1614108895027626,"{'disp3f1c5d8514b404c9feaf026d08895dfe': MacroF1: 27.27%, 'disp78a3c40c30b366d0e9f2fd6faa2676ed': MacroF1: 35.69%, 'dispb5c3ad38ecac1fe985c8669d8b85d8bf': MacroF1: 47.09%, 'disp0680fc31bb92d4d1e6c684ad4463a19e': MacroF1: 23.69%}",0.3243008194717846,"disp3f1c5d8514b404c9feaf026d08895dfe
+           4.0   8.0   12.0   15.0   22.0  
+     4.0    26     1     12      8     12  
+     8.0     9    11      5     11      2  
+    12.0     2     6      1      0      3  
+    15.0     7     8     17     12     15  
+    22.0     5     1      1      0      6  
+
+disp78a3c40c30b366d0e9f2fd6faa2676ed
+           2.0   6.0   10.0   13.0   17.0   20.0  
+     2.0    15     3      1      4     12      2  
+     6.0     8     4      5      5      5      0  
+    10.0     4     0      9      2      8      0  
+    13.0     9     2      8     23      7      2  
+    17.0     2     1      2      0     12      1  
+    20.0     2     0      2      8      7      6  
+
+dispb5c3ad38ecac1fe985c8669d8b85d8bf
+           1.0   5.0   9.0   16.0  
+     1.0    30    18     3      6  
+     5.0    20    29     4      1  
+     9.0    21    13    10      3  
+    16.0     4     4     0     15  
+
+disp0680fc31bb92d4d1e6c684ad4463a19e
+           3.0   7.0   11.0   14.0   18.0   21.0  
+     3.0    13     0      7      8     14      2  
+     7.0     7     7      3      5     10      1  
+    11.0     2     5      3      2      5      0  
+    14.0     7     3     19      5     20      2  
+    18.0     2     0      2      1      8      0  
+    21.0     4     2      0      0      7      5  "
+ExtremelyFastDecisionTreeClassifier,2,24,5,1.0184955352697098,"{'disp3f1c5d8514b404c9feaf026d08895dfe': MacroF1: 30.22%, 'disp78a3c40c30b366d0e9f2fd6faa2676ed': MacroF1: 31.48%, 'dispb5c3ad38ecac1fe985c8669d8b85d8bf': MacroF1: 43.35%, 'disp0680fc31bb92d4d1e6c684ad4463a19e': MacroF1: 25.19%}",0.31645148544958124,"disp3f1c5d8514b404c9feaf026d08895dfe
+           4.0   8.0   12.0   15.0   22.0  
+     4.0    30     4     17      9     16  
+     8.0     9    11     13     12      2  
+    12.0     2     6      4      0      3  
+    15.0     8    10     26     18     19  
+    22.0     5     1      1      1     14  
+
+disp78a3c40c30b366d0e9f2fd6faa2676ed
+           2.0   6.0   10.0   13.0   17.0   20.0  
+     2.0    15     3      2     12     15      3  
+     6.0    12     4      5      9      5      0  
+    10.0     6     0     11      2      8      0  
+    13.0     9     6     11     38      7      2  
+    17.0     2     1      6      0     12      1  
+    20.0     2     0     11      8      7      6  
+
+dispb5c3ad38ecac1fe985c8669d8b85d8bf
+           1.0   5.0   9.0   16.0  
+     1.0    37    33     8      7  
+     5.0    28    36     4      1  
+     9.0    25    13    15      3  
+    16.0     4     4     8     15  
+
+disp0680fc31bb92d4d1e6c684ad4463a19e
+           3.0   7.0   11.0   14.0   18.0   21.0  
+     3.0    20     0      8     10     18      2  
+     7.0    10     7      4      8     12      1  
+    11.0     2     5      4      2      7      0  
+    14.0     8     7     19     19     23      2  
+    18.0     3     0      2      2      9      0  
+    21.0     4     2      0      0     16      5  "
+ExtremelyFastDecisionTreeClassifier,2,25,6,0.9697140424836604,"{'disp3f1c5d8514b404c9feaf026d08895dfe': MacroF1: 30.81%, 'disp78a3c40c30b366d0e9f2fd6faa2676ed': MacroF1: 29.61%, 'dispb5c3ad38ecac1fe985c8669d8b85d8bf': MacroF1: 43.84%, 'disp0680fc31bb92d4d1e6c684ad4463a19e': MacroF1: 31.79%}",0.3322718757225913,"disp3f1c5d8514b404c9feaf026d08895dfe
+           4.0   8.0   12.0   15.0   22.0  
+     4.0    35     6     18     12     18  
+     8.0    11    13     26     16      2  
+    12.0     4     7      6      0      3  
+    15.0     8    14     32     30     20  
+    22.0     5     1      1      3     15  
+
+disp78a3c40c30b366d0e9f2fd6faa2676ed
+           2.0   6.0   10.0   13.0   17.0   20.0  
+     2.0    15     3      2     20     15      4  
+     6.0    12     4      6     29      5      0  
+    10.0     6     0     14      2      8      2  
+    13.0     9     6     12     58      7      2  
+    17.0     2     1     10      0     12      1  
+    20.0     2     0     16      8      7      6  
+
+dispb5c3ad38ecac1fe985c8669d8b85d8bf
+           1.0   5.0   9.0   16.0  
+     1.0    58    33    10      7  
+     5.0    52    36     6      1  
+     9.0    28    13    24      3  
+    16.0     4     4    12     15  
+
+disp0680fc31bb92d4d1e6c684ad4463a19e
+           3.0   7.0   11.0   14.0   18.0   21.0  
+     3.0    26     0      8     12     18      3  
+     7.0    14    19      4     12     16      1  
+    11.0     2     5      4      2      9      0  
+    14.0     9    14     19     31     24      3  
+    18.0     3     0      2      2     13      0  
+    21.0     4     2      0      0     16      9  "
+ExtremelyFastDecisionTreeClassifier,2,26,7,0.8923988373983744,"{'disp3f1c5d8514b404c9feaf026d08895dfe': MacroF1: 34.28%, 'disp78a3c40c30b366d0e9f2fd6faa2676ed': MacroF1: 28.16%, 'dispb5c3ad38ecac1fe985c8669d8b85d8bf': MacroF1: 45.17%, 'disp0680fc31bb92d4d1e6c684ad4463a19e': MacroF1: 30.12%}",0.3341650683939457,"disp3f1c5d8514b404c9feaf026d08895dfe
+           4.0   8.0   12.0   15.0   22.0  
+     4.0    39    15     18     16     18  
+     8.0    13    24     27     22      2  
+    12.0     4     7      8      2      3  
+    15.0     9    18     32     43     21  
+    22.0     5     1      1      3     18  
+
+disp78a3c40c30b366d0e9f2fd6faa2676ed
+           2.0   6.0   10.0   13.0   17.0   20.0  
+     2.0    15     3      3     32     15      4  
+     6.0    12     4      6     45      5      0  
+    10.0     6     0     20      2      8      4  
+    13.0     9     6     13     71      7      2  
+    17.0     2     1     14      0     12      1  
+    20.0     2     0     22     10      7      6  
+
+dispb5c3ad38ecac1fe985c8669d8b85d8bf
+           1.0   5.0   9.0   16.0  
+     1.0    79    33    12      7  
+     5.0    72    36     6      1  
+     9.0    30    13    38      3  
+    16.0     4     4    16     15  
+
+disp0680fc31bb92d4d1e6c684ad4463a19e
+           3.0   7.0   11.0   14.0   18.0   21.0  
+     3.0    26     0      8     24     18      4  
+     7.0    14    19      4     28     16      3  
+    11.0     2     5      4      2      9      6  
+    14.0     9    14     19     46     24      6  
+    18.0     3     0      2      2     13      4  
+    21.0     4     2      0      0     16     13  "
+ExtremelyFastDecisionTreeClassifier,2,27,8,0.8326042982062781,"{'disp3f1c5d8514b404c9feaf026d08895dfe': MacroF1: 39.50%, 'disp78a3c40c30b366d0e9f2fd6faa2676ed': MacroF1: 28.39%, 'dispb5c3ad38ecac1fe985c8669d8b85d8bf': MacroF1: 46.33%, 'disp0680fc31bb92d4d1e6c684ad4463a19e': MacroF1: 27.27%}",0.34132940574577575,"disp3f1c5d8514b404c9feaf026d08895dfe
+           4.0   8.0   12.0   15.0   22.0  
+     4.0    43    20     18     20     18  
+     8.0    14    51     31     23      2  
+    12.0     4     7     13      2      3  
+    15.0     9    28     32     55     22  
+    22.0     5     1      1      3     21  
+
+disp78a3c40c30b366d0e9f2fd6faa2676ed
+           2.0   6.0   10.0   13.0   17.0   20.0  
+     2.0    15     3      4     40     15      4  
+     6.0    12     4      6     71      5      0  
+    10.0     6     0     32      2      8      4  
+    13.0     9     6     14     91      7      2  
+    17.0     2     1     18      0     12      1  
+    20.0     2     0     27     10      7      6  
+
+dispb5c3ad38ecac1fe985c8669d8b85d8bf
+           1.0   5.0   9.0   16.0  
+     1.0    93    33    14      7  
+     5.0    99    46     6      1  
+     9.0    33    13    55      3  
+    16.0     4     4    20     15  
+
+disp0680fc31bb92d4d1e6c684ad4463a19e
+           3.0   7.0   11.0   14.0   18.0   21.0  
+     3.0    26     0      8     32     18      6  
+     7.0    14    19      4     54     16      6  
+    11.0     2     5      4      2      9     15  
+    14.0     9    14     19     66     24      7  
+    18.0     3     0      2      2     13      7  
+    21.0     4     2      5      0     16     13  "
+ExtremelyFastDecisionTreeClassifier,2,28,9,0.8029781988304096,"{'disp3f1c5d8514b404c9feaf026d08895dfe': MacroF1: 40.07%, 'disp78a3c40c30b366d0e9f2fd6faa2676ed': MacroF1: 27.45%, 'dispb5c3ad38ecac1fe985c8669d8b85d8bf': MacroF1: 45.68%, 'disp0680fc31bb92d4d1e6c684ad4463a19e': MacroF1: 27.71%}",0.3400257244012296,"disp3f1c5d8514b404c9feaf026d08895dfe
+           4.0   8.0   12.0   15.0   22.0  
+     4.0    46    27     18     27     19  
+     8.0    14    58     32     24      2  
+    12.0     4     7     16      2      3  
+    15.0     9    36     32     71     24  
+    22.0     5     1      1     11     24  
+
+disp78a3c40c30b366d0e9f2fd6faa2676ed
+           2.0   6.0   10.0   13.0   17.0   20.0  
+     2.0    15     3      6     52     15      4  
+     6.0    12     4      6     79      5      0  
+    10.0     6     0     36      2      8      4  
+    13.0     9     6     16    115      7      2  
+    17.0     2     1     22      0     12      1  
+    20.0     2     0     38     10      7      6  
+
+dispb5c3ad38ecac1fe985c8669d8b85d8bf
+           1.0   5.0   9.0   16.0  
+     1.0    93    56    19      7  
+     5.0    99    67     6      1  
+     9.0    33    13    64      3  
+    16.0     4     4    29     15  
+
+disp0680fc31bb92d4d1e6c684ad4463a19e
+           3.0   7.0   11.0   14.0   18.0   21.0  
+     3.0    26     0     10     44     18      8  
+     7.0    14    19      4     62     16      7  
+    11.0     2     5      4      2      9     18  
+    14.0     9    14     21     90     24     10  
+    18.0     3     0      4      2     13      7  
+    21.0     4     2      7      0     16     19  "
+ExtremelyFastDecisionTreeClassifier,2,29,10,0.7254723149741826,"{'disp3f1c5d8514b404c9feaf026d08895dfe': MacroF1: 39.48%, 'disp78a3c40c30b366d0e9f2fd6faa2676ed': MacroF1: 26.57%, 'dispb5c3ad38ecac1fe985c8669d8b85d8bf': MacroF1: 44.62%, 'disp0680fc31bb92d4d1e6c684ad4463a19e': MacroF1: 26.73%}",0.33127391573053555,"disp3f1c5d8514b404c9feaf026d08895dfe
+           4.0   8.0   12.0   15.0   22.0  
+     4.0    46    47     18     36     19  
+     8.0    14    73     32     24      2  
+    12.0     4    11     16      2      3  
+    15.0     9    36     32     86     24  
+    22.0     5     1      1     16     24  
+
+disp78a3c40c30b366d0e9f2fd6faa2676ed
+           2.0   6.0   10.0   13.0   17.0   20.0  
+     2.0    15     3      7     75     15      5  
+     6.0    12     4      7     87      5      0  
+    10.0     6     0     39      9      8      4  
+    13.0     9     6     16    125      7      3  
+    17.0     2     1     22      0     12      5  
+    20.0     2     0     44     10      7      9  
+
+dispb5c3ad38ecac1fe985c8669d8b85d8bf
+           1.0   5.0   9.0   16.0  
+     1.0    93    82    22      7  
+     5.0   108    80     8      1  
+     9.0    33    13    75      3  
+    16.0     4     4    33     15  
+
+disp0680fc31bb92d4d1e6c684ad4463a19e
+           3.0   7.0   11.0   14.0   18.0   21.0  
+     3.0    26     0     10     62     18     12  
+     7.0    14    19      4     74     16      9  
+    11.0     2     5      4      5      9     20  
+    14.0     9    14     21    100     24     13  
+    18.0     3     0      4      7     13      9  
+    21.0     4     2      7      0     16     26  "
+ExtremelyFastDecisionTreeClassifier,2,30,11,0.6670505382215293,"{'disp3f1c5d8514b404c9feaf026d08895dfe': MacroF1: 39.63%, 'disp78a3c40c30b366d0e9f2fd6faa2676ed': MacroF1: 26.05%, 'dispb5c3ad38ecac1fe985c8669d8b85d8bf': MacroF1: 45.62%, 'disp0680fc31bb92d4d1e6c684ad4463a19e': MacroF1: 25.99%}",0.32992876898409806,"disp3f1c5d8514b404c9feaf026d08895dfe
+           4.0   8.0   12.0   15.0   22.0  
+     4.0    46    54     18     44     19  
+     8.0    14    89     32     25      2  
+    12.0     4    18     16      2      3  
+    15.0     9    39     32    102     24  
+    22.0     5     1      1     18     24  
+
+disp78a3c40c30b366d0e9f2fd6faa2676ed
+           2.0   6.0   10.0   13.0   17.0   20.0  
+     2.0    15     3      9     82     15      5  
+     6.0    12     4      7     98      5      0  
+    10.0     6     0     46      9      8     10  
+    13.0     9     6     17    141      7      3  
+    17.0     2     1     28      0     12      5  
+    20.0     2     0     48     10      7      9  
+
+dispb5c3ad38ecac1fe985c8669d8b85d8bf
+           1.0   5.0   9.0   16.0  
+     1.0    93    93    23      7  
+     5.0   108   103     9      1  
+     9.0    33    13    92      3  
+    16.0     4     4    40     15  
+
+disp0680fc31bb92d4d1e6c684ad4463a19e
+           3.0   7.0   11.0   14.0   18.0   21.0  
+     3.0    26     0     10     69     18     15  
+     7.0    14    19      4     85     16     12  
+    11.0     2     5      4      5      9     30  
+    14.0     9    14     21    116     24     14  
+    18.0     3     0      4      7     13     14  
+    21.0     4     2      7      0     16     30  "
+ExtremelyFastDecisionTreeClassifier,2,1,12,0.6110710239099867,"{'disp3f1c5d8514b404c9feaf026d08895dfe': MacroF1: 39.46%, 'disp78a3c40c30b366d0e9f2fd6faa2676ed': MacroF1: 27.48%, 'dispb5c3ad38ecac1fe985c8669d8b85d8bf': MacroF1: 44.54%, 'disp0680fc31bb92d4d1e6c684ad4463a19e': MacroF1: 26.93%}",0.3342263145031798,"disp3f1c5d8514b404c9feaf026d08895dfe
+           4.0   8.0   12.0   15.0   22.0  
+     4.0    46    63     18     52     19  
+     8.0    14    98     32     26      2  
+    12.0     4    20     16      2      3  
+    15.0     9    40     32    132     24  
+    22.0     5     1      1     28     24  
+
+disp78a3c40c30b366d0e9f2fd6faa2676ed
+           2.0   6.0   10.0   13.0   17.0   20.0  
+     2.0    15     3      9     93     15      7  
+     6.0    12     4      7    106      5      0  
+    10.0     6     0     50      9      8     10  
+    13.0     9     6     18    163      7      3  
+    17.0     2     1     32      0     12      5  
+    20.0     2     0     57     10      7     18  
+
+dispb5c3ad38ecac1fe985c8669d8b85d8bf
+           1.0   5.0   9.0   16.0  
+     1.0    93   115    26      7  
+     5.0   108   122     9      1  
+     9.0    33    13   105      3  
+    16.0     4     4    53     15  
+
+disp0680fc31bb92d4d1e6c684ad4463a19e
+           3.0   7.0   11.0   14.0   18.0   21.0  
+     3.0    26     0     10     80     18     18  
+     7.0    14    19      4     93     16     14  
+    11.0     2     5      4      5      9     32  
+    14.0     9    14     21    138     24     18  
+    18.0     3     0      4      7     13     17  
+    21.0     4     2      7      0     16     45  "
+ExtremelyFastDecisionTreeClassifier,2,2,13,0.5698504033290661,"{'disp3f1c5d8514b404c9feaf026d08895dfe': MacroF1: 39.23%, 'disp78a3c40c30b366d0e9f2fd6faa2676ed': MacroF1: 26.44%, 'dispb5c3ad38ecac1fe985c8669d8b85d8bf': MacroF1: 45.03%, 'disp0680fc31bb92d4d1e6c684ad4463a19e': MacroF1: 26.14%}",0.3294147577858415,"disp3f1c5d8514b404c9feaf026d08895dfe
+           4.0   8.0   12.0   15.0   22.0  
+     4.0    46    74     18     58     19  
+     8.0    14   115     32     30      2  
+    12.0     4    29     16      2      3  
+    15.0     9    42     32    151     24  
+    22.0     5     1      1     30     24  
+
+disp78a3c40c30b366d0e9f2fd6faa2676ed
+           2.0   6.0   10.0   13.0   17.0   20.0  
+     2.0    15     3      9    105     15      8  
+     6.0    12     4      7    125      5      1  
+    10.0     6     0     50      9      8     20  
+    13.0     9     6     18    180      7      4  
+    17.0     2     1     32      0     12      9  
+    20.0     2     0     60     10      7     20  
+
+dispb5c3ad38ecac1fe985c8669d8b85d8bf
+           1.0   5.0   9.0   16.0  
+     1.0    93   136    28      7  
+     5.0   108   149    10      1  
+     9.0    33    13   120      3  
+    16.0     4     4    57     15  
+
+disp0680fc31bb92d4d1e6c684ad4463a19e
+           3.0   7.0   11.0   14.0   18.0   21.0  
+     3.0    26     0     10     92     18     20  
+     7.0    14    19      4    112     16     19  
+    11.0     2     5      4      5      9     38  
+    14.0     9    14     21    155     24     19  
+    18.0     3     0      4      7     13     20  
+    21.0     4     2      7      0     16     50  "
+ExtremelyFastDecisionTreeClassifier,2,3,14,0.5338635489510498,"{'disp3f1c5d8514b404c9feaf026d08895dfe': MacroF1: 39.70%, 'disp78a3c40c30b366d0e9f2fd6faa2676ed': MacroF1: 25.90%, 'dispb5c3ad38ecac1fe985c8669d8b85d8bf': MacroF1: 46.18%, 'disp0680fc31bb92d4d1e6c684ad4463a19e': MacroF1: 25.54%}",0.32948374033725214,"disp3f1c5d8514b404c9feaf026d08895dfe
+           4.0   8.0   12.0   15.0   22.0  
+     4.0    46    81     18     64     19  
+     8.0    14   141     32     32      2  
+    12.0     4    35     16      2      3  
+    15.0     9    45     32    175     24  
+    22.0     5     1      1     33     24  
+
+disp78a3c40c30b366d0e9f2fd6faa2676ed
+           2.0   6.0   10.0   13.0   17.0   20.0  
+     2.0    15     3     10    113     15      8  
+     6.0    12     4      7    147      5      1  
+    10.0     6     0     55      9      8     27  
+    13.0     9     6     18    204      7      5  
+    17.0     2     1     32      0     12     13  
+    20.0     2     0     65     10      7     20  
+
+dispb5c3ad38ecac1fe985c8669d8b85d8bf
+           1.0   5.0   9.0   16.0  
+     1.0    93   150    30      7  
+     5.0   108   189    10      1  
+     9.0    33    13   137      3  
+    16.0     4     4    61     15  
+
+disp0680fc31bb92d4d1e6c684ad4463a19e
+           3.0   7.0   11.0   14.0   18.0   21.0  
+     3.0    26     0     10    100     18     22  
+     7.0    14    19      4    134     16     20  
+    11.0     2     5      4      5      9     49  
+    14.0     9    14     21    179     24     21  
+    18.0     3     0      4      7     13     23  
+    21.0     4     2      7      0     16     54  "
+ExtremelyFastDecisionTreeClassifier,2,4,15,0.5060528358531325,"{'disp3f1c5d8514b404c9feaf026d08895dfe': MacroF1: 38.93%, 'disp78a3c40c30b366d0e9f2fd6faa2676ed': MacroF1: 25.98%, 'dispb5c3ad38ecac1fe985c8669d8b85d8bf': MacroF1: 46.20%, 'disp0680fc31bb92d4d1e6c684ad4463a19e': MacroF1: 24.73%}",0.32558147394577175,"disp3f1c5d8514b404c9feaf026d08895dfe
+           4.0   8.0   12.0   15.0   22.0  
+     4.0    46    92     18     70     19  
+     8.0    14   159     32     36      2  
+    12.0     4    41     16      2      3  
+    15.0     9    46     32    188     24  
+    22.0     5     2      1     41     24  
+
+disp78a3c40c30b366d0e9f2fd6faa2676ed
+           2.0   6.0   10.0   13.0   17.0   20.0  
+     2.0    15     3     11    125     15      8  
+     6.0    12     4      7    163      5      1  
+    10.0     6     0     66      9      8     27  
+    13.0     9     6     20    222      7      5  
+    17.0     2     1     36      0     12     13  
+    20.0     2     0     69     10      7     20  
+
+dispb5c3ad38ecac1fe985c8669d8b85d8bf
+           1.0   5.0   9.0   16.0  
+     1.0    93   171    32      7  
+     5.0   108   214    11      1  
+     9.0    33    13   152      3  
+    16.0     4     4    65     15  
+
+disp0680fc31bb92d4d1e6c684ad4463a19e
+           3.0   7.0   11.0   14.0   18.0   21.0  
+     3.0    26     0     10    112     18     24  
+     7.0    14    19      4    150     16     23  
+    11.0     2     5      4      5      9     57  
+    14.0     9    14     21    197     24     25  
+    18.0     3     0      4      7     13     26  
+    21.0     4     2      7      0     16     56  "
+ExtremelyFastDecisionTreeClassifier,3,1,1,0.0,{},0.0,
+ExtremelyFastDecisionTreeClassifier,3,2,2,0.7319710631395456,"{'dispL005': MacroF1: 94.66%, 'dispL003': MacroF1: 93.69%, 'dispL006': MacroF1: 50.43%, 'dispL007': MacroF1: 97.11%, 'dispF002': MacroF1: 70.49%, 'dispL004': MacroF1: 83.79%, 'dispL010': MacroF1: 94.84%, 'dispL001': MacroF1: 100.00%, 'dispL008': MacroF1: 96.58%, 'dispF001': MacroF1: 93.40%, 'dispL002': MacroF1: 47.06%, 'dispL009': MacroF1: 46.87%, 'dispL011': MacroF1: 49.96%}",0.9521884633780279,"dispL005
+          0.0     1.0     
+    0.0   2,439      326  
+    1.0     128   10,300  
+
+dispL003
+          0.0      1.0    
+    0.0   11,558     144  
+    1.0      166   1,217  
+
+dispL006
+          0.0      1.0  
+    0.0   10,675   191  
+    1.0    2,001   124  
+
+dispL007
+          0.0     1.0    
+    0.0   5,103     226  
+    1.0     137   7,525  
+
+dispF002
+          0.0   1.0     
+    0.0    53       68  
+    1.0    81   12,789  
+
+dispL004
+          0.0   1.0     
+    0.0   956      233  
+    1.0   549   11,153  
+
+dispL010
+          0.0     1.0    
+    0.0   9,901     189  
+    1.0     230   2,333  
+
+dispL001
+          1.0     
+    1.0   12,437  
+
+dispL008
+          0.0     1.0    
+    0.0   9,688      73  
+    1.0     207   2,447  
+
+dispF001
+          0.0   1.0     
+    0.0   120        0  
+    1.0    36   12,089  
+
+dispL002
+          0.0      1.0  
+    0.0   10,232     0  
+    1.0    1,348     2  
+
+dispL009
+          0.0     1.0  
+    0.0   9,770     0  
+    1.0   1,305     0  
+
+dispL011
+          0.0   1.0     
+    0.0     0        0  
+    1.0    18   10,523  "
+ExtremelyFastDecisionTreeClassifier,3,3,3,0.5830748152456623,"{'dispL005': MacroF1: 93.81%, 'dispL003': MacroF1: 97.33%, 'dispL006': MacroF1: 44.45%, 'dispL007': MacroF1: 92.76%, 'dispF002': MacroF1: 46.73%, 'dispL004': MacroF1: 87.93%, 'dispL010': MacroF1: 97.52%, 'dispL001': MacroF1: 47.61%, 'dispL008': MacroF1: 98.62%, 'dispF001': MacroF1: 87.28%, 'dispL002': MacroF1: 34.42%, 'dispL009': MacroF1: 33.92%, 'dispL011': MacroF1: 49.98%}",0.8570318839682829,"dispL005
+          0.0     1.0     
+    0.0   5,206      812  
+    1.0     221   14,908  
+
+dispL003
+          0.0      1.0    
+    0.0   15,502     246  
+    1.0      178   5,113  
+
+dispL006
+          0.0      1.0  
+    0.0   15,271   191  
+    1.0    5,359   124  
+
+dispL007
+          0.0     1.0     
+    0.0   5,103    1,065  
+    1.0     137   14,640  
+
+dispF002
+          0.0   1.0     
+    0.0    53    3,513  
+    1.0    81   17,298  
+
+dispL004
+          0.0     1.0     
+    0.0   2,664      511  
+    1.0     843   16,827  
+
+dispL010
+          0.0     1.0     
+    0.0   9,939      247  
+    1.0     263   10,158  
+
+dispL001
+          0.0   1.0     
+    0.0    61    3,177  
+    1.0     0   17,153  
+
+dispL008
+          0.0     1.0     
+    0.0   9,688       73  
+    1.0     207   10,401  
+
+dispF001
+          0.0   1.0     
+    0.0   120       45  
+    1.0    36   19,998  
+
+dispL002
+          0.0      1.0  
+    0.0   10,245     0  
+    1.0    9,289     2  
+
+dispL009
+          0.0     1.0  
+    0.0   9,770     0  
+    1.0   9,259     0  
+
+dispL011
+          0.0   1.0     
+    0.0     0        0  
+    1.0    18   18,477  "
+ExtremelyFastDecisionTreeClassifier,3,4,4,0.4949709392630284,"{'dispL005': MacroF1: 93.73%, 'dispL003': MacroF1: 97.65%, 'dispL006': MacroF1: 36.97%, 'dispL007': MacroF1: 85.47%, 'dispF002': MacroF1: 53.59%, 'dispL004': MacroF1: 91.31%, 'dispL010': MacroF1: 97.61%, 'dispL001': MacroF1: 48.69%, 'dispL008': MacroF1: 97.71%, 'dispF001': MacroF1: 86.39%, 'dispL002': MacroF1: 58.87%, 'dispL009': MacroF1: 57.75%, 'dispL011': MacroF1: 49.98%}",0.8414165279834247,"dispL005
+          0.0     1.0     
+    0.0   6,731    1,080  
+    1.0     279   19,455  
+
+dispL003
+          0.0      1.0    
+    0.0   18,207     362  
+    1.0      205   8,663  
+
+dispL006
+          0.0      1.0  
+    0.0   15,280   191  
+    1.0   11,748   124  
+
+dispL007
+          0.0     1.0     
+    0.0   5,103    2,757  
+    1.0     137   19,346  
+
+dispF002
+          0.0   1.0     
+    0.0   862    5,528  
+    1.0   930   20,023  
+
+dispL004
+          0.0     1.0     
+    0.0   5,234      684  
+    1.0     952   20,373  
+
+dispL010
+          0.0      1.0     
+    0.0   14,687      325  
+    1.0      312   11,681  
+
+dispL001
+          0.0   1.0     
+    0.0    61    3,177  
+    1.0     0   23,551  
+
+dispL008
+          0.0     1.0     
+    0.0   9,688      365  
+    1.0     207   16,507  
+
+dispF001
+          0.0   1.0     
+    0.0   120       53  
+    1.0    36   26,388  
+
+dispL002
+          0.0      1.0    
+    0.0   10,245       0  
+    1.0   10,293   5,396  
+
+dispL009
+          0.0     1.0    
+    0.0   9,770     576  
+    1.0   9,828   5,253  
+
+dispL011
+          0.0   1.0     
+    0.0     0        0  
+    1.0    18   24,875  "
+ExtremelyFastDecisionTreeClassifier,3,5,5,0.4667615375688472,"{'dispL005': MacroF1: 93.78%, 'dispL003': MacroF1: 97.76%, 'dispL006': MacroF1: 34.87%, 'dispL007': MacroF1: 84.46%, 'dispF002': MacroF1: 54.38%, 'dispL004': MacroF1: 91.49%, 'dispL010': MacroF1: 97.87%, 'dispL001': MacroF1: 49.02%, 'dispL008': MacroF1: 97.84%, 'dispF001': MacroF1: 84.59%, 'dispL002': MacroF1: 64.22%, 'dispL009': MacroF1: 56.56%, 'dispL011': MacroF1: 49.42%}",0.8361867457577268,"dispL005
+          0.0     1.0     
+    0.0   7,840    1,191  
+    1.0     346   21,127  
+
+dispL003
+          0.0      1.0     
+    0.0   19,365      387  
+    1.0      236   10,408  
+
+dispL006
+          0.0      1.0  
+    0.0   15,571   191  
+    1.0   14,416   124  
+
+dispL007
+          0.0     1.0     
+    0.0   5,103    3,118  
+    1.0     137   21,944  
+
+dispF002
+          0.0   1.0     
+    0.0   862    5,528  
+    1.0   930   22,982  
+
+dispL004
+          0.0     1.0     
+    0.0   5,414      712  
+    1.0     976   23,100  
+
+dispL010
+          0.0      1.0     
+    0.0   14,687      325  
+    1.0      312   14,640  
+
+dispL001
+          0.0   1.0     
+    0.0    61    3,177  
+    1.0     0   26,510  
+
+dispL008
+          0.0     1.0     
+    0.0   9,688      365  
+    1.0     207   19,466  
+
+dispF001
+          0.0   1.0     
+    0.0   120       70  
+    1.0    36   29,330  
+
+dispL002
+          0.0      1.0    
+    0.0   10,245       0  
+    1.0   10,293   8,355  
+
+dispL009
+          0.0     1.0    
+    0.0   9,770   2,335  
+    1.0   9,828   6,453  
+
+dispL011
+          0.0   1.0     
+    0.0     0      624  
+    1.0    18   27,210  "
+ExtremelyFastDecisionTreeClassifier,3,6,6,0.39832267950857575,"{'dispL005': MacroF1: 93.54%, 'dispL003': MacroF1: 97.99%, 'dispL006': MacroF1: 58.38%, 'dispL007': MacroF1: 74.00%, 'dispF002': MacroF1: 52.79%, 'dispL004': MacroF1: 93.11%, 'dispL010': MacroF1: 97.74%, 'dispL001': MacroF1: 46.55%, 'dispL008': MacroF1: 81.89%, 'dispF001': MacroF1: 60.64%, 'dispL002': MacroF1: 72.71%, 'dispL009': MacroF1: 51.61%, 'dispL011': MacroF1: 48.88%}",0.813446098415842,"dispL005
+          0.0     1.0     
+    0.0   8,813    1,517  
+    1.0     413   30,606  
+
+dispL003
+          0.0      1.0     
+    0.0   24,870      515  
+    1.0      270   15,586  
+
+dispL006
+          0.0      1.0    
+    0.0   15,571     999  
+    1.0   15,678   8,899  
+
+dispL007
+          0.0     1.0     
+    0.0   5,103    6,974  
+    1.0     137   28,933  
+
+dispF002
+          0.0   1.0     
+    0.0   862    7,412  
+    1.0   930   31,943  
+
+dispL004
+          0.0     1.0     
+    0.0   7,526      760  
+    1.0   1,090   31,671  
+
+dispL010
+          0.0      1.0     
+    0.0   20,485      452  
+    1.0      469   19,403  
+
+dispL001
+          0.0   1.0     
+    0.0    61    6,520  
+    1.0     0   34,012  
+
+dispL008
+          0.0     1.0     
+    0.0   9,688    6,158  
+    1.0     207   24,518  
+
+dispF001
+          0.0   1.0     
+    0.0   120      799  
+    1.0    36   39,446  
+
+dispL002
+          0.0      1.0     
+    0.0   10,245        0  
+    1.0   10,293   19,200  
+
+dispL009
+          0.0      1.0    
+    0.0   12,145   8,321  
+    1.0   10,480   8,285  
+
+dispL011
+          0.0   1.0     
+    0.0     0    1,678  
+    1.0    18   37,001  "
+ExtremelyFastDecisionTreeClassifier,3,7,7,0.3487985735154428,"{'dispL005': MacroF1: 90.44%, 'dispL003': MacroF1: 94.58%, 'dispL006': MacroF1: 54.81%, 'dispL007': MacroF1: 65.59%, 'dispF002': MacroF1: 51.97%, 'dispL004': MacroF1: 94.53%, 'dispL010': MacroF1: 97.86%, 'dispL001': MacroF1: 45.91%, 'dispL008': MacroF1: 67.46%, 'dispF001': MacroF1: 51.59%, 'dispL002': MacroF1: 63.15%, 'dispL009': MacroF1: 60.62%, 'dispL011': MacroF1: 48.61%}",0.773766157996273,"dispL005
+          0.0     1.0     
+    0.0   9,131    2,879  
+    1.0     450   43,331  
+
+dispL003
+          0.0      1.0     
+    0.0   24,870    2,741  
+    1.0      270   27,802  
+
+dispL006
+          0.0      1.0     
+    0.0   15,571    9,439  
+    1.0   15,678   14,901  
+
+dispL007
+          0.0     1.0     
+    0.0   5,103   12,251  
+    1.0     137   38,098  
+
+dispF002
+          0.0   1.0     
+    0.0   862    9,377  
+    1.0   930   44,420  
+
+dispL004
+          0.0      1.0     
+    0.0   10,791      888  
+    1.0    1,145   42,665  
+
+dispL010
+          0.0      1.0     
+    0.0   30,923      565  
+    1.0      594   23,169  
+
+dispL001
+          0.0   1.0     
+    0.0    61    9,495  
+    1.0     0   45,479  
+
+dispL008
+          0.0     1.0     
+    0.0   9,688   15,297  
+    1.0     207   29,821  
+
+dispF001
+          0.0   1.0     
+    0.0   120    3,441  
+    1.0    36   51,246  
+
+dispL002
+          0.0      1.0     
+    0.0   10,245    8,074  
+    1.0   10,293   25,568  
+
+dispL009
+          0.0      1.0     
+    0.0   12,145    8,321  
+    1.0   12,248   20,959  
+
+dispL011
+          0.0   1.0     
+    0.0     0    2,862  
+    1.0    18   50,259  "
+ExtremelyFastDecisionTreeClassifier,3,8,8,0.3203986891257539,"{'dispL005': MacroF1: 81.98%, 'dispL003': MacroF1: 88.68%, 'dispL006': MacroF1: 55.83%, 'dispL007': MacroF1: 64.56%, 'dispF002': MacroF1: 53.05%, 'dispL004': MacroF1: 94.46%, 'dispL010': MacroF1: 98.05%, 'dispL001': MacroF1: 45.74%, 'dispL008': MacroF1: 58.51%, 'dispF001': MacroF1: 51.94%, 'dispL002': MacroF1: 54.15%, 'dispL009': MacroF1: 55.72%, 'dispL011': MacroF1: 48.91%}",0.7486319625955744,"dispL005
+          0.0     1.0     
+    0.0   9,131    7,152  
+    1.0     450   53,350  
+
+dispL003
+          0.0      1.0     
+    0.0   34,320    6,303  
+    1.0    1,550   27,802  
+
+dispL006
+          0.0      1.0     
+    0.0   15,571   14,755  
+    1.0   15,678   23,877  
+
+dispL007
+          0.0     1.0     
+    0.0   5,103   14,208  
+    1.0     137   50,433  
+
+dispF002
+          0.0   1.0     
+    0.0   862    9,458  
+    1.0   930   58,631  
+
+dispL004
+          0.0      1.0     
+    0.0   10,899      977  
+    1.0    1,227   56,678  
+
+dispL010
+          0.0      1.0     
+    0.0   40,384      644  
+    1.0      668   27,847  
+
+dispL001
+          0.0   1.0     
+    0.0    61   12,037  
+    1.0     0   57,229  
+
+dispL008
+          0.0     1.0     
+    0.0   9,688   24,840  
+    1.0     207   34,570  
+
+dispF001
+          0.0   1.0     
+    0.0   120    3,441  
+    1.0    36   65,538  
+
+dispL002
+          0.0      1.0     
+    0.0   10,245   18,680  
+    1.0   10,293   29,254  
+
+dispL009
+          0.0      1.0     
+    0.0   12,145   16,369  
+    1.0   12,248   27,203  
+
+dispL011
+          0.0   1.0     
+    0.0     0    2,862  
+    1.0    18   64,551  "
+ExtremelyFastDecisionTreeClassifier,3,9,9,0.30399965914854854,"{'dispL005': MacroF1: 76.86%, 'dispL003': MacroF1: 88.52%, 'dispL006': MacroF1: 51.44%, 'dispL007': MacroF1: 60.94%, 'dispF002': MacroF1: 52.59%, 'dispL004': MacroF1: 94.87%, 'dispL010': MacroF1: 98.25%, 'dispL001': MacroF1: 46.13%, 'dispL008': MacroF1: 54.86%, 'dispF001': MacroF1: 52.13%, 'dispL002': MacroF1: 52.64%, 'dispL009': MacroF1: 53.26%, 'dispL011': MacroF1: 49.07%}",0.7349561494872785,"dispL005
+          0.0     1.0     
+    0.0   9,131   10,711  
+    1.0     450   61,333  
+
+dispL003
+          0.0      1.0     
+    0.0   44,766    6,304  
+    1.0    2,645   27,802  
+
+dispL006
+          0.0      1.0     
+    0.0   15,571   23,069  
+    1.0   15,678   27,105  
+
+dispL007
+          0.0     1.0     
+    0.0   6,703   19,607  
+    1.0   1,758   53,355  
+
+dispF002
+          0.0   1.0     
+    0.0   862   10,668  
+    1.0   930   68,963  
+
+dispL004
+          0.0      1.0     
+    0.0   12,448    1,011  
+    1.0    1,313   66,551  
+
+dispL010
+          0.0      1.0     
+    0.0   45,319      698  
+    1.0      698   34,370  
+
+dispL001
+          0.0   1.0     
+    0.0    61   12,908  
+    1.0     0   67,900  
+
+dispL008
+          0.0     1.0     
+    0.0   9,688   31,264  
+    1.0     207   39,688  
+
+dispF001
+          0.0   1.0     
+    0.0   120    3,441  
+    1.0    36   77,080  
+
+dispL002
+          0.0      1.0     
+    0.0   10,245   23,765  
+    1.0   10,293   35,711  
+
+dispL009
+          0.0      1.0     
+    0.0   12,145   22,430  
+    1.0   12,248   32,684  
+
+dispL011
+          0.0   1.0     
+    0.0     0    2,875  
+    1.0    18   76,080  "
+ExtremelyFastDecisionTreeClassifier,3,10,10,0.28632400718245204,"{'dispL005': MacroF1: 76.30%, 'dispL003': MacroF1: 84.90%, 'dispL006': MacroF1: 56.60%, 'dispL007': MacroF1: 62.38%, 'dispF002': MacroF1: 52.53%, 'dispL004': MacroF1: 95.11%, 'dispL010': MacroF1: 91.53%, 'dispL001': MacroF1: 46.79%, 'dispL008': MacroF1: 58.08%, 'dispF001': MacroF1: 51.72%, 'dispL002': MacroF1: 46.77%, 'dispL009': MacroF1: 57.81%, 'dispL011': MacroF1: 49.24%}",0.7409180740295978,"dispL005
+          0.0     1.0     
+    0.0   9,131   11,793  
+    1.0     450   78,035  
+
+dispL003
+          0.0      1.0     
+    0.0   57,876    6,304  
+    1.0    7,319   27,802  
+
+dispL006
+          0.0      1.0     
+    0.0   15,571   23,799  
+    1.0   15,678   44,159  
+
+dispL007
+          0.0     1.0     
+    0.0   6,703   20,016  
+    1.0   1,758   70,730  
+
+dispF002
+          0.0   1.0     
+    0.0   862   11,759  
+    1.0   930   85,656  
+
+dispL004
+          0.0      1.0     
+    0.0   14,480    1,169  
+    1.0    1,428   82,030  
+
+dispL010
+          0.0      1.0     
+    0.0   54,438    6,604  
+    1.0    1,491   36,336  
+
+dispL001
+          0.0   1.0     
+    0.0    61   13,447  
+    1.0     0   85,145  
+
+dispL008
+          0.0      1.0     
+    0.0   18,009   37,170  
+    1.0    1,799   41,653  
+
+dispF001
+          0.0   1.0     
+    0.0   120    4,045  
+    1.0    36   94,260  
+
+dispL002
+          0.0      1.0     
+    0.0   10,245   36,796  
+    1.0   10,293   40,464  
+
+dispL009
+          0.0      1.0     
+    0.0   12,145   22,430  
+    1.0   12,248   50,468  
+
+dispL011
+          0.0   1.0     
+    0.0     0    2,875  
+    1.0    18   93,864  "
+ExtremelyFastDecisionTreeClassifier,3,11,11,0.273438677383164,"{'dispL005': MacroF1: 75.71%, 'dispL003': MacroF1: 82.66%, 'dispL006': MacroF1: 57.18%, 'dispL007': MacroF1: 62.89%, 'dispF002': MacroF1: 52.58%, 'dispL004': MacroF1: 95.06%, 'dispL010': MacroF1: 89.74%, 'dispL001': MacroF1: 47.42%, 'dispL008': MacroF1: 60.19%, 'dispF001': MacroF1: 51.89%, 'dispL002': MacroF1: 50.99%, 'dispL009': MacroF1: 60.62%, 'dispL011': MacroF1: 49.37%}",0.7605550858706944,"dispL005
+          0.0     1.0     
+    0.0   9,131   12,832  
+    1.0     451   96,126  
+
+dispL003
+          0.0      1.0     
+    0.0   73,099    6,304  
+    1.0   11,227   27,802  
+
+dispL006
+          0.0      1.0     
+    0.0   15,571   28,207  
+    1.0   15,678   58,882  
+
+dispL007
+          0.0     1.0     
+    0.0   6,703   20,964  
+    1.0   1,758   88,913  
+
+dispF002
+          0.0   1.0      
+    0.0   862    12,622  
+    1.0   930   103,924  
+
+dispL004
+          0.0      1.0      
+    0.0   14,656     1,227  
+    1.0    1,509   100,846  
+
+dispL010
+          0.0      1.0     
+    0.0   70,582    6,604  
+    1.0    4,478   36,336  
+
+dispL001
+          0.0   1.0      
+    0.0    61    13,447  
+    1.0     0   104,276  
+
+dispL008
+          0.0      1.0     
+    0.0   29,708   37,170  
+    1.0    9,231   41,653  
+
+dispF001
+          0.0   1.0      
+    0.0   120     4,045  
+    1.0    36   113,391  
+
+dispL002
+          0.0      1.0     
+    0.0   10,245   36,811  
+    1.0   10,293   59,580  
+
+dispL009
+          0.0      1.0     
+    0.0   12,145   22,430  
+    1.0   12,248   69,599  
+
+dispL011
+          0.0   1.0      
+    0.0     0     2,875  
+    1.0    18   112,995  "
+ExtremelyFastDecisionTreeClassifier,3,12,12,0.2633395159086012,"{'dispL005': MacroF1: 74.49%, 'dispL003': MacroF1: 80.63%, 'dispL006': MacroF1: 59.94%, 'dispL007': MacroF1: 63.71%, 'dispF002': MacroF1: 46.48%, 'dispL004': MacroF1: 95.22%, 'dispL010': MacroF1: 86.60%, 'dispL001': MacroF1: 47.84%, 'dispL008': MacroF1: 62.29%, 'dispF001': MacroF1: 52.03%, 'dispL002': MacroF1: 46.26%, 'dispL009': MacroF1: 62.54%, 'dispL011': MacroF1: 49.46%}",0.7619420707959801,"dispL005
+          0.0     1.0      
+    0.0   9,131    14,449  
+    1.0     452   115,138  
+
+dispL003
+          0.0      1.0     
+    0.0   89,647    6,304  
+    1.0   15,309   27,802  
+
+dispL006
+          0.0      1.0     
+    0.0   15,571   28,207  
+    1.0   15,678   79,512  
+
+dispL007
+          0.0     1.0      
+    0.0   6,703    21,165  
+    1.0   1,758   109,342  
+
+dispF002
+          0.0   1.0      
+    0.0   862    29,533  
+    1.0   930   107,643  
+
+dispL004
+          0.0      1.0      
+    0.0   16,202     1,321  
+    1.0    1,626   119,719  
+
+dispL010
+          0.0      1.0     
+    0.0   86,113    6,604  
+    1.0    9,577   36,336  
+
+dispL001
+          0.0   1.0      
+    0.0    61    13,688  
+    1.0     0   124,665  
+
+dispL008
+          0.0      1.0     
+    0.0   44,571   37,170  
+    1.0   14,998   41,653  
+
+dispF001
+          0.0   1.0      
+    0.0   120     4,045  
+    1.0    36   134,021  
+
+dispL002
+          0.0      1.0     
+    0.0   10,245   51,851  
+    1.0   10,293   65,170  
+
+dispL009
+          0.0      1.0     
+    0.0   12,145   22,430  
+    1.0   12,248   90,229  
+
+dispL011
+          0.0   1.0      
+    0.0     0     2,875  
+    1.0    18   133,625  "
+ExtremelyFastDecisionTreeClassifier,3,13,13,0.2586439949231927,"{'dispL005': MacroF1: 68.70%, 'dispL003': MacroF1: 78.79%, 'dispL006': MacroF1: 60.48%, 'dispL007': MacroF1: 61.10%, 'dispF002': MacroF1: 46.73%, 'dispL004': MacroF1: 95.40%, 'dispL010': MacroF1: 81.77%, 'dispL001': MacroF1: 47.89%, 'dispL008': MacroF1: 59.87%, 'dispF001': MacroF1: 52.06%, 'dispL002': MacroF1: 45.45%, 'dispL009': MacroF1: 62.82%, 'dispL011': MacroF1: 48.53%}",0.7513728324866169,"dispL005
+          0.0     1.0      
+    0.0   9,131    21,339  
+    1.0     452   121,930  
+
+dispL003
+          0.0      1.0     
+    0.0   99,731    6,304  
+    1.0   18,907   27,802  
+
+dispL006
+          0.0      1.0     
+    0.0   15,571   29,600  
+    1.0   15,678   91,801  
+
+dispL007
+          0.0     1.0      
+    0.0   6,713    25,904  
+    1.0   1,758   118,275  
+
+dispF002
+          0.0   1.0      
+    0.0   862    30,847  
+    1.0   930   120,011  
+
+dispL004
+          0.0      1.0      
+    0.0   18,366     1,439  
+    1.0    1,756   130,989  
+
+dispL010
+          0.0      1.0     
+    0.0   91,899    6,610  
+    1.0   17,467   36,336  
+
+dispL001
+          0.0   1.0      
+    0.0    61    14,633  
+    1.0     0   137,402  
+
+dispL008
+          0.0      1.0     
+    0.0   49,565   37,176  
+    1.0   23,680   41,653  
+
+dispF001
+          0.0   1.0      
+    0.0   120     4,095  
+    1.0    36   147,653  
+
+dispL002
+          0.0      1.0     
+    0.0   10,245   58,247  
+    1.0   10,293   72,456  
+
+dispL009
+          0.0      1.0      
+    0.0   12,145    23,503  
+    1.0   12,248   102,838  
+
+dispL011
+          0.0   1.0      
+    0.0     1     8,648  
+    1.0    18   141,533  "
+ExtremelyFastDecisionTreeClassifier,3,14,14,0.2548459804065553,"{'dispL005': MacroF1: 66.26%, 'dispL003': MacroF1: 77.84%, 'dispL006': MacroF1: 57.42%, 'dispL007': MacroF1: 57.84%, 'dispF002': MacroF1: 45.97%, 'dispL004': MacroF1: 95.36%, 'dispL010': MacroF1: 80.38%, 'dispL001': MacroF1: 47.83%, 'dispL008': MacroF1: 58.03%, 'dispF001': MacroF1: 51.05%, 'dispL002': MacroF1: 45.57%, 'dispL009': MacroF1: 63.12%, 'dispL011': MacroF1: 48.65%}",0.7446259401895594,"dispL005
+          0.0     1.0      
+    0.0   9,131    25,329  
+    1.0     452   131,215  
+
+dispL003
+          0.0       1.0     
+    0.0   110,576    6,304  
+    1.0    21,337   27,802  
+
+dispL006
+          0.0      1.0     
+    0.0   15,571   38,151  
+    1.0   15,678   96,525  
+
+dispL007
+          0.0     1.0      
+    0.0   6,713    32,922  
+    1.0   1,758   124,532  
+
+dispF002
+          0.0   1.0      
+    0.0   862    35,840  
+    1.0   930   128,293  
+
+dispL004
+          0.0      1.0      
+    0.0   19,419     1,562  
+    1.0    1,861   142,983  
+
+dispL010
+          0.0       1.0     
+    0.0   101,840    6,610  
+    1.0    20,801   36,336  
+
+dispL001
+          0.0   1.0      
+    0.0    61    16,004  
+    1.0     0   149,306  
+
+dispL008
+          0.0      1.0     
+    0.0   54,729   37,176  
+    1.0   31,791   41,653  
+
+dispF001
+          0.0   1.0      
+    0.0   120     5,854  
+    1.0    36   159,169  
+
+dispL002
+          0.0      1.0     
+    0.0   10,245   62,427  
+    1.0   10,293   81,551  
+
+dispL009
+          0.0      1.0      
+    0.0   12,145    24,310  
+    1.0   12,248   115,306  
+
+dispL011
+          0.0   1.0      
+    0.0     1     8,648  
+    1.0    18   154,808  "
+ExtremelyFastDecisionTreeClassifier,3,15,15,0.2514836933720617,"{'dispL005': MacroF1: 64.59%, 'dispL003': MacroF1: 71.18%, 'dispL006': MacroF1: 55.83%, 'dispL007': MacroF1: 57.78%, 'dispF002': MacroF1: 46.27%, 'dispL004': MacroF1: 95.48%, 'dispL010': MacroF1: 78.70%, 'dispL001': MacroF1: 47.82%, 'dispL008': MacroF1: 54.50%, 'dispF001': MacroF1: 50.79%, 'dispL002': MacroF1: 47.09%, 'dispL009': MacroF1: 63.37%, 'dispL011': MacroF1: 48.75%}",0.7362629763306634,"dispL005
+          0.0     1.0      
+    0.0   9,131    28,656  
+    1.0     452   140,776  
+
+dispL003
+          0.0       1.0     
+    0.0   110,576    6,304  
+    1.0    34,225   27,802  
+
+dispL006
+          0.0      1.0      
+    0.0   15,571    44,322  
+    1.0   15,678   103,242  
+
+dispL007
+          0.0     1.0      
+    0.0   6,713    34,168  
+    1.0   1,758   136,174  
+
+dispF002
+          0.0   1.0      
+    0.0   862    36,726  
+    1.0   930   140,295  
+
+dispL004
+          0.0      1.0      
+    0.0   22,370     1,764  
+    1.0    2,026   152,553  
+
+dispL010
+          0.0       1.0     
+    0.0   110,736    6,610  
+    1.0    24,793   36,336  
+
+dispL001
+          0.0   1.0      
+    0.0    61    17,183  
+    1.0     0   161,015  
+
+dispL008
+          0.0      1.0     
+    0.0   56,010   37,176  
+    1.0   43,398   41,653  
+
+dispF001
+          0.0   1.0      
+    0.0   120     6,614  
+    1.0    36   171,297  
+
+dispL002
+          0.0      1.0     
+    0.0   10,245   62,427  
+    1.0   10,293   94,439  
+
+dispL009
+          0.0      1.0      
+    0.0   12,145    24,982  
+    1.0   12,248   127,522  
+
+dispL011
+          0.0   1.0      
+    0.0     1     8,664  
+    1.0    18   167,680  "
+ExtremelyFastDecisionTreeClassifier,3,16,16,0.24735163383876915,"{'dispL005': MacroF1: 62.88%, 'dispL003': MacroF1: 65.51%, 'dispL006': MacroF1: 55.71%, 'dispL007': MacroF1: 56.03%, 'dispF002': MacroF1: 46.20%, 'dispL004': MacroF1: 95.70%, 'dispL010': MacroF1: 73.95%, 'dispL001': MacroF1: 46.55%, 'dispL008': MacroF1: 54.41%, 'dispF001': MacroF1: 50.82%, 'dispL002': MacroF1: 48.68%, 'dispL009': MacroF1: 64.01%, 'dispL011': MacroF1: 48.86%}",0.723953755243032,"dispL005
+          0.0     1.0      
+    0.0   9,131    32,724  
+    1.0     452   153,563  
+
+dispL003
+          0.0       1.0     
+    0.0   113,320    6,304  
+    1.0    48,336   27,802  
+
+dispL006
+          0.0      1.0      
+    0.0   15,571    47,942  
+    1.0   15,678   116,477  
+
+dispL007
+          0.0     1.0      
+    0.0   6,713    39,813  
+    1.0   1,758   147,384  
+
+dispF002
+          0.0   1.0      
+    0.0   862    39,765  
+    1.0   930   154,111  
+
+dispL004
+          0.0      1.0      
+    0.0   25,418     1,924  
+    1.0    2,132   166,094  
+
+dispL010
+          0.0       1.0     
+    0.0   116,723    6,610  
+    1.0    35,661   36,336  
+
+dispL001
+          0.0   1.0      
+    0.0    61    26,711  
+    1.0     0   168,342  
+
+dispL008
+          0.0      1.0     
+    0.0   56,010   42,278  
+    1.0   46,590   50,214  
+
+dispF001
+          0.0   1.0      
+    0.0   120     6,754  
+    1.0    36   188,012  
+
+dispL002
+          0.0      1.0      
+    0.0   10,245    62,427  
+    1.0   10,293   111,294  
+
+dispL009
+          0.0      1.0      
+    0.0   12,145    25,016  
+    1.0   12,248   144,343  
+
+dispL011
+          0.0   1.0      
+    0.0     1     8,664  
+    1.0    18   184,535  "
+ExtremelyFastDecisionTreeClassifier,3,17,17,0.24418245393068233,"{'dispL005': MacroF1: 61.22%, 'dispL003': MacroF1: 60.87%, 'dispL006': MacroF1: 54.98%, 'dispL007': MacroF1: 53.85%, 'dispF002': MacroF1: 45.62%, 'dispL004': MacroF1: 96.09%, 'dispL010': MacroF1: 69.71%, 'dispL001': MacroF1: 46.67%, 'dispL008': MacroF1: 57.26%, 'dispF001': MacroF1: 50.58%, 'dispL002': MacroF1: 49.85%, 'dispL009': MacroF1: 64.48%, 'dispL011': MacroF1: 48.95%}",0.7151859622752172,"dispL005
+          0.0     1.0      
+    0.0   9,131    37,168  
+    1.0     452   165,006  
+
+dispL003
+          0.0       1.0     
+    0.0   115,133    6,304  
+    1.0    62,410   27,802  
+
+dispL006
+          0.0      1.0      
+    0.0   15,571    52,994  
+    1.0   15,678   127,312  
+
+dispL007
+          0.0     1.0      
+    0.0   6,713    47,579  
+    1.0   1,758   155,505  
+
+dispF002
+          0.0   1.0      
+    0.0   862    45,372  
+    1.0   930   164,391  
+
+dispL004
+          0.0      1.0      
+    0.0   29,775     2,007  
+    1.0    2,233   177,440  
+
+dispL010
+          0.0       1.0     
+    0.0   121,249    6,610  
+    1.0    47,022   36,336  
+
+dispL001
+          0.0   1.0      
+    0.0    61    27,978  
+    1.0     0   182,962  
+
+dispL008
+          0.0      1.0     
+    0.0   56,010   43,421  
+    1.0   46,590   64,958  
+
+dispF001
+          0.0   1.0      
+    0.0   120     7,669  
+    1.0    36   202,984  
+
+dispL002
+          0.0      1.0      
+    0.0   10,245    62,499  
+    1.0   10,293   127,109  
+
+dispL009
+          0.0      1.0      
+    0.0   12,145    25,102  
+    1.0   12,248   160,144  
+
+dispL011
+          0.0   1.0      
+    0.0     1     8,664  
+    1.0    18   200,422  "
+ExtremelyFastDecisionTreeClassifier,3,18,18,0.24205191761926947,"{'dispL005': MacroF1: 59.36%, 'dispL003': MacroF1: 57.81%, 'dispL006': MacroF1: 53.79%, 'dispL007': MacroF1: 52.65%, 'dispF002': MacroF1: 45.98%, 'dispL004': MacroF1: 96.32%, 'dispL010': MacroF1: 67.23%, 'dispL001': MacroF1: 46.61%, 'dispL008': MacroF1: 58.61%, 'dispF001': MacroF1: 50.61%, 'dispL002': MacroF1: 50.65%, 'dispL009': MacroF1: 64.83%, 'dispL011': MacroF1: 49.01%}",0.7097189855041135,"dispL005
+          0.0     1.0      
+    0.0   9,131    42,548  
+    1.0     452   172,254  
+
+dispL003
+          0.0       1.0     
+    0.0   116,726    6,304  
+    1.0    73,445   27,802  
+
+dispL006
+          0.0      1.0      
+    0.0   15,571    59,076  
+    1.0   15,678   133,858  
+
+dispL007
+          0.0     1.0      
+    0.0   6,713    52,992  
+    1.0   1,758   162,720  
+
+dispF002
+          0.0   1.0      
+    0.0   862    45,566  
+    1.0   930   176,825  
+
+dispL004
+          0.0      1.0      
+    0.0   33,581     2,112  
+    1.0    2,311   186,079  
+
+dispL010
+          0.0       1.0     
+    0.0   125,893    6,610  
+    1.0    55,006   36,336  
+
+dispL001
+          0.0   1.0      
+    0.0    61    29,999  
+    1.0     0   193,569  
+
+dispL008
+          0.0      1.0     
+    0.0   56,010   45,242  
+    1.0   46,590   75,765  
+
+dispF001
+          0.0   1.0      
+    0.0   120     7,734  
+    1.0    36   215,547  
+
+dispL002
+          0.0      1.0      
+    0.0   10,245    62,499  
+    1.0   10,293   139,737  
+
+dispL009
+          0.0      1.0      
+    0.0   12,145    25,102  
+    1.0   12,248   172,772  
+
+dispL011
+          0.0   1.0      
+    0.0     1     8,664  
+    1.0    18   213,050  "

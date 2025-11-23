@@ -1,0 +1,1 @@
+This folder stores the trained models and the tables resulting from data processing.
