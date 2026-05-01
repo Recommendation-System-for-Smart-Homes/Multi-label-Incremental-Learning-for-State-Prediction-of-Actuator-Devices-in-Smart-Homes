@@ -46,20 +46,19 @@ Under the following conditions:
 For the full legal text, please refer to the [LICENSE](LICENSE) file in this repository.
 
 
-## 🏷️ Citations (In progress)
-
-🚧 🚧 🚧 🚧
+## 🏷️ Citations
 
 
 if you find the code or data is useful, please cite our work:
-
-@article{xxxxxx, ****
-  title={Multi-label Incremental Learning for State Prediction of Actuator Devices in Smart Homes}, <br>
-  author={xxx, xxxx, xxxxx, and xxxx}, <br>
-  journal={xxxxxx}, <br>
-  year={xxxx}, <br>
-  publisher={xxxxxxxx} <br>
-}
-
-
-🚧 🚧 🚧 🚧
+```
+@ARTICLE{11447389,
+  author={Oliveira, Mayki dos Santos and da Silva, Eduardo Ferreira and Boaventura, Denis Robson Dantas and Pires, Joel Machado and Copque, Isaque Santana and da Silva, Diego Corrêa and Rios, Ricardo Araújo and Machado, Ivan do Carmo and Prazeres, Cássio Vinicius Serafim and Peixoto, Maycon Leone Maciel and Figueiredo, Gustavo Bittencourt and de Almeida, Eduardo Santana and Durão, Frederico Araújo},
+  journal={IEEE Open Journal of the Computer Society}, 
+  title={Multi-Label Incremental Learning for State Prediction of Actuator Devices in Smart Homes}, 
+  year={2026},
+  volume={7},
+  number={},
+  pages={599-610},
+  keywords={Smart homes;Predictive models;Incremental learning;Data models;Adaptation models;Prediction algorithms;Actuators;Deep learning;Taxonomy;Scalability;Smart homes;Internet of Things;incremental learning;multi-label;smart devices},
+  doi={10.1109/OJCS.2026.3675959}}
+```
